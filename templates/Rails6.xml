@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="Rails">
+  <template name="vpif" value="validates_presence_of :$ATTRIBUTE$, :on =&gt; &quot;$CREATE$&quot;, :message =&gt; &quot;$MESSAGE$&quot;, :if =&gt; proc { |obj| $OBJECT_CONDITION$ }" description="validates presence of with object condition" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="script" value="&lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&#10;$SELECTION$&#10;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>
+

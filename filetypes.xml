@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="poo" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="v2_challenges_helper" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="RHTML" />
+      <mapping pattern="runner" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
+
