@@ -34088,16 +34088,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-1.4.0/lib" />
       </SOURCES>
     </library>
-    <library name="spring (v1.7.1, rbenv: 2.2.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-1.7.1/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-1.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-1.7.1/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-1.7.1/lib" />
-      </SOURCES>
-    </library>
     <library name="spring-commands-cucumber (v1.0.1, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-commands-cucumber-1.0.1/lib" />
