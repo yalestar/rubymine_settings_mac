@@ -1,5 +1,17 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl meta equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl meta 0" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -9,4 +21,7 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
 </keymap>
