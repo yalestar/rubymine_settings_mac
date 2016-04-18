@@ -1,4 +1,11 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta minus" />
   </action>
@@ -8,6 +15,8 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta 0" />
   </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -20,7 +29,19 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Images.Thumbnails.Hide" />
   <action id="ParameterInfo" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
   <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
