@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -7,13 +11,25 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta minus" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -24,9 +40,19 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta 0" />
   </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
@@ -51,7 +77,15 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Resume">
@@ -81,7 +115,12 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Switcher" />
   <action id="ToggleBookmark" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
