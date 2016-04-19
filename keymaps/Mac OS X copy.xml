@@ -43,7 +43,17 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Images.Thumbnails.Hide" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="ParameterInfo" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
