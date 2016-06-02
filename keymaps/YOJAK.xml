@@ -1,0 +1,13 @@
+<keymap version="1" name="YOJAK" parent="Mac OS X">
+  <action id="ForceStepOver" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
+</keymap>
