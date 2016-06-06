@@ -1564,6 +1564,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-associations (v0.1.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-associations-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-associations-0.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-associations-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-associations-0.1.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v1.15.6, Ruby SDK 1.8.7 (/usr/bin/ruby)) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/activerecord-1.15.6/lib" />
@@ -12273,6 +12283,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday-0.9.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday-0.9.1/script" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v0.10.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday_middleware-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday_middleware-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday_middleware (v0.3.2, RVM: ruby-1.9.2-p180) [gem]">
@@ -28027,6 +28045,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/rest-client-1.6.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/rest-client-1.6.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="restforce (v2.2.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/restforce-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/restforce-2.2.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/restforce-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/restforce-2.2.0/script" />
       </SOURCES>
     </library>
     <library name="restful_json (v4.2.0, rbenv: 1.9.3-p429) [gem]">
