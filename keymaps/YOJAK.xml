@@ -18,15 +18,18 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
-  <action id="EditorScrollBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
+  <action id="EditorMoveToPageTop" />
   <action id="EditorScrollDown" />
-  <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
