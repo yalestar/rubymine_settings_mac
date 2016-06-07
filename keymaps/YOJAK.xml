@@ -5,10 +5,30 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="ForceStepOver" />
   <action id="GotoClass">
@@ -34,6 +54,8 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -57,4 +79,5 @@
   </action>
   <action id="Switcher" />
   <action id="ToggleBookmark" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
