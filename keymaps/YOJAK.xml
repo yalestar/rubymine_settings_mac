@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -103,4 +106,7 @@
     <keyboard-shortcut first-keystroke="shift meta f10" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
 </keymap>
