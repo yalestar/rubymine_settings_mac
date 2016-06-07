@@ -1,4 +1,8 @@
 <keymap version="1" name="YOJAK" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -6,13 +10,21 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Open" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
@@ -42,6 +54,7 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Jdbc.OpenConsole" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -82,5 +95,12 @@
   </action>
   <action id="Switcher" />
   <action id="ToggleBookmark" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
