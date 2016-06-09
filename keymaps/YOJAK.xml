@@ -48,6 +48,17 @@
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
   <action id="ForceStepOver" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -55,17 +66,23 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="GotoRow" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="Jdbc.OpenConsole" />
+  <action id="NextEditorTab" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
