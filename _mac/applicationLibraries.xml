@@ -21143,6 +21143,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/ngmin-rails-0.4.0/vendor" />
       </SOURCES>
     </library>
+    <library name="nifty-generators (v0.4.6, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nifty-generators-0.4.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nifty-generators-0.4.6/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nifty-generators-0.4.6/rails_generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nifty-generators-0.4.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nifty-generators-0.4.6/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nifty-generators-0.4.6/rails_generators" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v1.0.0, rbenv: 2.0.0-p247) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/nio4r-1.0.0/ext" />
@@ -31755,6 +31767,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/seed-fu-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="seed-fu (v2.3.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/seed-fu-2.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/seed-fu-2.3.5/lib" />
       </SOURCES>
     </library>
     <library name="select2-rails (v3.2.1, rbenv: 1.9.3-p429) [gem]">
