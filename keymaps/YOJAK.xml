@@ -73,6 +73,12 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="Jdbc.OpenConsole" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
