@@ -32027,6 +32027,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/selenium-webdriver-2.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v0.15.6, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-0.15.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-0.15.6/lib" />
+      </SOURCES>
+    </library>
     <library name="sequel (v3.20.0, RVM: ruby-1.9.2-p180 [rails30]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@rails30/gems/sequel-3.20.0/bin" />
