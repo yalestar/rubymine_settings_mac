@@ -34,6 +34,18 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorMoveToPageTop" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
@@ -80,15 +92,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="NextEditorTab" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
+  <action id="NextTab" />
   <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
