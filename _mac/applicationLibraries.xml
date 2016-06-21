@@ -10841,6 +10841,82 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/eeepub-with-cover-support-0.8.7/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v1.0.17@f5a608, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v1.0.17@f5a608, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-api/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-api/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-api/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-api/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-dsl (v0.1.3@f5a608, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-dsl/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-dsl/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-extensions (v0.0.21@f5a608, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-extensions/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-extensions/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-model (v0.1.9@ceef80, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-model/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-model/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-model/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-model/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-persistence (v0.1.9@ceef80, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-persistence/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-persistence/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v0.1.9@ceef80, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-rails/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-rails/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v1.0.17@f5a608, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-transport/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-transport/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-watcher (v0.0.1@f5a608, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-watcher/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-watcher/lib" />
+      </SOURCES>
+    </library>
     <library name="em-redis (v0.3.0, RVM: ruby-1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/em-redis-0.3.0/lib" />
