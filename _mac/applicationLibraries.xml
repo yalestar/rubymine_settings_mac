@@ -9001,6 +9001,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta7/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta8, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/debase-0.2.2.beta8/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.9.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/debase-ruby_core_source-0.9.0/lib" />
@@ -10841,12 +10851,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/eeepub-with-cover-support-0.8.7/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v1.0.17, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-1.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-1.0.17/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch (v1.0.17@f5a608, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v1.0.17, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-1.0.17/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-1.0.17/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-1.0.17/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-1.0.17/utils" />
       </SOURCES>
     </library>
     <library name="elasticsearch-api (v1.0.17@f5a608, rbenv: 2.2.4) [gem]">
@@ -10875,6 +10903,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-extensions/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-model (v0.1.9, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-model (v0.1.9@ceef80, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-model/lib" />
@@ -10893,12 +10931,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-persistence/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-rails (v0.1.9, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-rails-0.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-rails-0.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-rails (v0.1.9@ceef80, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-rails/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-rails-ceef80eafce6/elasticsearch-rails/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v1.0.17, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-transport-1.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-transport-1.0.17/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v1.0.17@f5a608, rbenv: 2.2.4) [gem]">
@@ -14423,6 +14477,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashie-3.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.4.4, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashie-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="heroku (v2.24.1, RVM: ruby-1.9.2-p180 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@global/gems/heroku-2.24.1/bin" />
@@ -17639,6 +17701,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/kaminari-0.15.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v0.17.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kaminari-0.17.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kgio (v2.10.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/ext" />
@@ -18031,6 +18107,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/libv8-3.11.8.17-x86_64-darwin-12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/libv8-3.11.8.17-x86_64-darwin-12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/libv8-3.11.8.17-x86_64-darwin-12/vendor" />
+      </SOURCES>
+    </library>
+    <library name="libv8 (v3.16.14.15, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/libv8-3.16.14.15-x86_64-darwin-15/vendor" />
       </SOURCES>
     </library>
     <library name="libv8 (v3.16.14.3, rbenv: 2.0.0-p247) [gem]">
@@ -19021,6 +19109,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/metaclass-0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="metaclass (v0.0.4, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/metaclass-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/metaclass-0.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.6.0, RVM: ruby-1.9.2-p180) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/method_source-0.6.0/lib" />
@@ -19697,6 +19793,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/mocha-0.13.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/mocha-0.13.3/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/mocha-0.13.3/yard-templates" />
+      </SOURCES>
+    </library>
+    <library name="mocha (v1.1.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/yard-templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mocha-1.1.0/yard-templates" />
       </SOURCES>
     </library>
     <library name="modernizr-rails (v2.7.1, rbenv: 2.2.4) [gem]">
@@ -24107,6 +24217,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429@global/gems/quiet_assets-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="quiet_assets (v1.1.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/quiet_assets-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/quiet_assets-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.0.1, Ruby SDK 1.8.7 (/usr/bin/ruby)) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/rack-1.0.1/bin" />
@@ -28251,6 +28369,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/ref-1.0.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/ref-1.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ref (v2.0.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ref-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="refraction (v0.2.0, rbenv: 1.9.3-p429) [gem]">
@@ -34605,6 +34733,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/therubyracer-0.12.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/therubyracer-0.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
     </library>
     <library name="therubyracer (v0.9.10, rbenv: 1.9.3-p429) [gem]">
