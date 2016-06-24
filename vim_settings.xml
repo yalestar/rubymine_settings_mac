@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1466725873996">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1466726840615">
+      <file name="/Ruby Console" timestamp="1466803228464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/review_request.rb" timestamp="1466726810702">
@@ -14,16 +14,26 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/review_request_spec.rb" timestamp="1466803215520" />
+      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_case.rb" timestamp="1466803220119">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/restforce-2.2.0/lib/restforce/middleware/authentication.rb" timestamp="1466803187446" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>set_case_id</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>set_case_id</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAjIGhhbmRsZV9hc3luY2hyb25vdXNseSA6Y3JlYXRlX3NhbGVzZm9yY2VfY2FzZQo=</text>
       </register>
       <register name="-" type="4">
