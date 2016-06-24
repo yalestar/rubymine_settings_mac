@@ -3,12 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Ruby Console" timestamp="1466639009691">
+      <file name="/Dummy.txt" timestamp="1466725873996">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1466726840615">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/review_request.rb" timestamp="1466726810702">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>set_case_id</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>set_case_id</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAjIGhhbmRsZV9hc3luY2hyb25vdXNseSA6Y3JlYXRlX3NhbGVzZm9yY2VfY2FzZQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>set_case_id</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
