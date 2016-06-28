@@ -6,21 +6,19 @@
       <file name="/Dummy.txt" timestamp="1466725873996">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1467147077867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Ruby Console" timestamp="1467147358658">
+      <file name="/Ruby Console" timestamp="1467149044392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1467146971764">
         <mark key="[" line="58" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467147350752">
+      <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="54" />
-        <mark key="." line="26" column="54" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+        <mark key="^" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467147009612" />
+      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467148678733" />
       <file name="$USER_HOME$/dev/paladin/app/models/salesforce_case.rb" timestamp="1466803220119">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
