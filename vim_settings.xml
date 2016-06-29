@@ -9,20 +9,11 @@
       <file name="/Ruby Console" timestamp="1467149044392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1467146971764">
-        <mark key="[" line="58" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
         <mark key="^" line="26" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467148678733" />
-      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_case.rb" timestamp="1466803220119">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/shared/_google_analytics.html.haml" timestamp="1467134590378">
         <mark key="[" line="9" column="44" />
@@ -33,6 +24,11 @@
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="29" />
         <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_case.rb" timestamp="1466803220119">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps />
