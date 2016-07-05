@@ -1,39 +1,24 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1466725873996">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_account.rb" timestamp="1467324925115" />
+      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_account.rb" timestamp="1467751028062" />
       <file name="/fragment.rb" timestamp="1467319942763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Ruby Console" timestamp="1467319939150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_contact_job.rb" timestamp="1467324725419">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="12" column="4" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_contact_job.rb" timestamp="1467751042397" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
         <mark key="^" line="26" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/shared/_google_analytics.html.haml" timestamp="1467134590378">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="44" />
-        <mark key="." line="9" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_case_job.rb" timestamp="1467134574270">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467319359821">
         <mark key="[" line="54" column="6" />
@@ -44,6 +29,16 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/shared/_google_analytics.html.haml" timestamp="1467134590378">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_case_job.rb" timestamp="1467134574270">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
     </filemarks>
     <jumps />
