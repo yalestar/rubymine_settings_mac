@@ -8085,6 +8085,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/connection_pool-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="countries (v1.2.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/countries-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/countries-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="coveralls (v0.6.7, RVM: ruby-1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/coveralls-0.6.7/bin" />
@@ -8575,6 +8583,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/curb-0.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/curb-0.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/curb-0.8.3/tests" />
+      </SOURCES>
+    </library>
+    <library name="currencies (v0.4.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/currencies-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/currencies-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="daemons (v1.0.10, Ruby SDK 1.8.7 (/usr/bin/ruby)) [gem]">
@@ -15555,6 +15571,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n_data (v0.7.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/cache" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n_data-0.7.0/cache" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.1, rbenv: 2.2.4) [gem]">
