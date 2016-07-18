@@ -14473,6 +14473,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="haml-lint (v0.999.999, rbenv: 2.2.4) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="haml-rails (v0.4, rbenv: 1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/haml-rails-0.4/lib" />

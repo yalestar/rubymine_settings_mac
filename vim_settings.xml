@@ -1,19 +1,21 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1466725873996">
+      <file name="/Dummy.txt" timestamp="1468860289694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/salesforce_account.rb" timestamp="1467751028062" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/campaign_alternate_treatments/destroy.js.erb" timestamp="1468859503351" />
       <file name="/fragment.rb" timestamp="1467319942763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1467319939150">
+      <file name="/Ruby Console" timestamp="1468859872659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_contact_job.rb" timestamp="1467751042397" />
+      <file name="/a.dummy" timestamp="1468859434965">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="53" />
@@ -30,6 +32,19 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/comments_controller.rb" timestamp="1468859764125" />
+      <file name="$USER_HOME$/dev/paladin/app/datatables/campaigns_datatable.rb" timestamp="1468859490757" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/campaigns/destroy.js.erb" timestamp="1468859573862">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/campaigns_controller_spec.rb" timestamp="1468860153860">
+        <mark key="[" line="53" column="44" />
+        <mark key="]" line="58" column="43" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="58" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/shared/_google_analytics.html.haml" timestamp="1467134590378">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="44" />
@@ -40,41 +55,56 @@
         <mark key="]" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" timestamp="1468860107760">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1468859852373">
+        <mark key="[" line="22" column="5" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>info</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>Alternate treatment deleted</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>info</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>, require: false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text>, require: false</text>
       </register>
       <register name="7" type="4">
-        <text>se</text>
+        <text>, require: false</text>
       </register>
       <register name="8" type="4">
-        <text>self.</text>
+        <text>se</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>self.</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>Alternate treatment deleted</text>
       </register>
     </registers>
     <search>
@@ -87,7 +117,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
