@@ -6,11 +6,10 @@
       <file name="/Dummy.txt" timestamp="1468860289694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/campaign_alternate_treatments/destroy.js.erb" timestamp="1468859503351" />
       <file name="/fragment.rb" timestamp="1467319942763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1468859872659">
+      <file name="/Ruby Console" timestamp="1468881870793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1468859434965">
@@ -32,8 +31,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/comments_controller.rb" timestamp="1468859764125" />
-      <file name="$USER_HOME$/dev/paladin/app/datatables/campaigns_datatable.rb" timestamp="1468859490757" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/campaigns/destroy.js.erb" timestamp="1468859573862">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="12" />
@@ -44,6 +41,20 @@
         <mark key="]" line="58" column="43" />
         <mark key="^" line="58" column="43" />
         <mark key="." line="58" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/tiny/config/tinymce.yml" timestamp="1468881867546">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
+        <mark key="[" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/views/users/_form.html.erb" timestamp="1468881497075">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/shared/_google_analytics.html.haml" timestamp="1467134590378">
         <mark key="[" line="9" column="44" />
@@ -71,37 +82,38 @@
       <jump line="31" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
+      <jump line="5" column="1" filename="$USER_HOME$/dev/EXAMPLES/tiny/config/tinymce.yml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Alternate treatment deleted</text>
+        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
       </register>
-      <register name="2" type="4">
-        <text>info</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>info</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>, require: false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
         <text>, require: false</text>
       </register>
       <register name="8" type="4">
-        <text>se</text>
+        <text>, require: false</text>
       </register>
       <register name="9" type="4">
-        <text>self.</text>
+        <text>se</text>
       </register>
       <register name="-" type="4">
         <text>Alternate treatment deleted</text>
