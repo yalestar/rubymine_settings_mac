@@ -1,11 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1468860289694">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1469042571909" />
       <file name="/fragment.rb" timestamp="1467319942763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,6 +76,12 @@
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1468859852373">
         <mark key="[" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/registrations_controller.rb" timestamp="1469043075445">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="7" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -85,38 +92,38 @@
       <jump line="5" column="1" filename="$USER_HOME$/dev/EXAMPLES/tiny/config/tinymce.yml" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>info</text>
+        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>, require: false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>, require: false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>se</text>
+        <text>, require: false</text>
       </register>
       <register name="-" type="4">
-        <text>Alternate treatment deleted</text>
+        <text encoding="base64">YXMsIA==</text>
       </register>
     </registers>
     <search>

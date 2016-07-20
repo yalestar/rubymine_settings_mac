@@ -4473,6 +4473,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.0.3/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.3.6.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.6.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="autoprefixer-rails (v6.3.7, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.3.7/lib" />
@@ -13379,6 +13389,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/font-awesome-rails-4.4.0.0/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/font-awesome-rails-4.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-rails (v4.6.3.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/font-awesome-rails-4.6.3.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/font-awesome-rails-4.6.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/font-awesome-rails-4.6.3.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/font-awesome-rails-4.6.3.0/lib" />
       </SOURCES>
     </library>
     <library name="font-awesome-sass-rails (v3.0.2.2, RVM: ruby-1.9.3-p429) [gem]">
@@ -26509,6 +26529,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-settings-cached (v0.6.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-settings-cached-0.6.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-settings-cached-0.6.5/lib" />
       </SOURCES>
     </library>
     <library name="rails_12factor (v0.0.2, rbenv: 1.9.3-p429) [gem]">
