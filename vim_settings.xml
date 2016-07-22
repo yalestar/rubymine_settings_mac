@@ -1,26 +1,37 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1468860289694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1469042571909" />
       <file name="/fragment.rb" timestamp="1467319942763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1468881870793">
+      <file name="/Ruby Console" timestamp="1469219270763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1468859434965">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/controllers/articles_controller.rb" timestamp="1469219612586">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
         <mark key="^" line="26" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/Gemfile" timestamp="1469218681889">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467319359821">
         <mark key="[" line="54" column="6" />
@@ -32,10 +43,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/models/article.rb" timestamp="1469219666060" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/campaigns/destroy.js.erb" timestamp="1468859573862">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
+        <mark key="[" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/campaigns_controller_spec.rb" timestamp="1468860153860">
         <mark key="[" line="53" column="44" />
@@ -93,37 +108,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">CiAgIyBTcHJpbmcgc3BlZWRzIHVwIGRldmVsb3BtZW50IGJ5IGtlZXBpbmcgeW91ciBhcHBsaWNhdGlvbiBydW5uaW5nIGluIHRoZSBiYWNrZ3JvdW5kLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9zcHJpbmcK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
+        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgVW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgojIGdlbSAndW5pY29ybicKCiMgVXNlIENhcGlzdHJhbm8gZm9yIGRlcGxveW1lbnQKIyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>info</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
       </register>
       <register name="9" type="4">
-        <text>, require: false</text>
+        <text>info</text>
+      </register>
+      <register name=":" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXMsIA==</text>
+        <text>all</text>
       </register>
     </registers>
     <search>
@@ -132,13 +150,18 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>5</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
