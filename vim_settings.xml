@@ -43,7 +43,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/models/article.rb" timestamp="1469219666060" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/campaigns/destroy.js.erb" timestamp="1468859573862">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="12" />
@@ -96,6 +95,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/models/concerns/searchable.rb" timestamp="1469459555553">
+        <mark key="." line="0" column="17" />
       </file>
     </filemarks>
     <jumps>
