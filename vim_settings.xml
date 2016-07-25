@@ -21,6 +21,7 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_contact_job.rb" timestamp="1469489556617" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="53" />
@@ -113,7 +114,7 @@
         <text encoding="base64">CiAgIyBTcHJpbmcgc3BlZWRzIHVwIGRldmVsb3BtZW50IGJ5IGtlZXBpbmcgeW91ciBhcHBsaWNhdGlvbiBydW5uaW5nIGluIHRoZSBiYWNrZ3JvdW5kLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9zcHJpbmcK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>all</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
@@ -143,7 +144,7 @@
         <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text />
       </register>
     </registers>
     <search>
