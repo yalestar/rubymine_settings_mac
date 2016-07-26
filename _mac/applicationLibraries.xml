@@ -4767,6 +4767,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/aws-sdk-resources-2.1.25/lib" />
       </SOURCES>
     </library>
+    <library name="aws_cloud_search (v0.0.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/aws_cloud_search-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/aws_cloud_search-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="axiom-types (v0.1.1, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/axiom-types-0.1.1/lib" />

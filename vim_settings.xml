@@ -6,13 +6,13 @@
       <file name="/Dummy.txt" timestamp="1468860289694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1467319942763">
+      <file name="/fragment.rb" timestamp="1469491365878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1469219270763">
+      <file name="/Ruby Console" timestamp="1469491297354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1468859434965">
+      <file name="/a.dummy" timestamp="1469490561216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/controllers/articles_controller.rb" timestamp="1469219612586">
@@ -21,7 +21,13 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_contact_job.rb" timestamp="1469489556617" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_contact_job.rb" timestamp="1469491564719">
+        <mark key="e" line="42" column="97" />
+        <mark key="[" line="51" column="73" />
+        <mark key="]" line="51" column="71" />
+        <mark key="." line="51" column="71" />
+        <mark key="^" line="51" column="71" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="53" />
@@ -110,41 +116,88 @@
       <jump line="5" column="1" filename="$USER_HOME$/dev/EXAMPLES/tiny/config/tinymce.yml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgIyBTcHJpbmcgc3BlZWRzIHVwIGRldmVsb3BtZW50IGJ5IGtlZXBpbmcgeW91ciBhcHBsaWNhdGlvbiBydW5uaW5nIGluIHRoZSBiYWNrZ3JvdW5kLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9zcHJpbmcK</text>
+      <register name="1" type="4">
+        <text>,
+                   MedSavvy_User_ID__c: @user.id,
+                   FirstName: user_first_name,
+                   LastName: user_last_name,
+                   Email: @user.email,
+                   MedSavvy_Last_Signed_In__c: last_sign_in,
+                   MedSavvy_Signed_Up__c: signup_date,
+                   MedSavvy_Signin_Count__c: @user.sign_in_count,
+                   AccountId: user_account_id,
+                   MedSavvy_Gender_At_Birth__c: gender_at_birth,
+                   MedSavvy_Identifies_As__c: identifies_as,
+                   MailingState: @user.state_code,
+                   BirthDate: @user.birth,
+                   MobilePhone: @user.mobile_phone_number,
+                   MedSavvy_Followed_Conditions__c: conditions,
+                   MedSavvy_Followed_Treatments__c: treatments,
+                   HasOptedOutOfEmail: opted_out_of_email?</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>,
+                   MedSavvy_User_ID__c: @user.id,
+                   FirstName: user_first_name,
+                   LastName: user_last_name,
+                   Email: @user.email,
+                   MedSavvy_Last_Signed_In__c: last_sign_in,
+                   MedSavvy_Signed_Up__c: signup_date,
+                   MedSavvy_Signin_Count__c: @user.sign_in_count,
+                   AccountId: user_account_id,
+                   MedSavvy_Gender_At_Birth__c: gender_at_birth,
+                   MedSavvy_Identifies_As__c: identifies_as,
+                   MailingState: @user.state_code,
+                   BirthDate: @user.birth,
+                   MobilePhone: @user.mobile_phone_number,
+                   MedSavvy_Followed_Conditions__c: conditions,
+                   MedSavvy_Followed_Treatments__c: treatments,
+                   HasOptedOutOfEmail: opted_out_of_email?</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
+      <register name="2" type="4">
+        <text>MedSavvy_User_ID__c: @user.id,
+                             FirstName: user_first_name,
+                             LastName: user_last_name,
+                             Email: @user.email,
+                             MedSavvy_Last_Signed_In__c: last_sign_in,
+                             MedSavvy_Signed_Up__c: signup_date,
+                             MedSavvy_Signin_Count__c: @user.sign_in_count,
+                             AccountId: user_account_id,
+                             MedSavvy_Gender_At_Birth__c: gender_at_birth,
+                             MedSavvy_Identifies_As__c: identifies_as,
+                             MailingState: @user.state_code,
+                             BirthDate: @user.birth,
+                             MobilePhone: @user.mobile_phone_number,
+                             MedSavvy_Followed_Conditions__c: conditions,
+                             MedSavvy_Followed_Treatments__c: treatments,
+                             HasOptedOutOfEmail: opted_out_of_email?</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBiZWdpbg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgVW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgojIGdlbSAndW5pY29ybicKCiMgVXNlIENhcGlzdHJhbm8gZm9yIGRlcGxveW1lbnQKIyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEZpcnN0TmFtZTogdXNlcl9maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgICAgTGFzdE5hbWU6IHVzZXJfbGFzdF9uYW1lLAogICAgICAgICAgICAgICAgICAgRW1haWw6IEB1c2VyLmVtYWlsLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfTGFzdF9TaWduZWRfSW5fX2M6IGxhc3Rfc2lnbl9pbiwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X1NpZ25lZF9VcF9fYzogc2lnbnVwX2RhdGUsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9TaWduaW5fQ291bnRfX2M6IEB1c2VyLnNpZ25faW5fY291bnQsCiAgICAgICAgICAgICAgICAgICBBY2NvdW50SWQ6IHVzZXJfYWNjb3VudF9pZCwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0dlbmRlcl9BdF9CaXJ0aF9fYzogZ2VuZGVyX2F0X2JpcnRoLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfSWRlbnRpZmllc19Bc19fYzogaWRlbnRpZmllc19hcywKICAgICAgICAgICAgICAgICAgIE1haWxpbmdTdGF0ZTogQHVzZXIuc3RhdGVfY29kZSwKICAgICAgICAgICAgICAgICAgIEJpcnRoRGF0ZTogQHVzZXIuYmlydGgsCiAgICAgICAgICAgICAgICAgICBNb2JpbGVQaG9uZTogQHVzZXIubW9iaWxlX3Bob25lX251bWJlciwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0ZvbGxvd2VkX0NvbmRpdGlvbnNfX2M6IGNvbmRpdGlvbnMsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9Gb2xsb3dlZF9UcmVhdG1lbnRzX19jOiB0cmVhdG1lbnRzLAogICAgICAgICAgICAgICAgICAgSGFzT3B0ZWRPdXRPZkVtYWlsOiBvcHRlZF9vdXRfb2ZfZW1haWw/Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICBGaXJzdE5hbWU6IHVzZXJfZmlyc3RfbmFtZSwKICAgICAgICAgICAgICAgICAgIExhc3ROYW1lOiB1c2VyX2xhc3RfbmFtZSwKICAgICAgICAgICAgICAgICAgIEVtYWlsOiBAdXNlci5lbWFpbCwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0xhc3RfU2lnbmVkX0luX19jOiBsYXN0X3NpZ25faW4sCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9TaWduZWRfVXBfX2M6IHNpZ251cF9kYXRlLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfU2lnbmluX0NvdW50X19jOiBAdXNlci5zaWduX2luX2NvdW50LAogICAgICAgICAgICAgICAgICAgQWNjb3VudElkOiB1c2VyX2FjY291bnRfaWQsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9HZW5kZXJfQXRfQmlydGhfX2M6IGdlbmRlcl9hdF9iaXJ0aCwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0lkZW50aWZpZXNfQXNfX2M6IGlkZW50aWZpZXNfYXMsCiAgICAgICAgICAgICAgICAgICBNYWlsaW5nU3RhdGU6IEB1c2VyLnN0YXRlX2NvZGUsCiAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGU6IEB1c2VyLmJpcnRoLAogICAgICAgICAgICAgICAgICAgTW9iaWxlUGhvbmU6IEB1c2VyLm1vYmlsZV9waG9uZV9udW1iZXIsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9Gb2xsb3dlZF9Db25kaXRpb25zX19jOiBjb25kaXRpb25zLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfRm9sbG93ZWRfVHJlYXRtZW50c19fYzogdHJlYXRtZW50cywKICAgICAgICAgICAgICAgICAgIEhhc09wdGVkT3V0T2ZFbWFpbDogb3B0ZWRfb3V0X29mX2VtYWlsPw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">CiAgIyBTcHJpbmcgc3BlZWRzIHVwIGRldmVsb3BtZW50IGJ5IGtlZXBpbmcgeW91ciBhcHBsaWNhdGlvbiBydW5uaW5nIGluIHRoZSBiYWNrZ3JvdW5kLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9zcHJpbmcK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PCEtLTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4tLT4KICA8IS0tdGlueU1DRS5pbml0KHstLT4KICAgIDwhLS1zZXR1cCA6IGZ1bmN0aW9uKGVkKSB7LS0+CiAgICAgIDwhLS1lZC5vbkNoYW5nZS5hZGQoZnVuY3Rpb24oZWQsIGwpIHstLT4KICAgICAgICA8IS0tY29uc29sZS5sb2coJ0VkaXRvciBjb250ZW50cyB3YXMgbW9kaWZpZWQuIENvbnRlbnRzOiAnICsgbC5jb250ZW50KTstLT4KICAgICAgPCEtLX0pOy0tPgogICAgPCEtLX0tLT4KICA8IS0tfSk7LS0+CjwhLS08L3NjcmlwdD4tLT4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fY2FtcGFpZ25zX3BhdGgsIG5vdGljZTogJ0NhbXBhaWduIHdhcyBtYXJrZWQgYXMgZGVsZXRlZC4nCg==</text>
+        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
       </register>
-      <register name="9" type="4">
-        <text>info</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgVW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgojIGdlbSAndW5pY29ybicKCiMgVXNlIENhcGlzdHJhbm8gZm9yIGRlcGxveW1lbnQKIyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ret</text>
       </register>
     </registers>
     <search>
