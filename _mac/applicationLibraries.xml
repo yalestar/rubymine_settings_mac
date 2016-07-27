@@ -1032,6 +1032,16 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/actionwebservice-1.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="active-asari (v0.0.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/active-asari-0.0.2/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/active-asari-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/active-asari-0.0.2/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/active-asari-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="active_attr (v0.7.0, RVM: ruby-1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/active_attr-0.7.0/lib" />
@@ -4181,6 +4191,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/artii-2.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="asari (v0.11.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/asari-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/asari-0.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="Ascii85 (v1.0.0, RVM: ruby-1.9.2-p180) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/Ascii85-1.0.0/bin" />
@@ -4807,11 +4825,13 @@
     </library>
     <library name="bcrypt (v3.1.10, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.10/lib" />
@@ -6085,12 +6105,14 @@
     </library>
     <library name="byebug (v5.0.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/5.0.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/5.0.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/byebug-5.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/byebug-5.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/byebug-5.0.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/5.0.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/5.0.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/byebug-5.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/byebug-5.0.0/ext" />
@@ -6419,6 +6441,7 @@
     </library>
     <library name="capybara-webkit (v1.7.1, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/capybara-webkit/1.7.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/capybara-webkit/1.7.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/capybara-webkit-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/capybara-webkit-1.7.1/lib" />
@@ -6427,6 +6450,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/capybara-webkit-1.7.1/templates" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/capybara-webkit/1.7.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/capybara-webkit/1.7.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/capybara-webkit-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/capybara-webkit-1.7.1/lib" />
@@ -13395,6 +13419,7 @@
     </library>
     <library name="ffi (v1.9.10, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ffi-1.9.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ffi-1.9.10/gen" />
@@ -13402,6 +13427,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ffi-1.9.10/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ffi-1.9.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ffi-1.9.10/gen" />
@@ -13785,6 +13811,7 @@
     </library>
     <library name="gherkin (v2.12.2, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/gherkin/2.12.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/js" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/ext" />
@@ -13794,6 +13821,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/features" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/gherkin/2.12.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/js" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/ext" />
@@ -14053,6 +14081,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.3.7, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/globalid-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
     <library name="gowalla (v0.1.4, Ruby SDK 1.8.7 (/usr/bin/ruby)) [gem]">
@@ -15369,6 +15405,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/httparty-0.13.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/httparty-0.13.0/script" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/httparty-0.13.0/website" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.14.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/httparty-0.14.0/features" />
       </SOURCES>
     </library>
     <library name="httparty (v0.5.2, RVM: ruby-1.9.2-p180) [gem]">
@@ -21221,12 +21273,14 @@
     </library>
     <library name="mysql2 (v0.3.18, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.18" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.3.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.3.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.3.18/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.3.18/support" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.18" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.3.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.3.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.3.18/lib" />
@@ -22205,6 +22259,7 @@
     </library>
     <library name="nokogiri (v1.6.7.2, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.7.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/ext" />
@@ -22214,6 +22269,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.7.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/ext" />
@@ -24657,6 +24713,7 @@
     </library>
     <library name="puma (v2.14.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/2.14.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/2.14.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/puma-2.14.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/puma-2.14.0/ext" />
@@ -24664,6 +24721,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/puma-2.14.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/2.14.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/2.14.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/puma-2.14.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/puma-2.14.0/ext" />
@@ -28581,12 +28639,14 @@
     </library>
     <library name="redcarpet (v3.3.3, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/redcarpet/3.3.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/redcarpet-3.3.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/redcarpet-3.3.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/redcarpet-3.3.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/redcarpet/3.3.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/redcarpet-3.3.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/redcarpet-3.3.3/ext" />
@@ -29395,11 +29455,13 @@
     </library>
     <library name="rinku (v1.5.1, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rinku/1.5.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rinku/1.5.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rinku-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rinku-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rinku/1.5.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rinku/1.5.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rinku-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rinku-1.5.1/lib" />
@@ -29459,12 +29521,14 @@
     </library>
     <library name="rmagick (v2.15.4, rbenv: 2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rmagick/2.15.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rmagick/2.15.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rmagick-2.15.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rmagick-2.15.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rmagick-2.15.4/deprecated" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rmagick/2.15.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rmagick/2.15.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rmagick-2.15.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rmagick-2.15.4/lib" />
