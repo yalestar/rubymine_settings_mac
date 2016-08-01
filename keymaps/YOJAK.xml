@@ -10,6 +10,12 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Open" />
   <action id="ConsoleView.ClearAll">
@@ -24,6 +30,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorCodeBlockStart" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -37,6 +46,9 @@
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="EditorMoveToPageTop" />
   <action id="EditorNextWordInDifferentHumpsMode">
@@ -63,6 +75,12 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
@@ -88,6 +106,12 @@
   </action>
   <action id="GotoRow" />
   <action id="GotoTest" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Jdbc.OpenConsole" />
   <action id="JumpToLastChange">
