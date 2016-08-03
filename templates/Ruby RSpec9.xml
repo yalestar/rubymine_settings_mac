@@ -1,13 +1,5 @@
 <templateSet group="Ruby RSpec">
-  <template name="desc" value="describe $SYSTEM_UNDER_TEST$ do&#10;  before(:each) do&#10;    $SETUP$&#10;  end&#10; &#10;  $CURSOR$&#10;end" description="desc" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="SETUP" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
-  </template>
-  <template name="it" value="it &quot;should $DO_SOME_COOL_STUFF$&quot;" description="it" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="it" value="it &quot;should $DO_SOME_COOL_STUFF$&quot;" description="it" toReformat="true" toShortenFQNames="true">
     <variable name="DO_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="RUBY" value="true" />
@@ -29,6 +21,12 @@
     <variable name="result" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="saop" value="save_and_open_page" description="save_and_open_page" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
     </context>
   </template>
 </templateSet>
