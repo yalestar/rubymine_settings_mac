@@ -3426,6 +3426,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="afm (v0.2.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/afm-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/afm-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="agcod (v0.1.0, rbenv: 1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/agcod-0.1.0/lib" />
@@ -4237,6 +4245,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/Ascii85-1.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/Ascii85-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="Ascii85 (v1.0.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/Ascii85-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/Ascii85-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/Ascii85-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/Ascii85-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="asset_hat (v0.4.2, RVM: ruby-1.9.2-p180) [gem]">
@@ -14961,6 +14979,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashdiff-0.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="hashery (v2.1.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashery-2.1.2/alt" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashery-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashery-2.1.2/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashery-2.1.2/alt" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashery-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/hashery-2.1.2/demo" />
+      </SOURCES>
+    </library>
     <library name="hashie (v0.4.0, Ruby SDK 1.8.7 (/usr/bin/ruby)) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/1.8/gems/hashie-0.4.0/lib" />
@@ -16191,6 +16221,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.1/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="ice_nine (v0.11.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ice_nine-0.11.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="image_optim (v0.8.0, RVM: ruby-1.9.3-p429) [gem]">
@@ -23485,6 +23527,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-core-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="pdf-inspector (v1.2.1, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-inspector-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-inspector-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pdf-reader (v0.10.0, RVM: ruby-1.9.2-p180) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/pdf-reader-0.10.0/bin" />
@@ -23523,6 +23573,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/pdf-reader-0.9.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/pdf-reader-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-reader (v1.4.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-reader-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-reader-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-reader-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pdf-reader-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="permitters (v0.0.1, rbenv: 1.9.3-p429) [gem]">
@@ -31617,6 +31677,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/ruby-protocol-buffers-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/ruby-protocol-buffers-1.5.1/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/ruby-protocol-buffers-1.5.1/debian" />
+      </SOURCES>
+    </library>
+    <library name="ruby-rc4 (v0.1.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-rc4-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-rc4-0.1.5/lib" />
       </SOURCES>
     </library>
     <library name="ruby-units (v1.4.2, RVM: ruby-1.9.3-p429) [gem]">
