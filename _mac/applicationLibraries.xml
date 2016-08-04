@@ -1052,6 +1052,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p429/gems/active_attr-0.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="active_data (v0.3.0@be1197, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/active_data-be11978f5897/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/active_data-be11978f5897/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/active_data-be11978f5897/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/active_data-be11978f5897/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.7.0, rbenv: 1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/active_model_serializers-0.7.0/lib" />
