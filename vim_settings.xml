@@ -3,10 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Ruby Console" timestamp="1469661671389">
+      <file name="$USER_HOME$/dev/paladin/app/views/conditions/_form.html.erb" timestamp="1470417332578">
+        <mark key="[" line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/custom.js" timestamp="1470417483352">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="16" column="56" />
+        <mark key="." line="17" column="13" />
+      </file>
+      <file name="/Ruby Console" timestamp="1470417270599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1469490561216">
+      <file name="/a.dummy" timestamp="1470417349302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467319359821">
@@ -93,6 +102,7 @@
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/treatments/_condition_treatment_fields.html.erb" timestamp="1470417366002" />
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
       </file>
@@ -123,8 +133,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGl0ICJsb2dzIHRoZSBlcnJvciBhbmQgZG9lcyBjYWxsIHVwZGF0ZV91c2VyIiBkbwogICAgICBleHBlY3Qoc3ViamVjdCkudG8gcmVjZWl2ZSg6dXBkYXRlX3VzZXIpLm9uY2UK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGl0ICJsb2dzIHRoZSBlcnJvciBhbmQgZG9lcyBjYWxsIHVwZGF0ZV91c2VyIiBkbwogICAgICBleHBlY3Qoc3ViamVjdCkudG8gcmVjZWl2ZSg6dXBkYXRlX3VzZXIpLm9uY2UK</text>
+      <register name="&quot;" type="4">
+        <text>$('form.edit_treatment,form.new_treatment');</text>
       </register>
       <register name="2" type="4">
         <text>,
@@ -185,7 +195,7 @@
         <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>ret</text>
+        <text>$('form.edit_treatment,form.new_treatment');</text>
       </register>
     </registers>
     <search>
