@@ -14,4 +14,11 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
+  <template name="ero" value="&lt;%  %&gt;" description="ERB output" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="true" />
+      <option name="HAML" value="true" />
+    </context>
+  </template>
 </templateSet>
