@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Ruby Console" timestamp="1469661671389">
@@ -90,7 +90,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday-0.9.1/lib/faraday/request.rb" timestamp="1469661140710" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,7 +101,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/aws_cloud_search-0.0.2/lib/aws_cloud_search/cloud_search.rb" timestamp="1469661757386" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" timestamp="1468860107760">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="10" column="19" />
