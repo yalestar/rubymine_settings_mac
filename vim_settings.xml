@@ -63,8 +63,8 @@
         <mark key="]" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/_form.html.haml" timestamp="1470418714155">
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/_form.html.haml" timestamp="1470430735095">
+        <mark key="[" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/registrations_controller.rb" timestamp="1469043075445">
         <mark key="[" line="33" column="0" />
