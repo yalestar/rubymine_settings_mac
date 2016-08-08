@@ -8,7 +8,7 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Ruby Console" timestamp="1470690808215">
+      <file name="/Ruby Console" timestamp="1470696822923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1470690744503">
@@ -37,6 +37,9 @@
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1470696879437">
+        <mark key="[" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -72,7 +75,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1470689704718">
+      <file name="/fragment.rb" timestamp="1470696870108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
