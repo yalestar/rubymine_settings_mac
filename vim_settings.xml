@@ -38,7 +38,6 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1470687147459" />
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
       </file>
@@ -78,13 +77,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/search_filters.rb" timestamp="1470686861832" />
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/sanitizable_fields.rb" timestamp="1470615257523">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1470687043621" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +90,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1470690806844" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470689709755">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="36" />
@@ -122,10 +118,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">SlNPTi5wcmV0dHlfZ2VuZXJhdGUoVHJlYXRtZW50LnNldHRpbmdzLmFzX2pzb24pIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">SlNPTi5wcmV0dHlfZ2VuZXJhdGUoVHJlYXRtZW50LnNldHRpbmdzLmFzX2pzb24pIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
@@ -189,7 +185,7 @@
                              HasOptedOutOfEmail: opted_out_of_email?</text>
       </register>
       <register name=":" type="4">
-        <text>92</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
@@ -203,6 +199,7 @@
         <entry>14</entry>
         <entry>54</entry>
         <entry>92</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
