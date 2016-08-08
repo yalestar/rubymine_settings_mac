@@ -8,16 +8,16 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Ruby Console" timestamp="1470688857973">
+      <file name="/Ruby Console" timestamp="1470689716439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470685930976">
+      <file name="/a.dummy" timestamp="1470690062791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
         <mark key="[" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470686476010">
+      <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470689697303">
         <mark key="[" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467319359821">
@@ -38,6 +38,7 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/edit.js.erb" timestamp="1470689961116" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1470687147459" />
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -73,7 +74,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1470687759733">
+      <file name="/fragment.rb" timestamp="1470689704718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -101,6 +102,11 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470689709755">
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="36" />
+        <mark key="." line="51" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
       </file>
@@ -123,11 +129,11 @@
       <jump line="4" column="26" filename="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VjdXJlX3BhcmFtcwo=</text>
+      <register name="&quot;" type="4">
+        <text>.truncate(100)</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>.truncate(100)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
