@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.pyc;.pyo;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="*.js.erb" type="JavaScript" />
       <mapping pattern="poo" type="PLAIN_TEXT" />
-      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
-      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
       <mapping pattern="v2_challenges_helper" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bak" type="RHTML" />
       <mapping pattern="runner" type="Ruby" />
