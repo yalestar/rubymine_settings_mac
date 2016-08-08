@@ -9,10 +9,10 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Ruby Console" timestamp="1470622647317">
+      <file name="/Ruby Console" timestamp="1470678667038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470621844936">
+      <file name="/a.dummy" timestamp="1470678189334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -37,25 +37,13 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/edit.js.erb" timestamp="1470620087717">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="46" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="14" column="46" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/edit.js.erb" timestamp="1470678207647">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="46" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="16" column="46" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1470620691152" />
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/campaigns_controller_spec.rb" timestamp="1468860153860">
-        <mark key="[" line="53" column="44" />
-        <mark key="]" line="58" column="43" />
-        <mark key="^" line="58" column="43" />
-        <mark key="." line="58" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/tiny/config/tinymce.yml" timestamp="1468881867546">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
       </file>
@@ -63,12 +51,6 @@
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fe2b7e9e-d2ea-44a4-ab4d-dff88f5310f3/console.sql" timestamp="1470419668535">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/salesforce_case_job.rb" timestamp="1467134574270">
         <mark key="[" line="10" column="29" />
@@ -80,16 +62,15 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/registrations_controller.rb" timestamp="1469043075445">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="7" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/_save.js.erb" timestamp="1470616765947">
         <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/content_scrubber.rb" timestamp="1470614401279" />
+      <file name="$USER_HOME$/dev/paladin/config/environments/development.rb" timestamp="1470678661727">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1470428970261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,26 +79,8 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1470621577486">
+      <file name="/fragment.rb" timestamp="1470678004179">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/controllers/articles_controller.rb" timestamp="1469219612586">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1467148465663">
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="26" column="53" />
-        <mark key="^" line="26" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/searchapp/Gemfile" timestamp="1469218681889">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/sanitizable_fields.rb" timestamp="1470615257523">
         <mark key="[" line="12" column="0" />
@@ -135,10 +98,10 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470621561277">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470677936282">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="14" />
-        <mark key="^" line="52" column="63" />
+        <mark key="^" line="51" column="0" />
         <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1470613720504" />
@@ -166,10 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StandardError</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>StandardError</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
