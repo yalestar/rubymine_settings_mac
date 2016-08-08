@@ -8,12 +8,16 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Ruby Console" timestamp="1470417270599">
+      <file name="/Ruby Console" timestamp="1470614555034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470417349302">
+      <file name="/a.dummy" timestamp="1470615039183">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
+        <mark key="[" line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1470614624402" />
       <file name="$USER_HOME$/dev/paladin/app/models/salesforce_contact.rb" timestamp="1467319359821">
         <mark key="[" line="54" column="6" />
         <mark key="]" line="54" column="6" />
@@ -75,7 +79,7 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/models/concerns/searchable.rb" timestamp="1469459555553">
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/content_scrubber.rb" timestamp="1470420252261" />
+      <file name="$USER_HOME$/dev/paladin/lib/content_scrubber.rb" timestamp="1470614401279" />
       <file name="/Dummy.txt" timestamp="1470428970261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,7 +88,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1470420261626">
+      <file name="/fragment.rb" timestamp="1470615108341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/app/controllers/articles_controller.rb" timestamp="1469219612586">
@@ -105,11 +109,22 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/sanitizable_fields.rb" timestamp="1470615257523">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470420201580" />
-      <file name="$USER_HOME$/dev/paladin/app/views/treatments/_condition_treatment_fields.html.erb" timestamp="1470417366002" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1470615052288">
+        <mark key="e" line="102" column="84" />
+        <mark key="[" line="102" column="85" />
+        <mark key="]" line="102" column="81" />
+        <mark key="^" line="102" column="81" />
+        <mark key="." line="102" column="81" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1470613720504" />
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
       </file>
@@ -131,13 +146,16 @@
       <jump line="5" column="1" filename="$USER_HOME$/dev/EXAMPLES/tiny/config/tinymce.yml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0ICJsb2dzIHRoZSBlcnJvciBhbmQgZG9lcyBjYWxsIHVwZGF0ZV91c2VyIiBkbwogICAgICBleHBlY3Qoc3ViamVjdCkudG8gcmVjZWl2ZSg6dXBkYXRlX3VzZXIpLm9uY2UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgZGVmIHN0cmlwX2Vtb2ppISh0ZXh0KQogICAgICB0ZXh0ID0gdGV4dC5mb3JjZV9lbmNvZGluZygndXRmLTgnKS5lbmNvZGUKCiAgICAgICMgc3ltYm9scyAmIHBpY3MKICAgICAgcmVnZXggPSAvW1x1ezFmMzAwfS1cdXsxZjVmZn1dLwogICAgICBjbGVhbiA9IHRleHQuZ3N1YihyZWdleCwgIiIpCgogICAgICAjIGVuY2xvc2VkIGNoYXJzCiAgICAgIHJlZ2V4ID0gL1tcdXsyNTAwfS1cdXsyQkVGfV0vICMgSSBjaGFuZ2VkIHRoaXMgdG8gZXhjbHVkZSBjaGluZXNlIGNoYXIKICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICMgZW1vdGljb25zCiAgICAgIHJlZ2V4ID0gL1tcdXsxZjYwMH0tXHV7MWY2NGZ9XS8KICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICNkaW5nYmF0cwogICAgICByZWdleCA9IC9bXHV7MjcwMn0tXHV7MjdiMH1dLwogICAgICBjbGVhbi5nc3ViKCByZWdleCwgIiIpCiAgICBlbmQKZW5k</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$('form.edit_treatment,form.new_treatment');</text>
+        <text encoding="base64">CiAgZGVmIHN0cmlwX2Vtb2ppISh0ZXh0KQogICAgICB0ZXh0ID0gdGV4dC5mb3JjZV9lbmNvZGluZygndXRmLTgnKS5lbmNvZGUKCiAgICAgICMgc3ltYm9scyAmIHBpY3MKICAgICAgcmVnZXggPSAvW1x1ezFmMzAwfS1cdXsxZjVmZn1dLwogICAgICBjbGVhbiA9IHRleHQuZ3N1YihyZWdleCwgIiIpCgogICAgICAjIGVuY2xvc2VkIGNoYXJzCiAgICAgIHJlZ2V4ID0gL1tcdXsyNTAwfS1cdXsyQkVGfV0vICMgSSBjaGFuZ2VkIHRoaXMgdG8gZXhjbHVkZSBjaGluZXNlIGNoYXIKICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICMgZW1vdGljb25zCiAgICAgIHJlZ2V4ID0gL1tcdXsxZjYwMH0tXHV7MWY2NGZ9XS8KICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICNkaW5nYmF0cwogICAgICByZWdleCA9IC9bXHV7MjcwMn0tXHV7MjdiMH1dLwogICAgICBjbGVhbi5nc3ViKCByZWdleCwgIiIpCiAgICBlbmQKZW5k</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGl0ICJsb2dzIHRoZSBlcnJvciBhbmQgZG9lcyBjYWxsIHVwZGF0ZV91c2VyIiBkbwogICAgICBleHBlY3Qoc3ViamVjdCkudG8gcmVjZWl2ZSg6dXBkYXRlX3VzZXIpLm9uY2UK</text>
+      </register>
+      <register name="3" type="4">
         <text>,
                    MedSavvy_User_ID__c: @user.id,
                    FirstName: user_first_name,
@@ -156,7 +174,7 @@
                    MedSavvy_Followed_Treatments__c: treatments,
                    HasOptedOutOfEmail: opted_out_of_email?</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>MedSavvy_User_ID__c: @user.id,
                              FirstName: user_first_name,
                              LastName: user_last_name,
@@ -174,29 +192,26 @@
                              MedSavvy_Followed_Treatments__c: treatments,
                              HasOptedOutOfEmail: opted_out_of_email?</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBiZWdpbg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEZpcnN0TmFtZTogdXNlcl9maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgICAgTGFzdE5hbWU6IHVzZXJfbGFzdF9uYW1lLAogICAgICAgICAgICAgICAgICAgRW1haWw6IEB1c2VyLmVtYWlsLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfTGFzdF9TaWduZWRfSW5fX2M6IGxhc3Rfc2lnbl9pbiwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X1NpZ25lZF9VcF9fYzogc2lnbnVwX2RhdGUsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9TaWduaW5fQ291bnRfX2M6IEB1c2VyLnNpZ25faW5fY291bnQsCiAgICAgICAgICAgICAgICAgICBBY2NvdW50SWQ6IHVzZXJfYWNjb3VudF9pZCwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0dlbmRlcl9BdF9CaXJ0aF9fYzogZ2VuZGVyX2F0X2JpcnRoLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfSWRlbnRpZmllc19Bc19fYzogaWRlbnRpZmllc19hcywKICAgICAgICAgICAgICAgICAgIE1haWxpbmdTdGF0ZTogQHVzZXIuc3RhdGVfY29kZSwKICAgICAgICAgICAgICAgICAgIEJpcnRoRGF0ZTogQHVzZXIuYmlydGgsCiAgICAgICAgICAgICAgICAgICBNb2JpbGVQaG9uZTogQHVzZXIubW9iaWxlX3Bob25lX251bWJlciwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0ZvbGxvd2VkX0NvbmRpdGlvbnNfX2M6IGNvbmRpdGlvbnMsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9Gb2xsb3dlZF9UcmVhdG1lbnRzX19jOiB0cmVhdG1lbnRzLAogICAgICAgICAgICAgICAgICAgSGFzT3B0ZWRPdXRPZkVtYWlsOiBvcHRlZF9vdXRfb2ZfZW1haWw/Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICBGaXJzdE5hbWU6IHVzZXJfZmlyc3RfbmFtZSwKICAgICAgICAgICAgICAgICAgIExhc3ROYW1lOiB1c2VyX2xhc3RfbmFtZSwKICAgICAgICAgICAgICAgICAgIEVtYWlsOiBAdXNlci5lbWFpbCwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0xhc3RfU2lnbmVkX0luX19jOiBsYXN0X3NpZ25faW4sCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9TaWduZWRfVXBfX2M6IHNpZ251cF9kYXRlLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfU2lnbmluX0NvdW50X19jOiBAdXNlci5zaWduX2luX2NvdW50LAogICAgICAgICAgICAgICAgICAgQWNjb3VudElkOiB1c2VyX2FjY291bnRfaWQsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9HZW5kZXJfQXRfQmlydGhfX2M6IGdlbmRlcl9hdF9iaXJ0aCwKICAgICAgICAgICAgICAgICAgIE1lZFNhdnZ5X0lkZW50aWZpZXNfQXNfX2M6IGlkZW50aWZpZXNfYXMsCiAgICAgICAgICAgICAgICAgICBNYWlsaW5nU3RhdGU6IEB1c2VyLnN0YXRlX2NvZGUsCiAgICAgICAgICAgICAgICAgICBCaXJ0aERhdGU6IEB1c2VyLmJpcnRoLAogICAgICAgICAgICAgICAgICAgTW9iaWxlUGhvbmU6IEB1c2VyLm1vYmlsZV9waG9uZV9udW1iZXIsCiAgICAgICAgICAgICAgICAgICBNZWRTYXZ2eV9Gb2xsb3dlZF9Db25kaXRpb25zX19jOiBjb25kaXRpb25zLAogICAgICAgICAgICAgICAgICAgTWVkU2F2dnlfRm9sbG93ZWRfVHJlYXRtZW50c19fYzogdHJlYXRtZW50cywKICAgICAgICAgICAgICAgICAgIEhhc09wdGVkT3V0T2ZFbWFpbDogb3B0ZWRfb3V0X29mX2VtYWlsPw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgIyBTcHJpbmcgc3BlZWRzIHVwIGRldmVsb3BtZW50IGJ5IGtlZXBpbmcgeW91ciBhcHBsaWNhdGlvbiBydW5uaW5nIGluIHRoZSBiYWNrZ3JvdW5kLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9zcHJpbmcK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
-      </register>
       <register name=":" type="4">
-        <text>5</text>
+        <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>$('form.edit_treatment,form.new_treatment');</text>
+        <text>backtrace</text>
       </register>
     </registers>
     <search>
@@ -207,6 +222,8 @@
       <history-search />
       <history-cmd>
         <entry>5</entry>
+        <entry>92</entry>
+        <entry>14</entry>
       </history-cmd>
       <history-expr />
       <history-input />
