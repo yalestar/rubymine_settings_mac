@@ -8,10 +8,10 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Ruby Console" timestamp="1470689716439">
+      <file name="/Ruby Console" timestamp="1470690808215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470690062791">
+      <file name="/a.dummy" timestamp="1470690744503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -38,7 +38,6 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/studies/edit.js.erb" timestamp="1470689961116" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1470687147459" />
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -94,14 +93,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1470621981630">
-        <mark key="e" line="102" column="84" />
-        <mark key="'" line="4" column="26" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="21" column="11" />
-        <mark key="." line="4" column="14" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1470690806844" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470689709755">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="36" />
@@ -130,10 +122,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.truncate(100)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.truncate(100)</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
