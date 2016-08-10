@@ -8,10 +8,10 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/Ruby Console" timestamp="1470788161301">
+      <file name="/Ruby Console" timestamp="1470852262738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470690744503">
+      <file name="/a.dummy" timestamp="1470850539737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -50,10 +50,11 @@
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1470788185111">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1470852355277">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/shared/_google_analytics.html.haml" timestamp="1467134590378">
         <mark key="[" line="9" column="44" />
@@ -86,7 +87,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1470696870108">
+      <file name="/fragment.rb" timestamp="1470851159610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -95,6 +96,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1470851069207">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
@@ -131,60 +138,44 @@
       <jump line="4" column="26" filename="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>update_document</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SlNPTi5wcmV0dHlfZ2VuZXJhdGUoVHJlYXRtZW50LnNldHRpbmdzLmFzX2pzb24pIA==</text>
+        <text>update_document</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAjIGluY2x1ZGUgU2VhcmNoYWJsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VjdXJlX3BhcmFtcwo=</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSM9IHRpbnltY2UK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAkLmVhY2goZXJyTXNncywgZnVuY3Rpb24oZXJyLCBmdW5jdGlvbigpIHsKLy8gICAgZGVidWdnZXI7Ci8vICAgfSkpCg==</text>
+        <text encoding="base64">c2VjdXJlX3BhcmFtcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">LSM9IHRpbnltY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQHN0dWR5LmVycm9ycyA8PCBlCg==</text>
+        <text encoding="base64">Ly8gICAkLmVhY2goZXJyTXNncywgZnVuY3Rpb24oZXJyLCBmdW5jdGlvbigpIHsKLy8gICAgZGVidWdnZXI7Ci8vICAgfSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZGVmIHN0cmlwX2Vtb2ppISh0ZXh0KQogICAgICB0ZXh0ID0gdGV4dC5mb3JjZV9lbmNvZGluZygndXRmLTgnKS5lbmNvZGUKCiAgICAgICMgc3ltYm9scyAmIHBpY3MKICAgICAgcmVnZXggPSAvW1x1ezFmMzAwfS1cdXsxZjVmZn1dLwogICAgICBjbGVhbiA9IHRleHQuZ3N1YihyZWdleCwgIiIpCgogICAgICAjIGVuY2xvc2VkIGNoYXJzCiAgICAgIHJlZ2V4ID0gL1tcdXsyNTAwfS1cdXsyQkVGfV0vICMgSSBjaGFuZ2VkIHRoaXMgdG8gZXhjbHVkZSBjaGluZXNlIGNoYXIKICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICMgZW1vdGljb25zCiAgICAgIHJlZ2V4ID0gL1tcdXsxZjYwMH0tXHV7MWY2NGZ9XS8KICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICNkaW5nYmF0cwogICAgICByZWdleCA9IC9bXHV7MjcwMn0tXHV7MjdiMH1dLwogICAgICBjbGVhbi5nc3ViKCByZWdleCwgIiIpCiAgICBlbmQKZW5k</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0ICJsb2dzIHRoZSBlcnJvciBhbmQgZG9lcyBjYWxsIHVwZGF0ZV91c2VyIiBkbwogICAgICBleHBlY3Qoc3ViamVjdCkudG8gcmVjZWl2ZSg6dXBkYXRlX3VzZXIpLm9uY2UK</text>
+        <text encoding="base64">ICAgICAgQHN0dWR5LmVycm9ycyA8PCBlCg==</text>
       </register>
       <register name="9" type="4">
-        <text>,
-                   MedSavvy_User_ID__c: @user.id,
-                   FirstName: user_first_name,
-                   LastName: user_last_name,
-                   Email: @user.email,
-                   MedSavvy_Last_Signed_In__c: last_sign_in,
-                   MedSavvy_Signed_Up__c: signup_date,
-                   MedSavvy_Signin_Count__c: @user.sign_in_count,
-                   AccountId: user_account_id,
-                   MedSavvy_Gender_At_Birth__c: gender_at_birth,
-                   MedSavvy_Identifies_As__c: identifies_as,
-                   MailingState: @user.state_code,
-                   BirthDate: @user.birth,
-                   MobilePhone: @user.mobile_phone_number,
-                   MedSavvy_Followed_Conditions__c: conditions,
-                   MedSavvy_Followed_Treatments__c: treatments,
-                   HasOptedOutOfEmail: opted_out_of_email?</text>
+        <text encoding="base64">CiAgZGVmIHN0cmlwX2Vtb2ppISh0ZXh0KQogICAgICB0ZXh0ID0gdGV4dC5mb3JjZV9lbmNvZGluZygndXRmLTgnKS5lbmNvZGUKCiAgICAgICMgc3ltYm9scyAmIHBpY3MKICAgICAgcmVnZXggPSAvW1x1ezFmMzAwfS1cdXsxZjVmZn1dLwogICAgICBjbGVhbiA9IHRleHQuZ3N1YihyZWdleCwgIiIpCgogICAgICAjIGVuY2xvc2VkIGNoYXJzCiAgICAgIHJlZ2V4ID0gL1tcdXsyNTAwfS1cdXsyQkVGfV0vICMgSSBjaGFuZ2VkIHRoaXMgdG8gZXhjbHVkZSBjaGluZXNlIGNoYXIKICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICMgZW1vdGljb25zCiAgICAgIHJlZ2V4ID0gL1tcdXsxZjYwMH0tXHV7MWY2NGZ9XS8KICAgICAgY2xlYW4gPSBjbGVhbi5nc3ViKHJlZ2V4LCAiIikKCiAgICAgICNkaW5nYmF0cwogICAgICByZWdleCA9IC9bXHV7MjcwMn0tXHV7MjdiMH1dLwogICAgICBjbGVhbi5nc3ViKCByZWdleCwgIiIpCiAgICBlbmQKZW5k</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>13</text>
       </register>
     </registers>
     <search>
@@ -199,6 +190,7 @@
         <entry>54</entry>
         <entry>92</entry>
         <entry>23</entry>
+        <entry>13</entry>
       </history-cmd>
       <history-expr />
       <history-input />
