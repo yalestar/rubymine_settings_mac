@@ -47,10 +47,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1471987093486">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1471993137618">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -89,7 +90,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1471987144337">
+      <file name="/fragment.rb" timestamp="1471992547123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,6 +127,9 @@
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1468859852373">
         <mark key="[" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1471992186648">
+        <mark key="[" line="62" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -137,41 +141,43 @@
       <jump line="4" column="26" filename="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmluZGluZy5wcgo=</text>
+      <register name="&quot;" type="4">
+        <text>metadata</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>metadata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluZGluZy5wcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgZGVmIGNoZWNrX3Zpc2liaWxpdHkocmVjb3JkKQogICAgIyBpZiByZWNvcmQgaXMgbmV3IGFuZCB1bnB1Ymxpc2hlZCBPUiB1cGRhdGVkIHRvIGJlIHVucHVibGlzaGVkLCByZW1vdmUgaXQgZnJvbSBpbmRleAogIGVuZA==</text>
+        <text>etadata: treatments.map do |t|
+          { score: t._score, source: t._source }
+        end</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIGluY2x1ZGUgU2VhcmNoYWJsZQo=</text>
+        <text encoding="base64">YmluZGluZy5wcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgZGVmIGNoZWNrX3Zpc2liaWxpdHkocmVjb3JkKQogICAgIyBpZiByZWNvcmQgaXMgbmV3IGFuZCB1bnB1Ymxpc2hlZCBPUiB1cGRhdGVkIHRvIGJlIHVucHVibGlzaGVkLCByZW1vdmUgaXQgZnJvbSBpbmRleAogIGVuZA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAjIGluY2x1ZGUgU2VhcmNoYWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VjdXJlX3BhcmFtcwo=</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSM9IHRpbnltY2UK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAkLmVhY2goZXJyTXNncywgZnVuY3Rpb24oZXJyLCBmdW5jdGlvbigpIHsKLy8gICAgZGVidWdnZXI7Ci8vICAgfSkpCg==</text>
+        <text encoding="base64">c2VjdXJlX3BhcmFtcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">LSM9IHRpbnltY2UK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
