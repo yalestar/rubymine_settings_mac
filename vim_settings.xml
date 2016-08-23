@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1471726154858">
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="/Ruby Console" timestamp="1471902576835">
+      <file name="/Ruby Console" timestamp="1471987072561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1471899603430">
@@ -47,10 +47,10 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1471726024348">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1471987093486">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -81,7 +81,7 @@
         <mark key="]" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470428970261">
+      <file name="/Dummy.txt" timestamp="1471987067181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/salesforce_contact_job_spec.rb" timestamp="1469566634037">
@@ -89,7 +89,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1471902432082">
+      <file name="/fragment.rb" timestamp="1471987144337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,41 +137,41 @@
       <jump line="4" column="26" filename="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgZGVmIGNoZWNrX3Zpc2liaWxpdHkocmVjb3JkKQogICAgIyBpZiByZWNvcmQgaXMgbmV3IGFuZCB1bnB1Ymxpc2hlZCBPUiB1cGRhdGVkIHRvIGJlIHVucHVibGlzaGVkLCByZW1vdmUgaXQgZnJvbSBpbmRleAogIGVuZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmluZGluZy5wcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Treatment</text>
+        <text>y</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">YmluZGluZy5wcgo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgZGVmIGNoZWNrX3Zpc2liaWxpdHkocmVjb3JkKQogICAgIyBpZiByZWNvcmQgaXMgbmV3IGFuZCB1bnB1Ymxpc2hlZCBPUiB1cGRhdGVkIHRvIGJlIHVucHVibGlzaGVkLCByZW1vdmUgaXQgZnJvbSBpbmRleAogIGVuZA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAjIGluY2x1ZGUgU2VhcmNoYWJsZQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c2VjdXJlX3BhcmFtcwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LSM9IHRpbnltY2UK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAkLmVhY2goZXJyTXNncywgZnVuY3Rpb24oZXJyLCBmdW5jdGlvbigpIHsKLy8gICAgZGVidWdnZXI7Ci8vICAgfSkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgZGVidWdnZXI7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQHN0dWR5LmVycm9ycyA8PCBlCg==</text>
+        <text encoding="base64">ICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
