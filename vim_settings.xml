@@ -8,7 +8,8 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1471726154858">
+      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1471999711586">
+        <mark key="[" line="13" column="27" />
         <mark key="^" line="31" column="25" />
       </file>
       <file name="/Ruby Console" timestamp="1471987072561">
@@ -46,12 +47,6 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1471993829314">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
-        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
