@@ -13,6 +13,7 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1472490620937" />
       <file name="/Ruby Console" timestamp="1472488248399">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,7 +23,7 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="/a.dummy" timestamp="1472488267924">
+      <file name="/a.dummy" timestamp="1472489985865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -99,7 +100,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1472256915069">
+      <file name="/fragment.rb" timestamp="1472490597327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -109,6 +110,9 @@
         <mark key="]" line="68" column="9" />
         <mark key="^" line="66" column="33" />
         <mark key="." line="68" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/sanitizable_fields.rb" timestamp="1470615257523">
         <mark key="[" line="12" column="0" />
@@ -145,6 +149,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/search_match.rb" timestamp="1472490562970" />
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1468859852373">
         <mark key="[" line="22" column="5" />
       </file>
@@ -201,7 +206,7 @@
         <text encoding="base64">ICAjIGluY2x1ZGUgU2VhcmNoYWJsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>25</text>
       </register>
     </registers>
     <search>
@@ -219,6 +224,7 @@
         <entry>13</entry>
         <entry>17</entry>
         <entry>24</entry>
+        <entry>25</entry>
       </history-cmd>
       <history-expr />
       <history-input />
