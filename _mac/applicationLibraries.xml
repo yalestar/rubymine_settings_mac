@@ -11477,6 +11477,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-f5a608d6640e/elasticsearch-extensions/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-extensions (v0.0.22, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-extensions-0.0.22/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-extensions-0.0.22/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-extensions (v0.0.22@235407, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/elasticsearch-ruby-235407c9b578/elasticsearch-extensions/lib" />
@@ -13167,6 +13175,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faker-1.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="faker (v1.6.6, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faker-1.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faker-1.6.6/lib" />
       </SOURCES>
     </library>
     <library name="fakeweb (v1.3.0, RVM: ruby-1.9.3-p429) [gem]">
@@ -17421,6 +17437,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jquery-rails-4.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jquery-rails-4.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.2.1, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jquery-rails-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jquery-rails-4.2.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jquery-rails-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jquery-rails-4.2.1/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-turbolinks (v2.1.0, rbenv: 2.2.4) [gem]">
@@ -32033,6 +32059,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.15.6/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-prof (v0.16.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.16.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.16.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.16.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.16.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-prof-0.16.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.7.5, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/ruby-progressbar-1.7.5/lib" />
@@ -35443,6 +35481,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets-rails (v3.2.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="spruz (v0.2.13, RVM: ruby-1.9.2-p180) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p180/gems/spruz-0.2.13/bin" />
@@ -38663,6 +38709,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/uglifier-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/uglifier-3.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.0.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/uglifier-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/uglifier-3.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/uglifier-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/uglifier-3.0.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="unf (v0.0.4, RVM: ruby-1.9.2-p180) [gem]">
