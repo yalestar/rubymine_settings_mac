@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1471999908935">
@@ -54,6 +54,12 @@
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_search_spec.rb" timestamp="1473279886821">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
@@ -187,45 +193,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>results</text>
+        <text>'treatments_test'</text>
       </register>
       <register name="-" type="4">
-        <text>results</text>
+        <text>'treatments_test'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICV1bC5lcnJvcnMK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbmQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgIyBzZWFyY2hhYmxlIGF1dG9faW5kZXg6IHRydWUgZG8KICAjICAgdGV4dCA6dGl0bGUKICAjICAgdGV4dCA6Ym9keQogICMgICB0ZXh0IDp0YWdzIGRvCiAgIyAgICAgdGFncy5tYXAoJjpuYW1lKQogICMgICBlbmQKICAjICAgdGV4dCA6Y2F0ZWdvcmllcyBkbwogICMgICAgIGNhdGVnb3JpZXMubWFwKCY6bmFtZSkKICAjICAgZW5kCiAgIyAgIGJvb2xlYW4gOnB1Ymxpc2hlZCwgdXNpbmc6IDpwdWJsaXNoZWQ/CiAgIyBlbmQ=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBkZWYgc2VsZi5PTERyZWxhdGVkX3RvX2NvbmRpdGlvbihjb25kaXRpb24sIHB1Ymxpc2hlZF9vbmx5OiB0cnVlKQogICAgYmVnaW4KICAgICAgc2VhcmNoID0gUG9zdC5zZWFyY2goaW5jbHVkZTogWzp1c2VyXSkgZG8KICAgICAgICBmdWxsdGV4dCBjb25kaXRpb24uZnVsbF9uYW1lIGRvCiAgICAgICAgICBmaWVsZHMoOnRpdGxlLCA6dGFncywgOmNhdGVnb3JpZXMpCiAgICAgICAgZW5kCiAgICAgICAgd2l0aCg6cHVibGlzaGVkLCBwdWJsaXNoZWRfb25seSkKICAgICAgZW5kCiAgICByZXNjdWUgRXJybm86OkVDT05OUkVGVVNFRCA9PiBlCiAgICAgIFJhaWxzLmxvZ2dlci5lcnJvciAiRVJST1I6IFN1bnNwb3QgY29ubmVjdGlvbiBmYWlsZWQ6ICN7ZX0iCiAgICAgIEV4Y2VwdGlvbk5vdGlmaWVyLmFkZF9leGNlcHRpb24oZSkKICAgICAgc2VhcmNoID0gbmlsCiAgICBlbmQKCiAgICBzZWFyY2gKICBlbmQ=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHNlYXJjaCA9IHJlc3AucmVzdWx0cwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LAogICAgICAgICMgZmlsdGVyOiB7CiAgICAgICAgIyAgICAgdGVybTogewogICAgICAgICMgICAgICAgICBwdWJsaXNoZWQ6IHRydWUKICAgICAgICAjICAgICB9CiA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbmRpdGlvbnMgPSBDb25kaXRpb24uZXNfc2VhcmNoKG9wdGlvbnMpCiAgICB0cmVhdG1lbnRzID0gVHJlYXRtZW50LmVzX3NlYXJjaChvcHRpb25zKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAjIFRPRE86IFRoaXMgc2hvdWxkIGJlIHJlbW92ZWQgd2hlbiB3ZSBtaWdyYXRlIFRyZWF0bWVudFN0dWRpZXMgdG8gYmVsb25nIHRvIENvbmRpdGlvblRyZWF0bWVudHMK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>etadata: treatments.map do |t|
-          { score: t._score, source: t._source }
-        end</text>
-      </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>26</text>
       </register>
     </registers>
     <search>
@@ -244,6 +248,8 @@
         <entry>17</entry>
         <entry>24</entry>
         <entry>25</entry>
+        <entry>9</entry>
+        <entry>26</entry>
       </history-cmd>
       <history-expr />
       <history-input />
