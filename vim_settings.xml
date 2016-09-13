@@ -231,7 +231,7 @@
         <text encoding="base64">ICAgIHNlYXJjaCA9IHJlc3AucmVzdWx0cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>5</text>
+        <text>694</text>
       </register>
     </registers>
     <search>
@@ -252,6 +252,7 @@
         <entry>9</entry>
         <entry>26</entry>
         <entry>5</entry>
+        <entry>694</entry>
       </history-cmd>
       <history-expr />
       <history-input />
