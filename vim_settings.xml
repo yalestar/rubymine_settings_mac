@@ -19,7 +19,7 @@
         <mark key="." line="57" column="41" />
         <mark key="^" line="57" column="41" />
       </file>
-      <file name="/Ruby Console" timestamp="1473974287170">
+      <file name="/Ruby Console" timestamp="1473975452499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/searches/_big_form.html.haml" timestamp="1472001827752">
@@ -69,12 +69,6 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/conditions_index.rb" timestamp="1473974111896">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="32" column="12" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/post.rb" timestamp="1472496758603">
         <mark key="[" line="57" column="0" />
@@ -180,11 +174,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/search_policy.rb" timestamp="1472001103906">
         <mark key="[" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1473970561922">
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="17" />
-        <mark key="." line="74" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1473710119734">
         <mark key="[" line="149" column="36" />
