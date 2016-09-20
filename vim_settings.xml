@@ -19,7 +19,7 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="/a.dummy" timestamp="1474403119309">
+      <file name="/a.dummy" timestamp="1474410937926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1472001118468">
@@ -103,11 +103,9 @@
         <mark key="]" line="19" column="46" />
         <mark key="." line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1474409244084">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1474411055225">
+        <mark key="[" line="9" column="27" />
+        <mark key="^" line="36" column="2" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/search_policy.rb" timestamp="1472001103906">
         <mark key="[" line="7" column="27" />
@@ -150,6 +148,11 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/conditions_index.rb" timestamp="1474410895912">
+        <mark key="[" line="81" column="49" />
+        <mark key="]" line="81" column="49" />
+        <mark key="." line="81" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/post.rb" timestamp="1472496758603">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -180,6 +183,10 @@
       <file name="/Dummy.txt" timestamp="1474391300058">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1474411072320">
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/salesforce_contact_job_spec.rb" timestamp="1469566634037">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="14" />
@@ -209,10 +216,10 @@
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1468859852373">
         <mark key="[" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1474408786380">
-        <mark key="[" line="115" column="23" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1474410883127">
+        <mark key="[" line="91" column="49" />
+        <mark key="]" line="91" column="49" />
+        <mark key="." line="91" column="49" />
         <mark key="^" line="82" column="0" />
       </file>
     </filemarks>
@@ -229,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGN1c3RvbSIs</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGN1c3RvbSIs</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQhKDp0cmVhdG1lbnRzX2luZGV4X25hbWUpIHsgJ3RyZWF0bWVudHNfdGVzdCcgfQo=</text>
