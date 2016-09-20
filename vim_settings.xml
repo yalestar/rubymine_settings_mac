@@ -105,7 +105,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1474411055225">
         <mark key="[" line="9" column="27" />
-        <mark key="^" line="36" column="2" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/search_policy.rb" timestamp="1472001103906">
         <mark key="[" line="7" column="27" />
@@ -182,10 +181,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1474391300058">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1474411072320">
-        <mark key="]" line="32" column="51" />
-        <mark key="." line="32" column="51" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/salesforce_contact_job_spec.rb" timestamp="1469566634037">
         <mark key="[" line="5" column="13" />
