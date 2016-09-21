@@ -19,7 +19,7 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="/a.dummy" timestamp="1474410937926">
+      <file name="/a.dummy" timestamp="1474477898615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1472001118468">
@@ -114,12 +114,12 @@
         <mark key="]" line="149" column="36" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1473974374535">
+      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1474477910360">
         <mark key="]" line="57" column="41" />
         <mark key="." line="57" column="41" />
         <mark key="^" line="57" column="41" />
       </file>
-      <file name="/Ruby Console" timestamp="1474407172008">
+      <file name="/Ruby Console" timestamp="1474477656486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -198,6 +198,7 @@
         <mark key="^" line="66" column="33" />
         <mark key="." line="68" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1474477812482" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470689709755">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="36" />
@@ -211,11 +212,8 @@
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1468859852373">
         <mark key="[" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1474410883127">
-        <mark key="[" line="91" column="49" />
-        <mark key="]" line="91" column="49" />
-        <mark key="." line="91" column="49" />
-        <mark key="^" line="82" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1474478412187">
+        <mark key="[" line="131" column="21" />
       </file>
     </filemarks>
     <jumps>
