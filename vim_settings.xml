@@ -13,18 +13,12 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/shared_examples/datatable.rb" timestamp="1474491741456">
+      <file name="$USER_HOME$/dev/paladin/spec/models/shared_examples/datatable.rb" timestamp="1474652471408">
         <mark key="[" line="20" column="47" />
         <mark key="]" line="20" column="47" />
         <mark key="." line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/searches/_big_form.html.haml" timestamp="1472001827752">
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="3" column="61" />
-        <mark key="^" line="3" column="61" />
-        <mark key="." line="3" column="61" />
-      </file>
-      <file name="/a.dummy" timestamp="1474491734999">
+      <file name="/a.dummy" timestamp="1474654399383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1472001118468">
@@ -45,19 +39,15 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/health_plan.rb" timestamp="1474651325153">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/dev/paladin/app/models/health_plan.rb" timestamp="1474652391385">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatments_index.rb" timestamp="1470788473177">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1474651226558">
-        <mark key="[" line="62" column="25" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1474654416876">
+        <mark key="[" line="110" column="6" />
+        <mark key="]" line="110" column="6" />
+        <mark key="." line="110" column="6" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1474399631727">
         <mark key="[" line="10" column="36" />
@@ -101,18 +91,7 @@
         <mark key="]" line="169" column="19" />
         <mark key="." line="169" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/searches_controller_spec.rb" timestamp="1472165939403">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/synonym.rb" timestamp="1474398789823">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="68" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1474652758672" />
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
       </file>
@@ -137,12 +116,14 @@
         <mark key="." line="57" column="41" />
         <mark key="^" line="57" column="41" />
       </file>
-      <file name="/Ruby Console" timestamp="1474651249552">
+      <file name="/Ruby Console" timestamp="1474653325909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
         <mark key="[" line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/health_plan_spec.rb" timestamp="1474652241729" />
+      <file name="$USER_HOME$/dev/paladin/features/admin_treatment_study.feature" timestamp="1474653112854" />
       <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470689697303">
         <mark key="[" line="4" column="14" />
       </file>
@@ -156,20 +137,8 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_search_spec.rb" timestamp="1473710479307">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="54" />
-        <mark key="." line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/post.rb" timestamp="1472496758603">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="55" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -205,22 +174,24 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/community_search_index.rb" timestamp="1472256564881">
-        <mark key="[" line="68" column="9" />
-        <mark key="]" line="68" column="9" />
-        <mark key="^" line="66" column="33" />
-        <mark key="." line="68" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1474492096899">
         <mark key="[" line="157" column="22" />
         <mark key="]" line="157" column="22" />
         <mark key="." line="157" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/admin_health_plan.feature" timestamp="1474653291438" />
+      <file name="$USER_HOME$/dev/paladin/features/user_profile.feature" timestamp="1474653995480">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="1" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/studies_controller.rb" timestamp="1470689709755">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="36" />
         <mark key="." line="51" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/web_steps.rb" timestamp="1474652814665" />
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/views/users/_form.html.erb" timestamp="1468881497075">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -243,46 +214,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keywords</text>
+        <text>search_term</text>
       </register>
       <register name="-" type="4">
-        <text>keywords</text>
+        <text>search_term</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQhKDp0cmVhdG1lbnRzX2luZGV4X25hbWUpIHsgJ3RyZWF0bWVudHNfdGVzdCcgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTY2VuYXJpbzogQ2hvb3NpbmcgYSBIZWFsdGggUGxhbgoKICAgIEdpdmVuIGFuIHBsYW4gbmFtZWQgIkJhbHRoYXphciIKICAgIEdpdmVuIEkgYW0gc2lnbmVkIGluCiAgICBBbmQgSSBnbyB0byB0aGUgdXNlciBwcm9maWxlIHBhZ2UKICAgIEFuZCBzaG93IG1lIHRoZSBwYWdlCiAgICBXaGVuIEkgY2xpY2sgb24gIi5nbHlwaGljb24tc2VhcmNoIgogICAgQW5kIEkgd2FpdAogICAgV2hlbiBJIHNldCAidXNlcl9pbnN1cmFuY2VbaGVhbHRoX3BsYW5dIiB0eXBlYWhlYWQgIkJhbHRoYXphciIKCiAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgImZpbHRlciI6IHsKICAgICAgICAiYXV0b2NvbXBsZXRlX2ZpbHRlciI6IHsKICAgICAgICAgICJ0eXBlIjogImVkZ2VfbmdyYW0iLAogICAgICAgICAgIm1pbl9ncmFtIjogMywKICAgICAgICAgICJtYXhfZ3JhbSI6IDkKICAgICAgICB9CiAgICAgIH0s</text>
+        <text encoding="base64">ICBCYWNrZ3JvdW5kOgogICAgR2l2ZW4gYW4gcGxhbiBuYW1lZCBCYWx0aGF6YXIKICAgICAgfCBzdHVkeSAgIHwgY29uZGl0aW9uIHwgdHJlYXRtZW50IHwKICAgICAgfCBNeVN0dWR5IHwgVml0YW1pbnMgIHwgTWFybWl0ZSAgIHwKICAgIEdpdmVuIHRoYXQgZm9sbG93aW5nIGNvbmRpdGlvbiBleGlzdHM6CiAgICAgIHwgbmFtZSAgfAogICAgICB8IFNsb3RoIHwKICAgIEdpdmVuIHRoYXQgZm9sbG93aW5nIHRyZWF0bWVudCBleGlzdHM6CiAgICAgIHwgbWVkaWNhdGlvbiAgfCAgYnJhbmRfbmFtZSB8CiAgICAgIHwgUmVkYnVsbCAgICAgfCAgUmVkYnVsbCAgICB8</text>
       </register>
-      <register name="3" type="4">
-        <text>[lambda { |t, c|
-      t.__elasticsearch__.delete_document
-      t.__elasticsearch__.index_document
-    }]</text>
-      </register>
-      <register name="4" type="4">
-        <text>[lambda { |t, c|
-      t.__elasticsearch__.delete_document
-      t.__elasticsearch__.index_document
-    }]</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGFmdGVyX2FkZDogW2xhbWJkYSB7IHx0LCBfY3wKICAgICAgICAgICAgICAgdC5fX2VsYXN0aWNzZWFyY2hfXy5pbmRleF9kb2N1bWVudAogICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICBhZnRlcl9yZW1vdmU6IFtsYW1iZGEgeyB8dCwgX2N8CiAgICAgICAgICAgICAgIHQuX19lbGFzdGljc2VhcmNoX18udXBkYXRlX2RvY3VtZW50CiAgICAgICAgICAgICB9XQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIERlbGF5ZWQ6Oldvcmtlci5kZWxheV9qb2JzID0gdHJ1ZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIERlbGF5ZWQ6Oldvcmtlci5kZWxheV9qb2JzID0gZmFsc2UK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgImZpbHRlciI6IHsKICAgICAgICAiYXV0b2NvbXBsZXRlX2ZpbHRlciI6IHsKICAgICAgICAgICJ0eXBlIjogImVkZ2VfbmdyYW0iLAogICAgICAgICAgIm1pbl9ncmFtIjogMywKICAgICAgICAgICJtYXhfZ3JhbSI6IDkKICAgICAgICB9CiAgICAgIH0s</text>
+      </register>
+      <register name="5" type="4">
+        <text>[lambda { |t, c|
+      t.__elasticsearch__.delete_document
+      t.__elasticsearch__.index_document
+    }]</text>
+      </register>
+      <register name="6" type="4">
+        <text>[lambda { |t, c|
+      t.__elasticsearch__.delete_document
+      t.__elasticsearch__.index_document
+    }]</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIGFmdGVyX2FkZDogW2xhbWJkYSB7IHx0LCBfY3wKICAgICAgICAgICAgICAgdC5fX2VsYXN0aWNzZWFyY2hfXy5pbmRleF9kb2N1bWVudAogICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICBhZnRlcl9yZW1vdmU6IFtsYW1iZGEgeyB8dCwgX2N8CiAgICAgICAgICAgICAgIHQuX19lbGFzdGljc2VhcmNoX18udXBkYXRlX2RvY3VtZW50CiAgICAgICAgICAgICB9XQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIERlbGF5ZWQ6Oldvcmtlci5kZWxheV9qb2JzID0gdHJ1ZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIERlbGF5ZWQ6Oldvcmtlci5kZWxheV9qb2JzID0gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
