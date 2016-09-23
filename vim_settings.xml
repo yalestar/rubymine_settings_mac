@@ -39,15 +39,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/health_plan.rb" timestamp="1474652391385">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/dev/paladin/app/models/health_plan.rb" timestamp="1474656053145">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1474654416876">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1474656225317">
         <mark key="[" line="110" column="6" />
-        <mark key="]" line="110" column="6" />
-        <mark key="." line="110" column="6" />
+        <mark key="]" line="62" column="69" />
+        <mark key="." line="62" column="69" />
+        <mark key="^" line="62" column="69" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1474399631727">
         <mark key="[" line="10" column="36" />
@@ -111,12 +112,12 @@
         <mark key="]" line="149" column="36" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1474477910360">
+      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1474655924201">
         <mark key="]" line="57" column="41" />
         <mark key="." line="57" column="41" />
         <mark key="^" line="57" column="41" />
       </file>
-      <file name="/Ruby Console" timestamp="1474653325909">
+      <file name="/Ruby Console" timestamp="1474656206858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -214,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>search_term</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>search_term</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQhKDp0cmVhdG1lbnRzX2luZGV4X25hbWUpIHsgJ3RyZWF0bWVudHNfdGVzdCcgfQo=</text>
