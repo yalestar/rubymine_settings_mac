@@ -151,6 +151,12 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1474910678891">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
       <file name="/Ruby Console" timestamp="1474907009148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>search_term_remove_whitespace,</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>search_term_remove_whitespace,</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdHlwZSA9IHNlYXJjaGFibGVfY2xhc3MuZGF0YXRhYmxlX3NlYXJjaChrZXl3b3JkczogcXVlcnksIHVzZXI6IHVzZXIpCg==</text>
