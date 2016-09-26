@@ -20,7 +20,7 @@
         <mark key="." line="25" column="47" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="/a.dummy" timestamp="1474921563409">
+      <file name="/a.dummy" timestamp="1474924401614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1472001118468">
@@ -124,10 +124,11 @@
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/campaign.rb" timestamp="1474662815987">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
+      <file name="$USER_HOME$/dev/paladin/app/models/campaign.rb" timestamp="1474924381687">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+        <mark key="^" line="36" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/Gemfile" timestamp="1474660853639">
         <mark key="[" line="97" column="40" />
@@ -157,7 +158,7 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1474921794852">
+      <file name="/Ruby Console" timestamp="1474924453311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
