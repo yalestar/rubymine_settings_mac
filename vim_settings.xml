@@ -14,7 +14,7 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1475009053552">
+      <file name="/a.dummy" timestamp="1475012068561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1472001118468">
@@ -40,15 +40,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/health_plan.rb" timestamp="1474663710254">
+      <file name="$USER_HOME$/dev/paladin/app/models/health_plan.rb" timestamp="1475011770890">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1474668908370">
-        <mark key="[" line="110" column="18" />
-        <mark key="]" line="110" column="19" />
-        <mark key="." line="110" column="19" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1475011799096">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="42" />
+        <mark key="." line="62" column="42" />
         <mark key="^" line="62" column="69" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1474399631727">
@@ -132,7 +132,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1475008916192">
         <mark key="[" line="26" column="16" />
       </file>
-      <file name="/Ruby Console" timestamp="1474995711666">
+      <file name="/Ruby Console" timestamp="1475011705131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -289,11 +289,11 @@
       <jump line="65" column="36" filename="$USER_HOME$/dev/paladin/features/admin_treatment_study.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBUcmVhdG1lbnQuc2VhcmNoKCdSZW1pY2FkZScpLmZpcnN0LnVwZGF0ZV9hdHRyaWJ1dGVzKAojICAgYXZlcmFnZV9jb3N0X291dHBhdGllbnRfaG9zcGl0YWw6IDM0MjQsCiMgICBhdmVyYWdlX2Nvc3RfYWx0ZXJuYXRlX3NpdGU6IDE2MDcKIyApCiMgVHJlYXRtZW50LnNlYXJjaCgnQWN0ZW1yYScpLmZpcnN0LnVwZGF0ZV9hdHRyaWJ1dGVzKAojICAgYXZlcmFnZV9jb3N0X291dHBhdGllbnRfaG9zcGl0YWw6IDQ5MzEsCiMgICBhdmVyYWdlX2Nvc3RfYWx0ZXJuYXRlX3NpdGU6IDIyMzIKIyApCiMgVHJlYXRtZW50LnNlYXJjaCgnU2ltcG9uaScpLmZpcnN0LnVwZGF0ZV9hdHRyaWJ1dGVzKAojICAgYXZlcmFnZV9jb3N0X291dHBhdGllbnRfaG9zcGl0YWw6IDUwMDUsCiMgICBhdmVyYWdlX2Nvc3RfYWx0ZXJuYXRlX3NpdGU6IDQxMDEKIyApCiMgVHJlYXRtZW50LnNlYXJjaCgnVHlzYWJyaScpLmZpcnN0LnVwZGF0ZV9hdHRyaWJ1dGVzKAojICAgYXZlcmFnZV9jb3N0X291dHBhdGllbnRfaG9zcGl0YWw6IDY4ODEsCiMgICBhdmVyYWdlX2Nvc3RfYWx0ZXJuYXRlX3NpdGU6IDQ0MzYKIyApCg==</text>
+      <register name="&quot;" type="4">
+        <text>search_term_remove_whitespace</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>search_term_remove_whitespace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdHlwZSA9IHNlYXJjaGFibGVfY2xhc3MuZGF0YXRhYmxlX3NlYXJjaChrZXl3b3JkczogcXVlcnksIHVzZXI6IHVzZXIpCg==</text>
