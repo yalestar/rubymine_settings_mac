@@ -25,7 +25,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -142,9 +141,6 @@
         <option name="FOREGROUND" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
-      <value />
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
@@ -288,12 +284,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="769aa5" />
@@ -328,9 +318,6 @@
       <value>
         <option name="FOREGROUND" value="77b767" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -379,9 +366,6 @@
       <value>
         <option name="FOREGROUND" value="6897bb" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -842,9 +826,6 @@
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -1319,9 +1300,6 @@
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
-    </option>
-    <option name="SLIM_PARENTHS">
-      <value />
     </option>
     <option name="SLIM_RUBY_CODE">
       <value>

@@ -23,22 +23,10 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -117,9 +105,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.DOC_MARKUP">
-      <value />
-    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -130,12 +115,6 @@
       <value>
         <option name="FOREGROUND" value="800000" />
       </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value />
-    </option>
-    <option name="JS.LOCAL_VARIABLE">
-      <value />
     </option>
     <option name="JS.PARAMETER">
       <value>
@@ -314,9 +293,6 @@
         <option name="FOREGROUND" value="800080" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="SLIM_PARENTHS">
-      <value />
     </option>
     <option name="TEXT">
       <value>

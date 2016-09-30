@@ -146,22 +146,10 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -413,9 +401,6 @@
       <value>
         <option name="FOREGROUND" value="b58900" />
       </value>
-    </option>
-    <option name="JS.NUMBER">
-      <value />
     </option>
     <option name="JS.PARAMETER">
       <value>
@@ -838,9 +823,6 @@
       <value>
         <option name="FOREGROUND" value="6c71c4" />
       </value>
-    </option>
-    <option name="SLIM_PARENTHS">
-      <value />
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
