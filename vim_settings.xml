@@ -57,12 +57,9 @@
         <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1475192839997">
-        <mark key="[" line="26" column="52" />
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
-        <mark key="^" line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/campaigns_controller_spec.rb" timestamp="1475184075216" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1474399631727">
         <mark key="[" line="10" column="36" />
       </file>
@@ -91,11 +88,6 @@
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="22" />
         <mark key="." line="28" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/searches/_results_items.html.haml" timestamp="1475189861948">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="3" column="58" />
-        <mark key="." line="3" column="58" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
@@ -148,18 +140,16 @@
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/search_match.rb" timestamp="1475189587082" />
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1475103435938">
         <mark key="[" line="42" column="13" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/search_policy.rb" timestamp="1472001103906">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/db/migrate/20160928195443_rename_search_terms_to_search_log.rb" timestamp="1475169375686" />
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1475186661069">
         <mark key="'" line="2" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1475189129540">
+      <file name="/Ruby Console" timestamp="1475253781500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -247,7 +237,7 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1475190011670">
+      <file name="/fragment.rb" timestamp="1475253800801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -290,17 +280,16 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/requests/infobutton_query_spec.rb" timestamp="1475183968367" />
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/views/users/_form.html.erb" timestamp="1468881497075">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/helpers/searches_helper.rb" timestamp="1475190036285">
+      <file name="$USER_HOME$/dev/paladin/app/helpers/searches_helper.rb" timestamp="1475253626923">
         <mark key="[" line="8" column="14" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1474925115112">
         <mark key="[" line="22" column="5" />
@@ -376,7 +365,7 @@
         <text encoding="base64">ICAgICAgICBzZHhwZWN0KFNlYXJjaCkudG8gcmVjZWl2ZSg6bWFpbikuYW5kX3JldHVybihzZWFyY2hfbWF0Y2gpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
@@ -393,7 +382,6 @@
         <entry>17</entry>
         <entry>24</entry>
         <entry>25</entry>
-        <entry>9</entry>
         <entry>26</entry>
         <entry>694</entry>
         <entry>62</entry>
@@ -405,6 +393,7 @@
         <entry>81</entry>
         <entry>42</entry>
         <entry>22</entry>
+        <entry>9</entry>
       </history-cmd>
       <history-expr />
       <history-input />
