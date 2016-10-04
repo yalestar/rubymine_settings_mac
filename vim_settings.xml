@@ -15,7 +15,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1475616757361">
+      <file name="/Ruby Console" timestamp="1475618640767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1475616753590">
@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1475103443389">
         <mark key="[" line="36" column="13" />
       </file>
-      <file name="/fragment.rb" timestamp="1475616529541">
+      <file name="/fragment.rb" timestamp="1475618739574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -139,7 +139,7 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/search_results_spec.rb" timestamp="1475531887835">
+      <file name="$USER_HOME$/dev/paladin/spec/models/search_results_spec.rb" timestamp="1475618222236">
         <mark key="'" line="24" column="31" />
         <mark key="[" line="41" column="6" />
         <mark key="]" line="41" column="6" />
@@ -190,6 +190,9 @@
         <mark key="]" line="80" column="21" />
         <mark key="^" line="80" column="19" />
         <mark key="." line="80" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475618815614">
+        <mark key="[" line="52" column="51" />
       </file>
     </filemarks>
     <jumps>
