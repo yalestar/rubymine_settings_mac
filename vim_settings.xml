@@ -50,7 +50,7 @@
         <mark key="." line="135" column="17" />
         <mark key="^" line="135" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1475523269686">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1475604694298">
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
@@ -109,7 +109,6 @@
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1475182198469">
         <mark key="[" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/policies/search_policy_spec.rb" timestamp="1475535064217" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -189,7 +188,6 @@
         <mark key="^" line="80" column="19" />
         <mark key="." line="80" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475534907101" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
