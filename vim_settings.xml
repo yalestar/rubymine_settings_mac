@@ -15,10 +15,10 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1475535437380">
+      <file name="/Ruby Console" timestamp="1475616757361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475188583574">
+      <file name="/a.dummy" timestamp="1475616753590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -29,6 +29,12 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470689697303">
         <mark key="[" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/save_search_log_job_spec.rb" timestamp="1475616789779">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1475104351626">
         <mark key="[" line="51" column="0" />
@@ -90,7 +96,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1475103443389">
         <mark key="[" line="36" column="13" />
       </file>
-      <file name="/fragment.rb" timestamp="1475534872088">
+      <file name="/fragment.rb" timestamp="1475616529541">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -207,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Result</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>Result</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
