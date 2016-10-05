@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475620007632">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="/Ruby Console" timestamp="1475623879039">
+      <file name="/Ruby Console" timestamp="1475704505190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -105,6 +105,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_search_spec.rb" timestamp="1475704502512">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
@@ -152,6 +158,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1475182198469">
         <mark key="[" line="39" column="3" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-extensions-0.0.22/lib/elasticsearch/extensions/test/cluster.rb" timestamp="1475704668329" />
       <file name="/a.regexp" timestamp="1474660926207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hfcmVzdWx0cyA9IFNlYXJjaFJlc3VsdHMubmV3KAogICAgICAgICAgICBzZWFyY2hfcXVlcnk6ICdQYWluJywKICAgICAgICAgICAgY29uZGl0aW9uczogW3BhaW5dLAogICAgICAgICAgICBjb25kaXRpb25fdHJlYXRtZW50czogW10KICAgICAgICAp</text>
+        <text>treatments_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNraXAoIlRPRE86IEZpeCB3aGVuIHdlIGRldGVybWluZSBFbGFzdGljc2VhcmNoIHRlc3Rpbmcgc3RyYXRlZ3kiKQ==</text>
+        <text>treatments_count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
