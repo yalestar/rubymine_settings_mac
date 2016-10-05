@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475620007632">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="/Ruby Console" timestamp="1475704505190">
+      <file name="/Ruby Console" timestamp="1475708238096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -105,6 +105,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_search_spec.rb" timestamp="1475708247212">
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
