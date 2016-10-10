@@ -31,6 +31,7 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476136368401" />
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -106,9 +107,9 @@
         <mark key="[" line="52" column="51" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476132317372">
-        <mark key="]" line="141" column="57" />
-        <mark key="^" line="141" column="57" />
-        <mark key="." line="141" column="57" />
+        <mark key="]" line="140" column="57" />
+        <mark key="^" line="140" column="57" />
+        <mark key="." line="140" column="57" />
       </file>
       <file name="/Ruby Console" timestamp="1476135593106">
         <mark key="[" line="0" column="0" />
@@ -201,9 +202,6 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/requests/infobutton_query_spec.rb" timestamp="1475623785158">
-        <mark key="." line="230" column="68" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/helpers/searches_helper.rb" timestamp="1475263904002">
         <mark key="[" line="8" column="14" />
