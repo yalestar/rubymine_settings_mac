@@ -15,17 +15,16 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475871471799">
+      <file name="/a.dummy" timestamp="1476129027180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1475870842715">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
@@ -43,7 +42,6 @@
       <file name="$USER_HOME$/dev/paladin/spec/spec_helper.rb" timestamp="1475870942394">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_search_spec.rb" timestamp="1475875662885" />
       <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1474664811597">
         <mark key="[" line="145" column="28" />
       </file>
@@ -97,7 +95,10 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475620007632">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="/Ruby Console" timestamp="1475875524280">
+      <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476129044011">
+        <mark key="[" line="122" column="55" />
+      </file>
+      <file name="/Ruby Console" timestamp="1476128942030">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -156,7 +157,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1475103443389">
         <mark key="[" line="36" column="13" />
       </file>
-      <file name="/fragment.rb" timestamp="1475875632860">
+      <file name="/fragment.rb" timestamp="1476128568064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
