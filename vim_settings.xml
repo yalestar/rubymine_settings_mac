@@ -15,13 +15,12 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476137804980">
+      <file name="/a.dummy" timestamp="1476220536766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib/elasticsearch/model/indexing.rb" timestamp="1476214277307" />
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476138377097">
         <mark key="[" line="45" column="10" />
         <mark key="]" line="45" column="10" />
@@ -33,14 +32,18 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476216901856" />
+      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476217897305">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1476135670641">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1476218343892">
         <mark key="[" line="50" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1476138769093">
@@ -59,8 +62,15 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/features_helper.rb" timestamp="1476220625167" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/support/webmock.rb" timestamp="1476220285754">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
@@ -95,7 +105,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476137926560">
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476217850376">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
@@ -107,17 +117,15 @@
         <mark key="[" line="52" column="51" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476217290575">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="132" column="57" />
-        <mark key="." line="105" column="0" />
+        <mark key="^" line="137" column="57" />
       </file>
-      <file name="/Ruby Console" timestamp="1476217196787">
+      <file name="/Ruby Console" timestamp="1476220239684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
         <mark key="[" line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/admin_treatment_study.feature" timestamp="1476220041337" />
       <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470689697303">
         <mark key="[" line="4" column="14" />
       </file>
@@ -172,6 +180,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-2.0.0/lib/elasticsearch/api/actions/search.rb" timestamp="1476218367251" />
       <file name="/Dummy.txt" timestamp="1475510959539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -180,7 +189,8 @@
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="/fragment.rb" timestamp="1476214008887">
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476218823330" />
+      <file name="/fragment.rb" timestamp="1476219100390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -197,6 +207,7 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-transport-2.0.0/lib/elasticsearch/transport/client.rb" timestamp="1476218601120" />
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_results_object.rb" timestamp="1475095264119">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="4" column="29" />
