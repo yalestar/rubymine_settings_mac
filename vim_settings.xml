@@ -21,7 +21,7 @@
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib/elasticsearch/model/indexing.rb" timestamp="1476137731196" />
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib/elasticsearch/model/indexing.rb" timestamp="1476214277307" />
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476138377097">
         <mark key="[" line="45" column="10" />
         <mark key="]" line="45" column="10" />
@@ -111,7 +111,7 @@
         <mark key="^" line="138" column="57" />
         <mark key="." line="138" column="39" />
       </file>
-      <file name="/Ruby Console" timestamp="1476138759191">
+      <file name="/Ruby Console" timestamp="1476214227358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -125,12 +125,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1476137567552">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_search_spec.rb" timestamp="1475871687552">
         <mark key="[" line="9" column="0" />
@@ -177,7 +171,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-2.0.0/lib/elasticsearch/api/actions/create.rb" timestamp="1476137700167" />
       <file name="/Dummy.txt" timestamp="1475510959539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,7 +186,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1476138842889">
+      <file name="/fragment.rb" timestamp="1476214008887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
