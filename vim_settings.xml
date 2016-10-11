@@ -33,6 +33,7 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476216901856" />
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -105,13 +106,13 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475620007632">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476137602596">
-        <mark key="[" line="138" column="39" />
-        <mark key="]" line="138" column="39" />
-        <mark key="^" line="138" column="57" />
-        <mark key="." line="138" column="39" />
+      <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476217290575">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="132" column="57" />
+        <mark key="." line="105" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476214227358">
+      <file name="/Ruby Console" timestamp="1476217196787">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -156,7 +157,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/model_search.rb" timestamp="1474668563206">
         <mark key="[" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1476133171976">
+      <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1476217058766">
         <mark key="[" line="84" column="35" />
         <mark key="]" line="85" column="48" />
         <mark key="^" line="85" column="48" />
@@ -178,13 +179,6 @@
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476138895018">
-        <mark key="'" line="15" column="60" />
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1476214008887">
         <mark key="[" line="0" column="0" />
@@ -247,7 +241,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>enable_net_connections</text>
@@ -259,31 +253,31 @@
         <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghCiAgZW5k</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBrbGFzcy5pbmRleF9uYW1lKGluZGV4X25hbWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghCiAgZW5k</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBrbGFzcy5pbmRleF9uYW1lKGluZGV4X25hbWUpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXhfbmFtZShyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uaW5kZXhfbmFtZQogIGVuZAoKICBkZWYgZG9jdW1lbnRfdHlwZShyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uZG9jdW1lbnRfdHlwZQogIGVuZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZG9jdW1lbnRfZXhpc3RzPyhyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uY2xpZW50LmV4aXN0cz8oCiAgICAgIGluZGV4OiBpbmRleF9uYW1lKHJlY29yZCksCiAgICAgIHR5cGU6IGRvY3VtZW50X3R5cGUocmVjb3JkKSwKICAgICAgaWQ6IHJlY29yZC5pZAogICAgKQogIGVuZAo=</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICBkZWYgaW5kZXhfbmFtZShyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uaW5kZXhfbmFtZQogIGVuZAoKICBkZWYgZG9jdW1lbnRfdHlwZShyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uZG9jdW1lbnRfdHlwZQogIGVuZAoK</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
