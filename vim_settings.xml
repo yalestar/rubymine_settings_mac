@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/support/webmock.rb" timestamp="1476310243613" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,13 +112,19 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475620007632">
         <mark key="[" line="52" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476310433485">
+        <mark key="[" line="114" column="52" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="116" column="5" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1476295281217">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476302085770">
+      <file name="/Ruby Console" timestamp="1476310638351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -177,6 +184,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/webmock-1.22.6/lib/webmock/webmock.rb" timestamp="1476310636078" />
       <file name="/Dummy.txt" timestamp="1475510959539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,7 +193,7 @@
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="/fragment.rb" timestamp="1476295288213">
+      <file name="/fragment.rb" timestamp="1476310537780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -193,7 +201,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1475182198469">
         <mark key="[" line="39" column="3" />
       </file>
-      <file name="/a.regexp" timestamp="1476137784988">
+      <file name="/a.regexp" timestamp="1476310180451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/db/migrate/20160928195443_rename_search_result_to_search_term.rb" timestamp="1475168917537">
@@ -246,7 +254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBFTEFTVElDU0VBUkNIX1VSTAo=</text>
       </register>
       <register name="-" type="4">
         <text>Faraday::ConnectionFailed</text>
@@ -258,34 +266,34 @@
         <text encoding="base64">ICByZXNjdWVfZnJvbSBGYXJhZGF5OjpDb25uZWN0aW9uRmFpbGVkLCB3aXRoOiA6c2VhcmNoX2Vycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBFTEFTVElDU0VBUkNIX1VSTAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghCiAgZW5k</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBrbGFzcy5pbmRleF9uYW1lKGluZGV4X25hbWUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
