@@ -32,8 +32,10 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476227040940">
-        <mark key="[" line="40" column="59" />
+      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476290120088">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
@@ -109,7 +111,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1475620007632">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="/Ruby Console" timestamp="1476226452674">
+      <file name="/Ruby Console" timestamp="1476289813348">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -237,8 +239,8 @@
       <jump line="18" column="60" filename="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Faraday::ConnectionFailed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
       </register>
       <register name="-" type="4">
         <text>Faraday::ConnectionFailed</text>
@@ -250,34 +252,34 @@
         <text encoding="base64">ICByZXNjdWVfZnJvbSBGYXJhZGF5OjpDb25uZWN0aW9uRmFpbGVkLCB3aXRoOiA6c2VhcmNoX2Vycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghCiAgZW5k</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBrbGFzcy5pbmRleF9uYW1lKGluZGV4X25hbWUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghCiAgZW5k</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBrbGFzcy5pbmRleF9uYW1lKGluZGV4X25hbWUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXhfbmFtZShyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uaW5kZXhfbmFtZQogIGVuZAoKICBkZWYgZG9jdW1lbnRfdHlwZShyZWNvcmQpCiAgICByZWNvcmQuY2xhc3MuX19lbGFzdGljc2VhcmNoX18uZG9jdW1lbnRfdHlwZQogIGVuZAoK</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
