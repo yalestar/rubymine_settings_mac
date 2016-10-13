@@ -113,10 +113,9 @@
         <mark key="[" line="52" column="51" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/env.rb" timestamp="1476310433485">
-        <mark key="[" line="114" column="52" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="116" column="5" />
-        <mark key="." line="116" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1476295281217">
         <mark key="[" line="31" column="16" />
