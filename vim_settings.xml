@@ -21,10 +21,11 @@
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476138377097">
-        <mark key="[" line="45" column="10" />
-        <mark key="]" line="45" column="10" />
-        <mark key="." line="45" column="10" />
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib/elasticsearch/model/indexing.rb" timestamp="1476376076087" />
+      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476376388944">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
         <mark key="^" line="45" column="9" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
@@ -53,6 +54,7 @@
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-api-2.0.0/lib/elasticsearch/api/actions/indices/delete.rb" timestamp="1476376506290" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/plugins/jquery.elasticsearch.js" timestamp="1472001839459">
         <mark key="[" line="23" column="20" />
       </file>
@@ -67,7 +69,6 @@
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/support/webmock.rb" timestamp="1476310243613" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,6 +102,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/lib/condition_importer_spec.rb" timestamp="1476376773002">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476217850376">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="75" />
@@ -123,7 +129,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476310638351">
+      <file name="/Ruby Console" timestamp="1476376804678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -183,7 +189,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/webmock-1.22.6/lib/webmock/webmock.rb" timestamp="1476310636078" />
       <file name="/Dummy.txt" timestamp="1475510959539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,7 +197,8 @@
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="/fragment.rb" timestamp="1476310537780">
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476376747933" />
+      <file name="/fragment.rb" timestamp="1476376025840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -252,11 +258,11 @@
       <jump line="18" column="60" filename="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBFTEFTVElDU0VBUkNIX1VSTAo=</text>
+      <register name="&quot;" type="4">
+        <text>described_class</text>
       </register>
       <register name="-" type="4">
-        <text>Faraday::ConnectionFailed</text>
+        <text>described_class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -265,37 +271,37 @@
         <text encoding="base64">ICByZXNjdWVfZnJvbSBGYXJhZGF5OjpDb25uZWN0aW9uRmFpbGVkLCB3aXRoOiA6c2VhcmNoX2Vycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBFTEFTVElDU0VBUkNIX1VSTAo=</text>
+        <text encoding="base64">ICBbVHJlYXRtZW50XS5lYWNoIGRvIHxrbGFzc3wK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBFTEFTVElDU0VBUkNIX1VSTAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghCiAgZW5k</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBrbGFzcy5pbmRleF9uYW1lKGluZGV4X25hbWUpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBpbmRleF9uYW1lID0gIiN7a2xhc3MubmFtZS5kb3duY2FzZS5wbHVyYWxpemV9X3Rlc3RfaW5kZXgiCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>48</text>
       </register>
     </registers>
     <search>
@@ -310,7 +316,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>62</entry>
         <entry>5</entry>
         <entry>88</entry>
         <entry>102</entry>
@@ -330,6 +335,7 @@
         <entry>19</entry>
         <entry>11</entry>
         <entry>22</entry>
+        <entry>48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
