@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/paladin/app/models/search_term.rb" timestamp="1475168928054">
@@ -15,7 +15,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476295240959">
+      <file name="/a.dummy" timestamp="1476378590315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
@@ -84,6 +84,7 @@
         <mark key="." line="29" column="82" />
         <mark key="^" line="36" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/searches_controller_spec.rb" timestamp="1476378627668" />
       <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1475183792319">
         <mark key="[" line="1" column="0" />
       </file>
@@ -102,10 +103,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/lib/condition_importer_spec.rb" timestamp="1476376773002">
+      <file name="$USER_HOME$/dev/paladin/spec/lib/condition_importer_spec.rb" timestamp="1476378389644">
         <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476217850376">
         <mark key="[" line="5" column="45" />
@@ -129,7 +131,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476376804678">
+      <file name="/Ruby Console" timestamp="1476378233527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -221,6 +223,12 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/requests/infobutton_query_spec.rb" timestamp="1476379121917">
+        <mark key="[" line="144" column="12" />
+        <mark key="]" line="144" column="10" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="144" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/helpers/searches_helper.rb" timestamp="1475263904002">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="9" column="55" />
@@ -259,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>described_class</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>described_class</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>

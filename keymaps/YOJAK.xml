@@ -117,6 +117,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceVariable" />
   <action id="Jdbc.OpenConsole" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
