@@ -23,10 +23,10 @@
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib/elasticsearch/model/indexing.rb" timestamp="1476376076087" />
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476403261258">
-        <mark key="[" line="54" column="25" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="56" column="0" />
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
