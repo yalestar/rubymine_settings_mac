@@ -15,18 +15,18 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476378590315">
+      <file name="/a.dummy" timestamp="1476403094226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/elasticsearch-model-0.1.9/lib/elasticsearch/model/indexing.rb" timestamp="1476376076087" />
-      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476376388944">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="45" column="9" />
+      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476403261258">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
@@ -133,7 +133,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476378233527">
+      <file name="/Ruby Console" timestamp="1476403227443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -201,8 +201,13 @@
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476376747933" />
-      <file name="/fragment.rb" timestamp="1476376025840">
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476403198244">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/fragment.rb" timestamp="1476403172594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -311,7 +316,7 @@
         <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>48</text>
+        <text>37</text>
       </register>
     </registers>
     <search>
@@ -326,7 +331,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
         <entry>88</entry>
         <entry>102</entry>
         <entry>23</entry>
@@ -346,6 +350,7 @@
         <entry>11</entry>
         <entry>22</entry>
         <entry>48</entry>
+        <entry>37</entry>
       </history-cmd>
       <history-expr />
       <history-input />
