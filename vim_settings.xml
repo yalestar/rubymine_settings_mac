@@ -15,6 +15,11 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/shared_examples/search_indices.rb" timestamp="1476822395561">
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1476403094226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,6 +57,12 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/plugins/jquery.elasticsearch.js" timestamp="1472001839459">
         <mark key="[" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_index_spec.rb" timestamp="1476822354909">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="52" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1474664811597">
         <mark key="[" line="145" column="28" />
@@ -105,7 +116,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/condition_index_spec.rb" timestamp="1476819997047" />
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/condition_index_spec.rb" timestamp="1476822429583">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476217850376">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="75" />
@@ -128,7 +143,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476725191948">
+      <file name="/Ruby Console" timestamp="1476822031497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -205,7 +220,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1476403172594">
+      <file name="/fragment.rb" timestamp="1476821231081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -271,11 +286,11 @@
       <jump line="18" column="60" filename="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIHQuX19lbGFzdGljc2VhcmNoX18uZGVsZXRlX2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0Ll9fZWxhc3RpY3NlYXJjaF9fLmluZGV4X2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>treatments</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>treatments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -284,37 +299,37 @@
         <text encoding="base64">ICByZXNjdWVfZnJvbSBGYXJhZGF5OjpDb25uZWN0aW9uRmFpbGVkLCB3aXRoOiA6c2VhcmNoX2Vycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIHQuX19lbGFzdGljc2VhcmNoX18uZGVsZXRlX2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0Ll9fZWxhc3RpY3NlYXJjaF9fLmluZGV4X2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCg==</text>
+        <text encoding="base64">ICAjIGxldCEoOnJlY29yZCkgeyAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIHQuX19lbGFzdGljc2VhcmNoX18uZGVsZXRlX2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0Ll9fZWxhc3RpY3NlYXJjaF9fLmluZGV4X2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9saXN0KDpjb25kaXRpb24sIDE1LCA6cHVibGlzaGVkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbVHJlYXRtZW50XS5lYWNoIGRvIHxrbGFzc3wK</text>
+        <text encoding="base64">ICAgIGl0ICdpbmRleGVzIG1hbnkgdHJlYXRtZW50cyB1cG9uIGNyZWF0aW9uJyBkbwogICAgICBjcmVhdGVfbGlzdCg6dHJlYXRtZW50LCAxNSwgOnB1Ymxpc2hlZCkKICAgICAgZXhwZWN0KGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jb3VudCkudG8gZXEoMTUpCiAgICBlbmQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBFTEFTVElDU0VBUkNIX1VSTAo=</text>
+        <text encoding="base64">ICAgIGl0ICdpbmRleGVzIGEgdHJlYXRtZW50IHVwb24gY3JlYXRpb24nIGRvCiAgICAgIHRyZWF0bWVudCA9IGNyZWF0ZSg6dHJlYXRtZW50LCA6cHVibGlzaGVkKQogICAgICBleHBlY3QoZGVzY3JpYmVkX2NsYXNzLl9fZWxhc3RpY3NlYXJjaF9fLmZpcnN0LnByaW1hcnlfbmFtZSkudG8gZXEodHJlYXRtZW50LnByaW1hcnlfbmFtZSkKICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICMgaXQgJ2luZGV4ZXMgYSBjb25kaXRpb24gdXBvbiBjcmVhdGlvbicgZG8KICAgICMgICBjb25kaXRpb24gPSBjcmVhdGUoOmNvbmRpdGlvbiwgOnB1Ymxpc2hlZCkKICAgICMgICBleHBlY3QoZGVzY3JpYmVkX2NsYXNzLl9fZWxhc3RpY3NlYXJjaF9fLmZpcnN0Lm5hbWUpLnRvIGVxKGNvbmRpdGlvbi5uYW1lKQogICAgIyBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFuZCBJIHNob3VsZCBub3Qgc2VlICJHcmVlbiBDaGlsZSBWZXJkZSIgdGV4dAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgIyB1cGRhdGVfZmllbGQgPSBmaWVsZC50b19zeW0KICAgICAgIyByZWNvcmQuc2VuZCgiI3t1cGRhdGVfZmllbGR9PSIsIGRxKQogICAgICAjIHJlY29yZC5zZW5kKDpzYXZlISkKICAgICAgIyBleHBlY3QocmVjb3JkLnNlbmQoZmllbGQudG9fc3ltKSkudG8gZXEoZHEp</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBEYXRhYmFzZVJld2luZGVyLmNsZWFuX2FsbAojCiMgQWZ0ZXIgZG8KIyAgIERhdGFiYXNlUmV3aW5kZXIuY2xlYW4KIyBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIHQuX19lbGFzdGljc2VhcmNoX18uZGVsZXRlX2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0Ll9fZWxhc3RpY3NlYXJjaF9fLmluZGV4X2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIGRlc2NyaWJlZF9jbGFzcy5fX2VsYXN0aWNzZWFyY2hfXy5jcmVhdGVfaW5kZXghKGluZGV4OiAndHJlYXRtZW50c190ZXN0X2luZGV4JykKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIHQuX19lbGFzdGljc2VhcmNoX18uZGVsZXRlX2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0Ll9fZWxhc3RpY3NlYXJjaF9fLmluZGV4X2RvY3VtZW50KGluZGV4OiB0LmNsYXNzLmluZGV4X25hbWUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>11</text>
       </register>
     </registers>
     <search>
@@ -345,10 +360,10 @@
         <entry>10</entry>
         <entry>6</entry>
         <entry>19</entry>
-        <entry>11</entry>
         <entry>22</entry>
         <entry>48</entry>
         <entry>37</entry>
+        <entry>11</entry>
       </history-cmd>
       <history-expr />
       <history-input />
