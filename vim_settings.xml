@@ -15,17 +15,21 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_save.js.erb" timestamp="1476915383576">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/shared_examples/search_indices.rb" timestamp="1476822395561">
         <mark key="]" line="14" column="28" />
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1476907281018">
+      <file name="/a.dummy" timestamp="1476915059835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/genders/confirm.js.erb" timestamp="1476914713425" />
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476724577731">
         <mark key="[" line="61" column="0" />
       </file>
@@ -45,14 +49,16 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1476907144763">
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1476915344610">
+        <mark key="[" line="51" column="17" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476907204993">
         <mark key="[" line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1476914818779" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1476295137652">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -93,6 +99,7 @@
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/genders_controller.rb" timestamp="1476914496520" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,7 +115,6 @@
         <mark key="." line="29" column="82" />
         <mark key="^" line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/datatables/clinical_lists_datatable.rb" timestamp="1476900438149" />
       <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1476396341927">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -170,7 +176,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476907107865">
+      <file name="/Ruby Console" timestamp="1476914161155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -190,6 +196,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_lines/_confirm.html.haml" timestamp="1476914443731">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1476732589159">
         <mark key="[" line="7" column="87" />
       </file>
@@ -207,6 +219,12 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
         <mark key="^" line="27" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="7" column="52" />
+        <mark key="^" line="7" column="52" />
+        <mark key="." line="7" column="52" />
       </file>
       <file name="$USER_HOME$/dev/paladin/assari.rb" timestamp="1469661663977">
         <mark key="[" line="4" column="0" />
@@ -257,7 +275,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1476831827132">
+      <file name="/fragment.rb" timestamp="1476915151617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -324,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conditions</text>
+        <text>l_</text>
       </register>
       <register name="-" type="4">
-        <text>conditions</text>
+        <text>l_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
