@@ -51,7 +51,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1476833344335" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1476295137652">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -153,7 +152,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476833886793">
+      <file name="/Ruby Console" timestamp="1476896779801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
