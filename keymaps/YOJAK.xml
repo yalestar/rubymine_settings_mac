@@ -138,6 +138,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="Rails.SwitchToModel">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -186,5 +189,11 @@
   <action id="openAssertEqualsDiff" />
   <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToController">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToView">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" />
   </action>
 </keymap>
