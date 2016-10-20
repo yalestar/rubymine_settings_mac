@@ -327,6 +327,11 @@
         <mark key="^" line="80" column="19" />
         <mark key="." line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.haml" timestamp="1476981485083">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -350,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'List ID'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'List ID'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
