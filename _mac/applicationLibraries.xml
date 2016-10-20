@@ -35461,6 +35461,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/spring-commands-rspec-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="spring-commands-rspec (v1.0.4@567ef0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/spring-commands-rspec-567ef04de3df/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/spring-commands-rspec-567ef04de3df/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v2.0.0, rbenv: 1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/sprockets-2.0.0/lib" />
