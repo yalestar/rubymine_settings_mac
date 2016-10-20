@@ -27,7 +27,6 @@
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1475186455715">
         <mark key="[" line="96" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/genders/confirm.js.erb" timestamp="1476914713425" />
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1476724577731">
         <mark key="[" line="61" column="0" />
       </file>
@@ -58,7 +57,6 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1476922570224" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1476295137652">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -99,7 +97,6 @@
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/genders_controller.rb" timestamp="1476914496520" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -177,7 +174,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1476922619347">
+      <file name="/Ruby Console" timestamp="1476978304304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
