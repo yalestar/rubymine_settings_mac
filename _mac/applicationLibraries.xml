@@ -22111,6 +22111,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.4/support" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.4.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.5/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mysql2-0.4.5/support" />
+      </SOURCES>
+    </library>
     <library name="nap (v0.5.1, rbenv: 1.9.3-p429) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p429/lib/ruby/gems/1.9.1/gems/nap-0.5.1/lib" />
