@@ -159,9 +159,6 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1477000626245">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/edit.html.erb" timestamp="1477430262925">
-        <mark key="[" line="38" column="128" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_ndc.rb" timestamp="1476898722474">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
