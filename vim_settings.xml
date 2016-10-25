@@ -9,7 +9,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/campaigns_controller.rb" timestamp="1477343846146" />
       <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="3" />
@@ -24,9 +23,6 @@
       </file>
       <file name="/a.dummy" timestamp="1477004235705">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1477342846548">
-        <mark key="[" line="96" column="93" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
