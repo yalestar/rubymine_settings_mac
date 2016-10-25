@@ -52,6 +52,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1477430490894">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1476998053470">
         <mark key="[" line="24" column="58" />
         <mark key="]" line="24" column="58" />
@@ -153,8 +159,8 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1477000626245">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/edit.html.erb" timestamp="1476920945927">
-        <mark key="[" line="1" column="68" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/edit.html.erb" timestamp="1477430262925">
+        <mark key="[" line="38" column="128" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_ndc.rb" timestamp="1476898722474">
         <mark key="[" line="0" column="6" />
@@ -173,7 +179,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1477342831214">
+      <file name="/Ruby Console" timestamp="1477430128357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -187,6 +193,12 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470689697303">
         <mark key="[" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/datatables/clinical_list_rules_datatable.rb" timestamp="1477430653625">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/save_search_log_job_spec.rb" timestamp="1475616789779">
         <mark key="[" line="18" column="5" />
@@ -327,6 +339,12 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" timestamp="1477430709981">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -349,11 +367,11 @@
       <jump line="18" column="60" filename="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VhcmNoX29wdGlvbnMgPSBTZWFyY2hPcHRpb25zLm5ldyhzZWFyY2hfdGVybTogJ0Fja25lZScsIHVzZXI6IHVzZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>rule_type</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>rule_type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -362,37 +380,37 @@
         <text encoding="base64">ICAgICAgYXV0aG9yaXplIEBjbGluaWNhbF9saXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VhcmNoX29wdGlvbnMgPSBTZWFyY2hPcHRpb25zLm5ldyhzZWFyY2hfdGVybTogJ0Fja25lZScsIHVzZXI6IHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGluaWNhbF9saXN0X2xpbmVzX2F0dHJpYnV0ZXM6IFsKICAgICAgICAgIDppZAogICAgICAgIF0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmlyc3QgPSBkZXNjcmliZWRfY2xhc3MuX19lbGFzdGljc2VhcmNoX18uZmlyc3QK</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoX29wdGlvbnMgPSBTZWFyY2hPcHRpb25zLm5ldyhzZWFyY2hfdGVybTogJ0Fja25lZScsIHVzZXI6IHVzZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGd1aWQgeyBTZWN1cmVSYW5kb20uaGV4IH0KICAgIGRlc2NyaXB0aW9uIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KICAgIGVtYWlsX3RleHQgeyBGYWtlcjo6SGFja2VyLnNheV9zb21ldGhpbmdfc21hcnQgfQogICAgcGhhcm1hY2lzdF9tZXNzYWdlIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KICAgIGFzc29jaWF0aW9uIDp0cmVhdG1lbnQsIGZhY3Rvcnk6IDp0cmVhdG1lbnQKICAgIGFzc29jaWF0aW9uIDpjb25kaXRpb24sIGZhY3Rvcnk6IDpjb25kaXRpb24KICAgIGxhbmRpbmdfcGFnZV9tZXNzYWdlIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KCiAgICBmYWN0b3J5IDpjYW1wYWlnbl93aXRoX2FsdGVybmF0ZXMgZG8KICAgICAgYWZ0ZXIoOmNyZWF0ZSkgZG8gfGNhbXBhaWdufAogICAgICAgIGNyZWF0ZV9saXN0KDpjYW1wYWlnbl9hbHRlcm5hdGVfdHJlYXRtZW50LCAzLCBjYW1wYWlnbjogY2FtcGFpZ24pCiAgICAgIGVuZAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgZmlyc3QgPSBkZXNjcmliZWRfY2xhc3MuX19lbGFzdGljc2VhcmNoX18uZmlyc3QK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGd1aWQgeyBTZWN1cmVSYW5kb20uaGV4IH0KICAgIGRlc2NyaXB0aW9uIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KICAgIGVtYWlsX3RleHQgeyBGYWtlcjo6SGFja2VyLnNheV9zb21ldGhpbmdfc21hcnQgfQogICAgcGhhcm1hY2lzdF9tZXNzYWdlIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KICAgIGFzc29jaWF0aW9uIDp0cmVhdG1lbnQsIGZhY3Rvcnk6IDp0cmVhdG1lbnQKICAgIGFzc29jaWF0aW9uIDpjb25kaXRpb24sIGZhY3Rvcnk6IDpjb25kaXRpb24KICAgIGxhbmRpbmdfcGFnZV9tZXNzYWdlIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KCiAgICBmYWN0b3J5IDpjYW1wYWlnbl93aXRoX2FsdGVybmF0ZXMgZG8KICAgICAgYWZ0ZXIoOmNyZWF0ZSkgZG8gfGNhbXBhaWdufAogICAgICAgIGNyZWF0ZV9saXN0KDpjYW1wYWlnbl9hbHRlcm5hdGVfdHJlYXRtZW50LCAzLCBjYW1wYWlnbjogY2FtcGFpZ24pCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyByZWRpcmVjdF90byBhZG1pbl9jbGluaWNhbF9saXN0c191cmwsIG5vdGljZTogJ0NsaW5pY2FsIGxpc3Qgd2FzIHN1Y2Nlc3NmdWxseSBkZXN0cm95ZWQuJwo=</text>
+        <text encoding="base64">ICAgIGd1aWQgeyBTZWN1cmVSYW5kb20uaGV4IH0KICAgIGRlc2NyaXB0aW9uIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KICAgIGVtYWlsX3RleHQgeyBGYWtlcjo6SGFja2VyLnNheV9zb21ldGhpbmdfc21hcnQgfQogICAgcGhhcm1hY2lzdF9tZXNzYWdlIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KICAgIGFzc29jaWF0aW9uIDp0cmVhdG1lbnQsIGZhY3Rvcnk6IDp0cmVhdG1lbnQKICAgIGFzc29jaWF0aW9uIDpjb25kaXRpb24sIGZhY3Rvcnk6IDpjb25kaXRpb24KICAgIGxhbmRpbmdfcGFnZV9tZXNzYWdlIHsgRmFrZXI6OkhhY2tlci5zYXlfc29tZXRoaW5nX3NtYXJ0IH0KCiAgICBmYWN0b3J5IDpjYW1wYWlnbl93aXRoX2FsdGVybmF0ZXMgZG8KICAgICAgYWZ0ZXIoOmNyZWF0ZSkgZG8gfGNhbXBhaWdufAogICAgICAgIGNyZWF0ZV9saXN0KDpjYW1wYWlnbl9hbHRlcm5hdGVfdHJlYXRtZW50LCAzLCBjYW1wYWlnbjogY2FtcGFpZ24pCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGgxPk5ldyBBZG1pbiBDbGluaWNhbCBMaXN0PC9oMT4K</text>
+        <text encoding="base64">ICAgICAgIyByZWRpcmVjdF90byBhZG1pbl9jbGluaWNhbF9saXN0c191cmwsIG5vdGljZTogJ0NsaW5pY2FsIGxpc3Qgd2FzIHN1Y2Nlc3NmdWxseSBkZXN0cm95ZWQuJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBza2lwX3BvbGljeV9zY29wZSAjIFRPRE86IFlKSzoK</text>
+        <text encoding="base64">PGgxPk5ldyBBZG1pbiBDbGluaWNhbCBMaXN0PC9oMT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgIyBza2lwX3BvbGljeV9zY29wZSAjIFRPRE86IFlKSzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlIEFkbWluCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>24</text>
       </register>
     </registers>
     <search>
@@ -407,8 +425,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
-        <entry>81</entry>
         <entry>42</entry>
         <entry>9</entry>
         <entry>8</entry>
@@ -427,6 +443,8 @@
         <entry>20</entry>
         <entry>2</entry>
         <entry>25</entry>
+        <entry>30</entry>
+        <entry>24</entry>
       </history-cmd>
       <history-expr />
       <history-input />
