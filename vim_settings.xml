@@ -40,11 +40,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1477434228203">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1477514448659">
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
@@ -160,7 +160,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1477000626245">
         <mark key="[" line="52" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/edit.html.erb" timestamp="1477435733532">
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/edit.html.erb" timestamp="1477514345818">
         <mark key="[" line="22" column="43" />
         <mark key="]" line="19" column="15" />
         <mark key="^" line="19" column="15" />
@@ -294,15 +294,16 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1477510891042">
-        <mark key="[" line="0" column="9" />
+      <file name="/fragment.rb" timestamp="1477514349179">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477434428489">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477514461638">
+        <mark key="[" line="6" column="91" />
+        <mark key="]" line="6" column="91" />
+        <mark key="." line="6" column="91" />
+        <mark key="^" line="6" column="129" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1475182198469">
         <mark key="[" line="39" column="3" />
@@ -381,11 +382,11 @@
       <jump line="18" column="60" filename="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBTY2VuYXJpbyBPdXRsaW5lOiBTZWFyY2hpbmcgZnJvbSB0aGUgSG9tZSBQYWdlIGZvciBub24tcHVibGlzaGVkIENvbmRpdGlvbgogICAgR2l2ZW4gSSBhbSA8c2lnbmVkX2luX3N0YXRlPgogICAgQW5kIEkgZ28gdG8gdGhlIGhvbWUgcGFnZQogICAgQW5kIEkgc2VhcmNoIGZvciAic2xlZXB3YWxraW5nIiB3aXRoaW4gIiNob21lLWhvdy1pdC13b3JrcyAuY3VzdG9tLXNlYXJjaC1mb3JtIgogICAgVGhlbiBJIHNob3VsZCBiZSBvbiB0aGUgc2VhcmNoZXMgcGFnZQoKICBFeGFtcGxlczoKICAgIHwgc2lnbmVkX2luX3N0YXRlIHwKICAgIHwgc2lnbmVkIGluICAgICAgIHwK</text>
+      <register name="&quot;" type="4">
+        <text>_rule</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>_rule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
