@@ -1,0 +1,7 @@
+<templateSet group="JS">
+  <template name="dbg" value="debugger;" description="JS Debuggery" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
