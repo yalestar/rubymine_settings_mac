@@ -219,7 +219,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1477526542578">
+      <file name="/Ruby Console" timestamp="1477586502302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -417,7 +417,6 @@
         <mark key="^" line="26" column="55" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_factory.rb" timestamp="1477526032628" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
