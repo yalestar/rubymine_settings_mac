@@ -15,19 +15,20 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_save.js.erb" timestamp="1476920293804">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="18" />
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_save.js.erb" timestamp="1477589589151">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="18" />
         <mark key="^" line="0" column="22" />
-        <mark key="." line="24" column="18" />
+        <mark key="." line="39" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1477518545857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477524794760">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477590326827">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
@@ -45,11 +46,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1477514448659">
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1477590026508">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
         <mark key="^" line="41" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/new.js.erb" timestamp="1477516466473">
         <mark key="[" line="0" column="0" />
@@ -60,22 +61,23 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1477524872669">
+      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1477589413666">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="30" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1476998053470">
         <mark key="[" line="24" column="58" />
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/side_effect.rb" timestamp="1477590549108" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/plugins/jquery.elasticsearch.js" timestamp="1472001839459">
         <mark key="[" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_rule.rb" timestamp="1477523255032">
-        <mark key="[" line="14" column="63" />
+      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_rule.rb" timestamp="1477590577627">
+        <mark key="[" line="14" column="73" />
         <mark key="]" line="14" column="66" />
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
@@ -128,6 +130,7 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/study.rb" timestamp="1477590803671" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
         <mark key="]" line="29" column="82" />
@@ -272,6 +275,11 @@
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477590425404">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/conditions_index.rb" timestamp="1476137918324">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="75" />
@@ -338,7 +346,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1477526033837">
+      <file name="/fragment.rb" timestamp="1477589136642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
@@ -349,6 +357,7 @@
         <mark key="." line="6" column="91" />
         <mark key="^" line="6" column="129" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/campaign_alternate_treatments/edit.js.erb" timestamp="1477589215898" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
@@ -357,7 +366,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1475182198469">
         <mark key="[" line="39" column="3" />
       </file>
-      <file name="/a.regexp" timestamp="1477522936274">
+      <file name="/a.regexp" timestamp="1477590789463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/policies/clinical_list_rule_policy_spec.rb" timestamp="1477527012799">
@@ -411,11 +420,8 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" timestamp="1477523401333">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
-        <mark key="^" line="26" column="55" />
-        <mark key="." line="28" column="23" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" timestamp="1477590377895">
+        <mark key="^" line="61" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -441,11 +447,11 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/paladin/spec/policies/clinical_list_rule_policy_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>values</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -454,37 +460,38 @@
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">IyBUaGlzIHNwZWMgd2FzIGdlbmVyYXRlZCBieSByc3BlYy1yYWlscyB3aGVuIHlvdSByYW4gdGhlIHNjYWZmb2xkIGdlbmVyYXRvci4KIyBJdCBkZW1vbnN0cmF0ZXMgaG93IG9uZSBtaWdodCB1c2UgUlNwZWMgdG8gc3BlY2lmeSB0aGUgY29udHJvbGxlciBjb2RlIHRoYXQKIyB3YXMgZ2VuZXJhdGVkIGJ5IFJhaWxzIHdoZW4geW91IHJhbiB0aGUgc2NhZmZvbGQgZ2VuZXJhdG9yLgojCiMgSXQgYXNzdW1lcyB0aGF0IHRoZSBpbXBsZW1lbnRhdGlvbiBjb2RlIGlzIGdlbmVyYXRlZCBieSB0aGUgcmFpbHMgc2NhZmZvbGQKIyBnZW5lcmF0b3IuICBJZiB5b3UgYXJlIHVzaW5nIGFueSBleHRlbnNpb24gbGlicmFyaWVzIHRvIGdlbmVyYXRlIGRpZmZlcmVudAojIGNvbnRyb2xsZXIgY29kZSwgdGhpcyBnZW5lcmF0ZWQgc3BlYyBtYXkgb3IgbWF5IG5vdCBwYXNzLgojCiMgSXQgb25seSB1c2VzIEFQSXMgYXZhaWxhYmxlIGluIHJhaWxzIGFuZC9vciByc3BlYy1yYWlscy4gIFRoZXJlIGFyZSBhIG51bWJlcgojIG9mIHRvb2xzIHlvdSBjYW4gdXNlIHRvIG1ha2UgdGhlc2Ugc3BlY3MgZXZlbiBtb3JlIGV4cHJlc3NpdmUsIGJ1dCB3ZSdyZQojIHN0aWNraW5nIHRvIHJhaWxzIGFuZCByc3BlYy1yYWlscyBBUElzIHRvIGtlZXAgdGhpbmdzIHNpbXBsZSBhbmQgc3RhYmxlLgojCiMgQ29tcGFyZWQgdG8gZWFybGllciB2ZXJzaW9ucyBvZiB0aGlzIGdlbmVyYXRvciwgdGhlcmUgaXMgdmVyeSBsaW1pdGVkIHVzZSBvZgojIHN0dWJzIGFuZCBtZXNzYWdlIGV4cGVjdGF0aW9ucyBpbiB0aGlzIHNwZWMuICBTdHVicyBhcmUgb25seSB1c2VkIHdoZW4gdGhlcmUKIyBpcyBubyBzaW1wbGVyIHdheSB0byBnZXQgYSBoYW5kbGUgb24gdGhlIG9iamVjdCBuZWVkZWQgZm9yIHRoZSBleGFtcGxlLgojIE1lc3NhZ2UgZXhwZWN0YXRpb25zIGFyZSBvbmx5IHVzZWQgd2hlbiB0aGVyZSBpcyBubyBzaW1wbGVyIHdheSB0byBzcGVjaWZ5CiMgdGhhdCBhbiBpbnN0YW5jZSBpcyByZWNlaXZpbmcgYSBzcGVjaWZpYyBtZXNzYWdlLgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIGxldCEoOnVzZXIpIHsgRmFjdG9yeUdpcmwuYnVpbGQoOnVzZXIpIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgcHV0cyAiWU8iCiAgICAgICMgICByZW5kZXIgOmNyZWF0ZQogICAgICAjIGVsc2UKICAgICAgIyAgIHJlbmRlciA6ZWRpdAogICAgICAjIGVuZA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyBkZXNjcmliZWRfY2xhc3MubmV3KHVzZXIsIHJlY29yZCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyBkZXNjcmliZWRfY2xhc3MubmV3KHVzZXIsIHJlY29yZCkgfQo=</text>
+      <register name="5" type="4">
+        <text>attributes: [
+          :i</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFsKICAgICAgICAgICAgOmxpc3RfbmFtZSwgOmxpc3RfdHlwZSwKICAgICAgICAgICAgY2xpbmljYWxfbGlzdF9saW5lc19hdHRyaWJ1dGVzOiBbCiAgICAgICAgICAgICAgOmlkCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIGNsaW5pY2FsX2xpc3RfcnVsZXNfYXR0cmlidXRlczogWwogICAgICAgICAgICAgIDppZAogICAgICAgICAgICBdCiAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgIyAgIHJlZGlyZWN0X3RvIGFkbWluX2NsaW5pY2FsX2xpc3RzX3BhdGgsIG5vdGljZTogJ0xpc3Qgd2FzIHVwZGF0ZWQuJwogICAgICAjIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFsKICAgICAgICAgICAgOmxpc3RfbmFtZSwgOmxpc3RfdHlwZSwKICAgICAgICAgICAgY2xpbmljYWxfbGlzdF9saW5lc19hdHRyaWJ1dGVzOiBbCiAgICAgICAgICAgICAgOmlkCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIGNsaW5pY2FsX2xpc3RfcnVsZXNfYXR0cmlidXRlczogWwogICAgICAgICAgICAgIDppZAogICAgICAgICAgICBdCiAgICAgICAgICBdCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgICByZW5kZXIgJ3NhdmUn</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgZGVmIGRlbGV0ZT8KICAgIGFkbWluPyB8fCBwaGFybWFjaXN0PwogIGVuZA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>13</text>
+        <text>41</text>
       </register>
     </registers>
     <search>
@@ -499,7 +506,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>146</entry>
         <entry>130</entry>
         <entry>10</entry>
         <entry>6</entry>
@@ -519,6 +525,7 @@
         <entry>4</entry>
         <entry>7d</entry>
         <entry>13</entry>
+        <entry>41</entry>
       </history-cmd>
       <history-expr />
       <history-input />
