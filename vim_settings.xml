@@ -72,7 +72,6 @@
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/side_effect.rb" timestamp="1477590549108" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/plugins/jquery.elasticsearch.js" timestamp="1472001839459">
         <mark key="[" line="23" column="20" />
       </file>
@@ -130,7 +129,6 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/study.rb" timestamp="1477590803671" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
         <mark key="]" line="29" column="82" />
@@ -222,7 +220,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1477602932650">
+      <file name="/Ruby Console" timestamp="1477682843279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -274,11 +272,6 @@
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477590425404">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/conditions_index.rb" timestamp="1476137918324">
         <mark key="[" line="5" column="45" />
@@ -357,7 +350,6 @@
         <mark key="." line="6" column="91" />
         <mark key="^" line="6" column="129" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/campaign_alternate_treatments/edit.js.erb" timestamp="1477589215898" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
@@ -421,7 +413,7 @@
         <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" timestamp="1477590377895">
-        <mark key="^" line="61" column="54" />
+        <mark key="^" line="57" column="54" />
       </file>
     </filemarks>
     <jumps>
