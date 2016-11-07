@@ -21,7 +21,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1478554920499">
+      <file name="/a.dummy" timestamp="1478559194320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/plugins/jquery.elasticsearch.js" timestamp="1472001839459">
         <mark key="[" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_rule.rb" timestamp="1477946416629">
+      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_rule.rb" timestamp="1478559227080">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="14" column="66" />
         <mark key="." line="14" column="66" />
@@ -253,17 +253,17 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1478553640384">
+      <file name="/Ruby Console" timestamp="1478559070391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
         <mark key="[" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1477588136343">
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="65" />
-        <mark key="." line="15" column="65" />
-        <mark key="^" line="0" column="5" />
+      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/publishable_policy.rb" timestamp="1470689697303">
         <mark key="[" line="4" column="14" />
@@ -494,11 +494,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMK</text>
+      <register name="&quot;" type="4">
+        <text>coding_string</text>
       </register>
       <register name="-" type="4">
-        <text>records</text>
+        <text>coding_string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
