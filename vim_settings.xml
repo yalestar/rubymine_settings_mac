@@ -98,6 +98,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/datatables/datatable.rb" timestamp="1478561622030" />
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_index_spec.rb" timestamp="1476822354909">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -252,7 +253,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1478560394930">
+      <file name="/Ruby Console" timestamp="1478561225640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
@@ -273,11 +274,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="62" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/datatables/clinical_list_rules_datatable.rb" timestamp="1478554849898">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="48" column="50" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/datatables/clinical_list_rules_datatable.rb" timestamp="1478561664590">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="65" column="50" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/save_search_log_job_spec.rb" timestamp="1475616789779">
         <mark key="[" line="18" column="5" />
@@ -385,7 +386,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1478554607304">
+      <file name="/fragment.rb" timestamp="1478561524182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
