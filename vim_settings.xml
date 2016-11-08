@@ -98,7 +98,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/datatables/datatable.rb" timestamp="1478561622030" />
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_index_spec.rb" timestamp="1476822354909">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -326,6 +325,7 @@
         <mark key="." line="5" column="75" />
         <mark key="^" line="27" column="17" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib/rails/generators/active_record/migration/migration_generator.rb" timestamp="1478645757251" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
