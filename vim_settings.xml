@@ -295,10 +295,11 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/importer.rb" timestamp="1478818234855">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/paladin/lib/importer.rb" timestamp="1478818873821">
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
@@ -349,7 +350,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1478818151020">
+      <file name="/Ruby Console" timestamp="1478818879962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
