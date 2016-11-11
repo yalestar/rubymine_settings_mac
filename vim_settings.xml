@@ -173,7 +173,7 @@
         <mark key="[" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/importer.rb" timestamp="1478820446911">
-        <mark key="^" line="78" column="0" />
+        <mark key="^" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/Gemfile" timestamp="1477692376760">
         <mark key="[" line="117" column="31" />
@@ -237,11 +237,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="29" column="28" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/treatment_importer.rb" timestamp="1478821290834">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.html.erb" timestamp="1477519532378">
         <mark key="[" line="2" column="0" />
