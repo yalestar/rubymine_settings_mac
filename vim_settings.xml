@@ -175,9 +175,6 @@
         <mark key="^" line="65" column="50" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/rxnorm_inserter.rb" timestamp="1479144822152">
-        <mark key="[" line="29" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1476732589159">
         <mark key="[" line="7" column="87" />
       </file>
@@ -444,11 +441,6 @@
         <mark key="[" line="24" column="35" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/ndc_normalizer.rb" timestamp="1479147094141">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
