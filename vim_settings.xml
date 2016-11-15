@@ -9,7 +9,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479161243085" />
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479248645548">
+        <mark key="[" line="60" column="70" />
+        <mark key="]" line="60" column="70" />
+        <mark key="." line="60" column="70" />
+        <mark key="^" line="60" column="79" />
+      </file>
       <file name="/a.dummy" timestamp="1479074886451">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,6 +195,12 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/searches/community.html.haml" timestamp="1476135666855">
         <mark key="[" line="10" column="38" />
       </file>
@@ -264,11 +275,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_index_spec.rb" timestamp="1476822354909">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_index_spec.rb" timestamp="1479250203062">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
         <mark key="^" line="7" column="52" />
-        <mark key="." line="7" column="21" />
+        <mark key="." line="23" column="12" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
         <mark key="[" line="15" column="0" />
@@ -294,11 +305,11 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_inserter.rb" timestamp="1479161516327">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="30" column="45" />
-        <mark key="^" line="30" column="45" />
-        <mark key="." line="30" column="45" />
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_inserter.rb" timestamp="1479249128801">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="52" column="27" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="52" column="27" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
@@ -358,7 +369,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479236095669">
+      <file name="/Ruby Console" timestamp="1479249683356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -529,46 +540,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>lipitor</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>lipitor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29kaW5nX3N0cmluZzogJ2FzbGRrZmonLAo=</text>
+        <text encoding="base64">ICAgICAgbGV0ISg6bGlwaXRvcikgeyBjcmVhdGUoOnRyZWF0bWVudCwgcHJpbWFyeV9uYW1lOiAnTGlwaXRvcicsIHZpc2libGVfc3RhdGU6IDEpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR5cGUgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgIyBSYWlscy5sb2dnZXIuaW5mbygiLS0tLS0gV291bGQgYmUgY2FsbGluZyBJbnNlcnRlciBoZXJlIC0tLS0tIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVHJlYXRtZW50LmltcG9ydCgpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgIHB1dHMgQGltcG9ydF90eXBl</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlZiByZWluZGV4CiAgICAgIHB1dHMgQGluZGV4X3R5cGUKICAgIGVuZA==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCgiYmFkIGp1anUiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc2N1ZSBTdGFuZGFyZEVycm9yID0+IGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIHR5cGUgY29kZSBoZXJlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmFja2VkIG93bmVyOiAtPihjb250cm9sbGVyLCBtb2RlbCkgeyBjb250cm9sbGVyICYmIGNvbnRyb2xsZXIuY3VycmVudF91c2VyIH0K</text>
+        <text encoding="base64">ICAgICAgVHJlYXRtZW50LmltcG9ydCgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgIHB1dHMgQGltcG9ydF90eXBl</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiByZWluZGV4CiAgICAgIHB1dHMgQGluZGV4X3R5cGUKICAgIGVuZA==</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
