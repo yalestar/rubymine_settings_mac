@@ -268,9 +268,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/foochoo.rb" timestamp="1479320222263">
-        <mark key="[" line="56" column="19" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/foochoo.rb" timestamp="1479320222263" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="5" />
@@ -365,7 +363,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479320167429">
+      <file name="/Ruby Console" timestamp="1479322041270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
