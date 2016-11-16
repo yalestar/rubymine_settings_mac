@@ -220,7 +220,7 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="/fragment.rb" timestamp="1479254108680">
+      <file name="/fragment.rb" timestamp="1479320201736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
@@ -267,6 +267,9 @@
         <mark key="]" line="39" column="18" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/foochoo.rb" timestamp="1479320222263">
+        <mark key="[" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
@@ -362,7 +365,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479254078298">
+      <file name="/Ruby Console" timestamp="1479320167429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -400,7 +403,6 @@
         <mark key="." line="28" column="52" />
         <mark key="^" line="28" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/rxnorm/rxnsat.rb" timestamp="1479144886429" />
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
@@ -460,13 +462,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/2.3.0/csv.rb" timestamp="1479254107367" />
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/sizzlr.rb" timestamp="1479144724219" />
       <file name="/a.regexp" timestamp="1477947572013">
         <mark key="[" line="0" column="0" />
       </file>
