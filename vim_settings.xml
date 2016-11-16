@@ -220,7 +220,7 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="/fragment.rb" timestamp="1479147013971">
+      <file name="/fragment.rb" timestamp="1479254108680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
@@ -248,7 +248,6 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1476137501242">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="46" />
-        <mark key="^" line="80" column="19" />
         <mark key="." line="5" column="46" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.haml" timestamp="1478554983353">
@@ -274,12 +273,6 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_index_spec.rb" timestamp="1479250203062">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="7" column="52" />
-        <mark key="." line="23" column="12" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
         <mark key="[" line="15" column="0" />
@@ -369,7 +362,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479249683356">
+      <file name="/Ruby Console" timestamp="1479254078298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -467,6 +460,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/2.3.0/csv.rb" timestamp="1479254107367" />
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
