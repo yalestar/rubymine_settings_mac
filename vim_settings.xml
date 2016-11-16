@@ -9,11 +9,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479248645548">
-        <mark key="[" line="60" column="70" />
-        <mark key="]" line="60" column="70" />
-        <mark key="." line="60" column="70" />
-        <mark key="^" line="60" column="79" />
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479323141970">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="71" column="70" />
+        <mark key="." line="71" column="70" />
+        <mark key="^" line="71" column="79" />
       </file>
       <file name="/a.dummy" timestamp="1479074886451">
         <mark key="[" line="0" column="0" />
@@ -180,6 +180,11 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="65" column="50" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_rewriter.rb" timestamp="1479323194949">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1476732589159">
         <mark key="[" line="7" column="87" />
@@ -532,10 +537,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lipitor</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>lipitor</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
