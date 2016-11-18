@@ -195,6 +195,11 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479430392801">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="9" />
+        <mark key="." line="58" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="3" column="0" />
@@ -220,7 +225,7 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="/fragment.rb" timestamp="1479426268029">
+      <file name="/fragment.rb" timestamp="1479430414949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
@@ -356,13 +361,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1479430352635" />
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1477001001383">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479428326887">
+      <file name="/Ruby Console" timestamp="1479430358423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -445,7 +451,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/rxnorm_load_scripts.rb" timestamp="1479160269723">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479160220855">
+      <file name="/Dummy.txt" timestamp="1479430112123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
