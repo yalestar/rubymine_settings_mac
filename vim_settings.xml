@@ -9,8 +9,8 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479422799973" />
-      <file name="/a.dummy" timestamp="1479074886451">
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479428476314" />
+      <file name="/a.dummy" timestamp="1479426366206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -220,7 +220,7 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="/fragment.rb" timestamp="1479320201736">
+      <file name="/fragment.rb" timestamp="1479426268029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
@@ -362,7 +362,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479422769406">
+      <file name="/Ruby Console" timestamp="1479428326887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -505,6 +505,12 @@
         <mark key="]" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_uncompressor.rb" timestamp="1479428184343">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -530,11 +536,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oIkV4dHJhY3RpbmcgI3t6aXBmaWxlfSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>zip_file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -543,34 +549,34 @@
         <text encoding="base64">ICAgICAgbGV0ISg6bGlwaXRvcikgeyBjcmVhdGUoOnRyZWF0bWVudCwgcHJpbWFyeV9uYW1lOiAnTGlwaXRvcicsIHZpc2libGVfc3RhdGU6IDEpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBSYWlscy5sb2dnZXIuaW5mbygiLS0tLS0gV291bGQgYmUgY2FsbGluZyBJbnNlcnRlciBoZXJlIC0tLS0tIikK</text>
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oIkV4dHJhY3RpbmcgI3t6aXBmaWxlfSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgemlwZmlsZSA9IGZpbGVuYW1lIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhpdCgiYmFkIGp1anUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc2N1ZSBTdGFuZGFyZEVycm9yID0+IGUK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR5cGUgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgYmVnaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVHJlYXRtZW50LmltcG9ydCgpCg==</text>
+        <text encoding="base64">ICAgICAgYmVnaW4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIHB1dHMgQGltcG9ydF90eXBl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIyBlbmQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGRlZiByZWluZGV4CiAgICAgIHB1dHMgQGluZGV4X3R5cGUKICAgIGVuZA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
