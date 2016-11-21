@@ -45,6 +45,11 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_import.rake" timestamp="1479766402069">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -158,6 +163,7 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1479766310790" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -200,7 +206,11 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479759555084" />
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479766804708">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="3" column="0" />
@@ -229,11 +239,10 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_downloader_job.rb" timestamp="1479759364172" />
-      <file name="/fragment.rb" timestamp="1479758895845">
+      <file name="/fragment.rb" timestamp="1479766835848">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
         <mark key="[" line="14" column="17" />
@@ -284,6 +293,7 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_import_job.rb" timestamp="1479766358083" />
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="61" />
@@ -314,7 +324,6 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="52" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/generators/rx_norm_migration/templates/create_rx_norm_migration.rb" timestamp="1479763076975" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
@@ -367,13 +376,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1479766486975" />
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1477001001383">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479759483786">
+      <file name="/Ruby Console" timestamp="1479766813291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -456,7 +466,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/rxnorm_load_scripts.rb" timestamp="1479160269723">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479758866525">
+      <file name="/Dummy.txt" timestamp="1479766566068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
@@ -548,11 +558,11 @@
       <jump line="112" column="15" filename="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmluZm8oIkV4dHJhY3RpbmcgI3t6aXBmaWxlfSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>zip_file</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
