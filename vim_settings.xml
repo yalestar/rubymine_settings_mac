@@ -39,12 +39,6 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_import.rake" timestamp="1479759675083">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="52" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -221,6 +215,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/generators/rx_norm_migration/rx_norm_migration_generator.rb" timestamp="1479762533385">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.erb" timestamp="1477518989302">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -317,6 +314,7 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="52" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/generators/rx_norm_migration/templates/create_rx_norm_migration.rb" timestamp="1479763076975" />
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
       </file>
