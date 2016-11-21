@@ -9,7 +9,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnorm_importer.rb" timestamp="1479428476314" />
       <file name="/a.dummy" timestamp="1479426366206">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +38,12 @@
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_import.rake" timestamp="1479759675083">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="52" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
@@ -195,10 +200,12 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479430392801">
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="9" />
-        <mark key="." line="58" column="9" />
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479759555084">
+        <mark key="'" line="112" column="15" />
+        <mark key="[" line="134" column="20" />
+        <mark key="]" line="106" column="16" />
+        <mark key="^" line="106" column="16" />
+        <mark key="." line="106" column="16" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
         <mark key="[" line="0" column="37" />
@@ -225,7 +232,8 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="/fragment.rb" timestamp="1479430414949">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_downloader_job.rb" timestamp="1479759364172" />
+      <file name="/fragment.rb" timestamp="1479758895845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="9" />
@@ -361,14 +369,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1479430352635" />
       <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1477001001383">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1479430358423">
+      <file name="/Ruby Console" timestamp="1479759483786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -451,7 +458,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/rxnorm_load_scripts.rb" timestamp="1479160269723">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479430112123">
+      <file name="/Dummy.txt" timestamp="1479758866525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
@@ -540,6 +547,7 @@
       <jump line="18" column="20" filename="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_new.html.haml" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/paladin/spec/policies/clinical_list_rule_policy_spec.rb" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_rules_controller.rb" />
+      <jump line="112" column="15" filename="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
