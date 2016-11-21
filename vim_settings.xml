@@ -9,6 +9,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/db_rx_norm/migrate/20161110003757_create_rx_norm_tables.rb" timestamp="1479764861250">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
       <file name="/a.dummy" timestamp="1479426366206">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,13 +200,7 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479759555084">
-        <mark key="'" line="112" column="15" />
-        <mark key="[" line="134" column="20" />
-        <mark key="]" line="106" column="16" />
-        <mark key="^" line="106" column="16" />
-        <mark key="." line="106" column="16" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" timestamp="1479759555084" />
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="3" column="0" />
