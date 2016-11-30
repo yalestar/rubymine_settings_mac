@@ -287,11 +287,6 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_monthly_importer.rb" timestamp="1480542224385">
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="3" />
