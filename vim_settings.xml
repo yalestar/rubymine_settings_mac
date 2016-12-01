@@ -15,7 +15,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1480547935726">
+      <file name="/a.dummy" timestamp="1480614119086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -170,8 +170,8 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480526305399">
-        <mark key="[" line="20" column="37" />
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480614138633">
+        <mark key="[" line="1" column="29" />
         <mark key="]" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
@@ -273,7 +273,6 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/carrierwave-aws-1.0.0/lib/carrierwave/storage/aws.rb" timestamp="1480528750392" />
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1474925115112">
         <mark key="[" line="22" column="5" />
       </file>
@@ -288,7 +287,7 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_monthly_importer.rb" timestamp="1480548335014">
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_monthly_importer.rb" timestamp="1480614041140">
         <mark key="[" line="75" column="31" />
         <mark key="]" line="75" column="31" />
         <mark key="^" line="39" column="0" />
@@ -306,11 +305,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1480548070160">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="37" column="0" />
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1480614060241">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="6" />
         <mark key="^" line="24" column="8" />
-        <mark key="." line="37" column="0" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
@@ -318,7 +317,6 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_import_job.rb" timestamp="1480545879479" />
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="61" />
@@ -410,7 +408,6 @@
       <file name="/Ruby Console" timestamp="1480548192910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1480531670544" />
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="17" />
@@ -510,7 +507,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/initializers/sentry.rb" timestamp="1480526480588" />
       <file name="/a.regexp" timestamp="1480370975285">
         <mark key="[" line="0" column="0" />
       </file>
@@ -584,11 +580,11 @@
       <jump line="112" column="15" filename="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_importer.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXoKICAgICAgIyBAcmV3cml0dGVuX3J4bnNhdCAjIFRPRE86IGRvbid0IHJldHVybiBpbnN0YW5jZSB2YXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eE5vcm1Mb2FkOjpSeE5vcm1JbXBvcnRlcjo6UkVXUklUVEVOX1JYTlNBVF9SUkZfUFJFRklYIA==</text>
       </register>
       <register name="-" type="4">
-        <text>local_archive</text>
+        <text encoding="base64">eE5vcm1Mb2FkOjpSeE5vcm1JbXBvcnRlcjo6UkVXUklUVEVOX1JYTlNBVF9SUkZfUFJFRklYIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
