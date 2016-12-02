@@ -104,6 +104,11 @@
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_import.rb" timestamp="1480716814790">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
         <mark key="]" line="29" column="82" />
@@ -170,7 +175,7 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480714030972">
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480716800454">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -408,7 +413,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480715048654">
+      <file name="/Ruby Console" timestamp="1480716770620">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -589,10 +594,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBkZWYgbXlzcWxfcGFyYW1zCiAgICAgICJteXNxbCAtLWxvY2FsLWluZmlsZSAtdSN7QHVzZXJuYW1lfSAtcCN7QHBhc3N3b3JkfSAtaCN7QGhvc3R9ICN7QGRhdGFiYXNlfSIKICAgIGVuZA==</text>
+        <text encoding="base64">ICAgIHB1dHMgJy0tJyo0MA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgIHB1dHMgJy0tJyo0MA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
