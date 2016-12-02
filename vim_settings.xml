@@ -46,9 +46,9 @@
         <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_import.rake" timestamp="1480545831823">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
@@ -170,8 +170,10 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480639711263">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480700284736">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
         <mark key="[" line="12" column="17" />
@@ -312,11 +314,6 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_import_job.rb" timestamp="1480639512899">
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="13" column="63" />
-        <mark key="." line="13" column="63" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="61" />
@@ -405,7 +402,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480639600823">
+      <file name="/Ruby Console" timestamp="1480700255397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -581,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_weekly</text>
+        <text>rx_norm_archive_ur</text>
       </register>
       <register name="-" type="4">
-        <text>_weekly</text>
+        <text>rx_norm_archive_ur</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
