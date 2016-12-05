@@ -122,10 +122,11 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_import.rb" timestamp="1480976341517">
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_import.rb" timestamp="1480977351716">
         <mark key="[" line="105" column="14" />
-        <mark key="]" line="105" column="14" />
-        <mark key="." line="105" column="14" />
+        <mark key="]" line="120" column="19" />
+        <mark key="." line="120" column="19" />
+        <mark key="^" line="120" column="19" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.haml" timestamp="1477695592788">
         <mark key="[" line="4" column="0" />
@@ -408,7 +409,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480976458888">
+      <file name="/Ruby Console" timestamp="1480977190317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
