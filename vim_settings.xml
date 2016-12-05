@@ -182,7 +182,7 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480716800454">
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1480978676128">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -312,6 +312,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1480978236120">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="5" />
@@ -409,7 +414,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480977190317">
+      <file name="/Ruby Console" timestamp="1480978683748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -590,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start create_indices</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>start create_indices</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
