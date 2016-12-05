@@ -104,6 +104,12 @@
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_import.rb" timestamp="1480964638437">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
         <mark key="]" line="29" column="82" />
@@ -321,7 +327,6 @@
         <mark key="]" line="9" column="96" />
         <mark key="." line="9" column="96" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/rxnsat_period.rb" timestamp="1480958436038" />
       <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1474664811597">
         <mark key="[" line="145" column="28" />
       </file>
@@ -578,10 +583,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHB1dHMgJy0tJyo0MA==</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHB1dHMgJy0tJyo0MA==</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
