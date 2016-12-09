@@ -253,7 +253,7 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
-      <file name="/fragment.rb" timestamp="1480958483684">
+      <file name="/fragment.rb" timestamp="1481321030535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -301,11 +301,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1480978236120">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1481321094160" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="5" />
@@ -403,7 +399,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480978683748">
+      <file name="/Ruby Console" timestamp="1481321106036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -530,6 +526,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="144" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rxn_sat_rewriter_spec.rb" timestamp="1481321159619" />
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1479236514368">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -584,10 +581,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgICAgICAgICAgICAgdmFyIGdhSnNIb3N0ID0gKCgiaHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0cHM6Ly9zc2wuIiA6ICJodHRwOi8vd3d3LiIpOwogICAgICAgICAgICAgICAgZG9jdW1lbnQud3JpdGUodW5lc2NhcGUoIiUzQ3NjcmlwdCBzcmM9JyIgKyBnYUpzSG9zdCArICJnb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyUzRSUzQy9zY3JpcHQlM0UiKSk7Cgo8L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgICAgICAgICAgICAgdmFyIHBhZ2VUcmFja2VyID0gX2dhdC5fZ2V0VHJhY2tlcigiVUEtOTE2MTg4LTEyIik7CiAgICAgICAgICAgICAgICBwYWdlVHJhY2tlci5faW5pdERhdGEoKTsKICAgICAgICAgICAgICAgIHBhZ2VUcmFja2VyLl90cmFja1BhZ2V2aWV3KCk7Cgo8L3NjcmlwdD4=</text>
+        <text>_rxnsat_rrf</text>
       </register>
       <register name="-" type="4">
-        <text>2015</text>
+        <text>_rxnsat_rrf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
