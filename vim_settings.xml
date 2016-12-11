@@ -218,6 +218,7 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/clients_controller.rb" timestamp="1481486533072" />
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="3" column="0" />
@@ -252,10 +253,10 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
-      <file name="/fragment.rb" timestamp="1481322605819">
+      <file name="/fragment.rb" timestamp="1481486100831">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
         <mark key="[" line="14" column="17" />
@@ -345,6 +346,11 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
       </file>
@@ -397,7 +403,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1481478450805">
+      <file name="/Ruby Console" timestamp="1481486572219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -406,6 +412,7 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/users_controller.rb" timestamp="1481485615261" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_lists_controller_spec.rb" timestamp="1477934464317">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -583,10 +590,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhh</text>
+        <text>@user.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhh</text>
+        <text>@user.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
