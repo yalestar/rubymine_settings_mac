@@ -15,7 +15,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1480702940541">
+      <file name="/a.dummy" timestamp="1481488918044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -187,6 +187,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="72" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
         <mark key="[" line="7" column="8" />
       </file>
@@ -218,7 +223,7 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/clients_controller.rb" timestamp="1481486533072" />
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/clients_controller.rb" timestamp="1481489913112" />
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxnsat_tester.rb" timestamp="1479248979071">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="3" column="0" />
@@ -253,7 +258,7 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
-      <file name="/fragment.rb" timestamp="1481486100831">
+      <file name="/fragment.rb" timestamp="1481489900020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -301,6 +306,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/clients/new.html.erb" timestamp="1481489464957" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="5" />
@@ -336,6 +342,12 @@
         <mark key="]" line="52" column="27" />
         <mark key="^" line="32" column="45" />
         <mark key="." line="52" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/clients/edit.html.erb" timestamp="1481489476486">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/assari.rb" timestamp="1469660446597">
         <mark key="[" line="0" column="0" />
@@ -403,7 +415,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1481486572219">
+      <file name="/Ruby Console" timestamp="1481488700851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -590,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@user.</text>
+        <text>User</text>
       </register>
       <register name="-" type="4">
-        <text>@user.</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
