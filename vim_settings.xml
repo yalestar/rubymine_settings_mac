@@ -86,11 +86,6 @@
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/plugins/jquery.elasticsearch.js" timestamp="1472001839459">
         <mark key="[" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/home/welcome.html.erb" timestamp="1481478462447">
-        <mark key="[" line="3" column="78" />
-        <mark key="]" line="3" column="78" />
-        <mark key="." line="3" column="78" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_rule.rb" timestamp="1478560661957">
         <mark key="[" line="23" column="76" />
         <mark key="]" line="14" column="66" />
