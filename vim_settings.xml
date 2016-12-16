@@ -200,9 +200,6 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/devise/registrations/_user_info_fields.html.erb" timestamp="1481910167139">
-        <mark key="[" line="36" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/config/tinymce.yml" timestamp="1470615342620">
         <mark key="[" line="7" column="8" />
       </file>
@@ -372,11 +369,11 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/devise/registrations/_notification_fields.html.erb" timestamp="1481865595496">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/devise/registrations/_notification_fields.html.erb" timestamp="1481927404060">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/tiny/app/assets/javascripts/users.js" timestamp="1468880942338">
         <mark key="[" line="1" column="3" />
@@ -632,11 +629,11 @@
       <jump line="76" column="29" filename="$USER_HOME$/dev/pitcrew_v_next/app/views/devise/registrations/edit.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>collapseOne</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
