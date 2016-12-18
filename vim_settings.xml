@@ -15,7 +15,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1482089637904">
+      <file name="/a.dummy" timestamp="1482104982760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -87,6 +87,12 @@
         <mark key="[" line="24" column="58" />
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/project_buckets_controller.rb" timestamp="1482105075440">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/helpers/admin/users_helper.rb" timestamp="1482084708285">
         <mark key="[" line="12" column="21" />
@@ -434,7 +440,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1482102299661">
+      <file name="/Ruby Console" timestamp="1482105038959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
@@ -649,11 +655,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/users_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>redirect_to a</text>
       </register>
       <register name="-" type="4">
-        <text>dan</text>
+        <text>redirect_to a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
