@@ -289,7 +289,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1483316475553">
+      <file name="/fragment.rb" timestamp="1483477792286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
@@ -463,7 +463,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1483316534070">
+      <file name="/Ruby Console" timestamp="1483477816775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -616,6 +616,12 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/claims_loader.rb" timestamp="1483477909672">
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/requests/infobutton_query_spec.rb" timestamp="1476379121917">
         <mark key="[" line="144" column="12" />
         <mark key="]" line="144" column="10" />
@@ -690,10 +696,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="-" type="4">
-        <text>params[:order</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -702,34 +708,34 @@
         <text encoding="base64">ICAgICAgbGV0ISg6bGlwaXRvcikgeyBjcmVhdGUoOnRyZWF0bWVudCwgcHJpbWFyeV9uYW1lOiAnTGlwaXRvcicsIHZpc2libGVfc3RhdGU6IDEpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Y2YgPSBDbGFpbXNMb2FkZXIubmV3KCIvVXNlcnMvcjYyMjIzMy9Eb3dubG9hZHMvU2FtcGxlUnhDbGFpbXMuY3N2IikKcGVyZm9ybShjZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBAZGlzY2lwbGluZSwgbm90aWNlOiAnRGlzY2lwbGluZSB3YXMgdXBkYXRlZC4nCiAgICAgIGVsc2UKICAgICAgICByZW5kZXIgOmVkaXQKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBAZGlzY2lwbGluZSwgbm90aWNlOiAnRGlzY2lwbGluZSB3YXMgdXBkYXRlZC4nCiAgICAgIGVsc2UKICAgICAgICByZW5kZXIgOmVkaXQKICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgc29ydF9xdWVyeQoKICBlbmQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBkZWYgcmVjb3JkcwogICAgQHVzZXJzIHx8IGZldGNoX3JlY29yZHMKICBlbmQ=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgc29ydF9xdWVyeQoKICBlbmQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>7</text>
