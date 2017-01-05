@@ -323,9 +323,6 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_monthly_importer.rb" timestamp="1482343139221">
-        <mark key="'" line="23" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="3" />
@@ -463,7 +460,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1483649694867">
+      <file name="/Ruby Console" timestamp="1483657105618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -569,7 +566,8 @@
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/rxnorm_load_scripts.rb" timestamp="1479160269723">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482092119149">
+      <file name="$USER_HOME$/dev/paladin/app/pipeline_job_steps/claims_loader_job.rb" timestamp="1483656841124" />
+      <file name="/Dummy.txt" timestamp="1483656698975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
@@ -696,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>local_claims_file_name</text>
+        <text>determine_rxncui</text>
       </register>
       <register name="-" type="4">
-        <text>local_claims_file_name</text>
+        <text>determine_rxncui</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
