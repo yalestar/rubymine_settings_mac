@@ -566,7 +566,9 @@
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_import/rxnorm_load_scripts.rb" timestamp="1479160269723">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/pipeline_job_steps/claims_loader_job.rb" timestamp="1483656841124" />
+      <file name="$USER_HOME$/dev/paladin/spec/pipeline_job_steps/claims_loader_job_spec.rb" timestamp="1483723811112">
+        <mark key="[" line="24" column="86" />
+      </file>
       <file name="/Dummy.txt" timestamp="1483656698975">
         <mark key="[" line="0" column="0" />
       </file>
