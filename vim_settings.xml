@@ -45,11 +45,6 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/datatables/projects_datatable.rb" timestamp="1483316660057">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
         <mark key="]" line="79" column="26" />
@@ -289,7 +284,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1483649345864">
+      <file name="/fragment.rb" timestamp="1483902941603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
@@ -334,12 +329,6 @@
         <mark key="]" line="39" column="18" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="39" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/datatables/users_datatable.rb" timestamp="1483316686346">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.erb" timestamp="1476980171166">
         <mark key="[" line="0" column="0" />
@@ -460,7 +449,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1483657105618">
+      <file name="/Ruby Console" timestamp="1483902882270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -525,6 +514,7 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/assets/index.html.erb" timestamp="1483902926328" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
