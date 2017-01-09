@@ -261,6 +261,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/formulary_spec.rb" timestamp="1483984611565" />
       <file name="$USER_HOME$/dev/paladin/lib/generators/rx_norm_migration/rx_norm_migration_generator.rb" timestamp="1479762533385">
         <mark key="[" line="0" column="0" />
       </file>
@@ -284,7 +285,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1483914291538">
+      <file name="/fragment.rb" timestamp="1483984747005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
@@ -449,7 +450,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1483910606720">
+      <file name="/Ruby Console" timestamp="1483984615105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -508,14 +509,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="30" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1483916526825" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/assets/index.html.erb" timestamp="1483902926328" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
