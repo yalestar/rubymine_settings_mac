@@ -21,7 +21,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1483649561604">
+      <file name="/a.dummy" timestamp="1483995780352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -261,7 +261,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/formulary_spec.rb" timestamp="1483984611565" />
       <file name="$USER_HOME$/dev/paladin/lib/generators/rx_norm_migration/rx_norm_migration_generator.rb" timestamp="1479762533385">
         <mark key="[" line="0" column="0" />
       </file>
@@ -285,7 +284,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1483984747005">
+      <file name="/fragment.rb" timestamp="1483995691947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
@@ -450,7 +449,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1483984615105">
+      <file name="/Ruby Console" timestamp="1483996536453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -558,6 +557,12 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/pipeline_job_steps/claims_loader_job_spec.rb" timestamp="1483723811112">
         <mark key="[" line="24" column="86" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/pipeline_job_steps/claims_loader_job.rb" timestamp="1483996561109">
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="6" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="51" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1483656698975">
         <mark key="[" line="0" column="0" />
@@ -686,10 +691,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asset][:deliverable]</text>
+        <text>raise StandardError.new(&quot;Unable to determine organization; Failing entire job.&quot;) and</text>
       </register>
       <register name="-" type="4">
-        <text>asset][:deliverable]</text>
+        <text>raise StandardError.new(&quot;Unable to determine organization; Failing entire job.&quot;) and</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -698,31 +703,31 @@
         <text encoding="base64">ICAgICAgbGV0ISg6bGlwaXRvcikgeyBjcmVhdGUoOnRyZWF0bWVudCwgcHJpbWFyeV9uYW1lOiAnTGlwaXRvcicsIHZpc2libGVfc3RhdGU6IDEpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICByZXNjdWUgPT4gZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2YgPSBDbGFpbXNMb2FkZXIubmV3KCIvVXNlcnMvcjYyMjIzMy9Eb3dubG9hZHMvU2FtcGxlUnhDbGFpbXMuY3N2IikKcGVyZm9ybShjZikK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
+        <text encoding="base64">Y2YgPSBDbGFpbXNMb2FkZXIubmV3KCIvVXNlcnMvcjYyMjIzMy9Eb3dubG9hZHMvU2FtcGxlUnhDbGFpbXMuY3N2IikKcGVyZm9ybShjZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBAZGlzY2lwbGluZSwgbm90aWNlOiAnRGlzY2lwbGluZSB3YXMgdXBkYXRlZC4nCiAgICAgIGVsc2UKICAgICAgICByZW5kZXIgOmVkaXQKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBAZGlzY2lwbGluZSwgbm90aWNlOiAnRGlzY2lwbGluZSB3YXMgdXBkYXRlZC4nCiAgICAgIGVsc2UKICAgICAgICByZW5kZXIgOmVkaXQKICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
