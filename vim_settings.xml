@@ -158,8 +158,10 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484080751909">
-        <mark key="[" line="124" column="20" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484081372122">
+        <mark key="[" line="116" column="31" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
       </file>
       <file name="$USER_HOME$/dev/paladin/dooby.rb" timestamp="1479146928815">
         <mark key="[" line="42" column="49" />
@@ -287,8 +289,8 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484017076713">
-        <mark key="[" line="0" column="20" />
+      <file name="/fragment.rb" timestamp="1484081337059">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
@@ -302,6 +304,11 @@
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_results_object.rb" timestamp="1475095264119">
         <mark key="[" line="5" column="3" />
@@ -454,7 +461,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484016901671">
+      <file name="/Ruby Console" timestamp="1484081314186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -574,8 +581,10 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="51" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483656698975">
+      <file name="/Dummy.txt" timestamp="1484080925832">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
         <mark key="[" line="5" column="45" />
@@ -701,10 +710,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGsgPT0g</text>
+        <text>from_s3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGsgPT0g</text>
+        <text>from_s3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
