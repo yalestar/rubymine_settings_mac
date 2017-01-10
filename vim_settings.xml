@@ -242,11 +242,8 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/rx_norm_import_job.rb" timestamp="1484088592664">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="6" column="33" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/rx_norm_import_job.rb" timestamp="1484089241441">
+        <mark key="[" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477946916643">
         <mark key="[" line="26" column="30" />
