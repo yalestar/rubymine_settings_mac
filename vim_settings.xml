@@ -284,8 +284,10 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1483995691947">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.rb" timestamp="1484017076713">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
         <mark key="[" line="14" column="17" />
@@ -449,7 +451,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1483996536453">
+      <file name="/Ruby Console" timestamp="1484016901671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -507,6 +509,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484017122494">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
@@ -691,10 +698,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>raise StandardError.new(&quot;Unable to determine organization; Failing entire job.&quot;) and</text>
+        <text encoding="base64">IGsgPT0g</text>
       </register>
       <register name="-" type="4">
-        <text>raise StandardError.new(&quot;Unable to determine organization; Failing entire job.&quot;) and</text>
+        <text encoding="base64">IGsgPT0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -703,37 +710,37 @@
         <text encoding="base64">ICAgICAgbGV0ISg6bGlwaXRvcikgeyBjcmVhdGUoOnRyZWF0bWVudCwgcHJpbWFyeV9uYW1lOiAnTGlwaXRvcicsIHZpc2libGVfc3RhdGU6IDEpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXNjdWUgPT4gZQo=</text>
+        <text encoding="base64">YmluZGluZy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICByZXNjdWUgPT4gZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2YgPSBDbGFpbXNMb2FkZXIubmV3KCIvVXNlcnMvcjYyMjIzMy9Eb3dubG9hZHMvU2FtcGxlUnhDbGFpbXMuY3N2IikKcGVyZm9ybShjZikK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Y2YgPSBDbGFpbXNMb2FkZXIubmV3KCIvVXNlcnMvcjYyMjIzMy9Eb3dubG9hZHMvU2FtcGxlUnhDbGFpbXMuY3N2IikKcGVyZm9ybShjZikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBAZGlzY2lwbGluZSwgbm90aWNlOiAnRGlzY2lwbGluZSB3YXMgdXBkYXRlZC4nCiAgICAgIGVsc2UKICAgICAgICByZW5kZXIgOmVkaXQKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1s6ZHJhd10udG9faQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>7</text>
+        <text>23d</text>
       </register>
     </registers>
     <search>
@@ -748,7 +755,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>24</entry>
         <entry>42</entry>
         <entry>140</entry>
@@ -768,6 +774,7 @@
         <entry>5</entry>
         <entry>34</entry>
         <entry>7</entry>
+        <entry>23d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
