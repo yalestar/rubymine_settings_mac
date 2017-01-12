@@ -287,7 +287,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484176517233">
+      <file name="/fragment.rb" timestamp="1484182340414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -465,7 +465,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484178233103">
+      <file name="/Ruby Console" timestamp="1484183564532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -524,11 +524,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="30" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484177724873">
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
@@ -536,9 +531,9 @@
         <mark key="." line="7" column="52" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/assets/index.html.erb" timestamp="1484177216465">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -721,11 +716,11 @@
       <jump line="29" column="6" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogIC8vIGpRdWVyeShmdW5jdGlvbigkKSB7CiAgLy8gICAkKCJmb3JtIikuc3VibWl0KGZ1bmN0aW9uKGV2ZW50KSB7CiAgLy8gICAgIGNvbnNvbGUubG9nKCJTSFVCTUlUIik7CiAgLy8gICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgLy8gICB9KQogIC8vIH0pOwoKCiAgPC9zY3JpcHQ+Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>_template_id]</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>_template_id]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
