@@ -236,6 +236,7 @@
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1476732589159">
         <mark key="[" line="7" column="87" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/asset.rb" timestamp="1484185598832" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="68" />
@@ -287,7 +288,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484182340414">
+      <file name="/fragment.rb" timestamp="1484185075619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -465,7 +466,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484183564532">
+      <file name="/Ruby Console" timestamp="1484184557309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -524,6 +525,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="30" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484194984867">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
@@ -531,9 +538,7 @@
         <mark key="." line="7" column="52" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/assets/index.html.erb" timestamp="1484177216465">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -717,10 +722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_template_id]</text>
+        <text>binding.pry</text>
       </register>
       <register name="-" type="4">
-        <text>_template_id]</text>
+        <text>binding.pry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
