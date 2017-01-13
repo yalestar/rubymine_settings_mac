@@ -527,17 +527,14 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="30" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484254031506">
-        <mark key="[" line="22" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/assets/index.html.erb" timestamp="1484177216465">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/assets/index.html.erb" timestamp="1484265403179">
+        <mark key="[" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
