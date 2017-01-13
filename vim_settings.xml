@@ -21,7 +21,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1484088211278">
+      <file name="/a.dummy" timestamp="1484268019657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
@@ -527,6 +527,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="30" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484268018106" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
@@ -671,10 +672,11 @@
         <mark key="]" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/disciplines/index.html.erb" timestamp="1483312593224">
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="41" column="16" />
-        <mark key="." line="41" column="16" />
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/disciplines/index.html.erb" timestamp="1484268057474">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="6" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.haml" timestamp="1478552230673">
         <mark key="[" line="6" column="84" />
@@ -717,8 +719,8 @@
       <jump line="29" column="6" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>binding.pry</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>binding.pry</text>
@@ -727,7 +729,7 @@
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQGFzc2V0cyA9IEFzc2V0LnVwZGF0ZShwYXJhbXNbOmFzc2V0c10ua2V5cywgcGFyYW1zWzphc3NldHNdLnZhbHVlcykK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogIC8vIGpRdWVyeShmdW5jdGlvbigkKSB7CiAgLy8gICAkKCJmb3JtIikuc3VibWl0KGZ1bmN0aW9uKGV2ZW50KSB7CiAgLy8gICAgIGNvbnNvbGUubG9nKCJTSFVCTUlUIik7CiAgLy8gICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgLy8gICB9KQogIC8vIH0pOwoKCiAgPC9zY3JpcHQ+Cgo=</text>
