@@ -536,7 +536,6 @@
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484528478018" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
@@ -599,10 +598,10 @@
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_download.rake" timestamp="1484088154406">
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484348109652">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1484593822667">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
         <mark key="[" line="5" column="45" />
@@ -729,10 +728,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJlZGlyZWN0X3RvIGFkbWluX3Byb2plY3Rfc2NoZWR1bGVzX3BhdGgoQHByb2plY3QpLCBub3RpY2U6ICdTY2hlZHVsZSB3YXMgY3JlYXRlZC4nCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHJlbmRlciA6aW5kZXgsIHByb2plY3Q6IEBwcm9qZWN0CiAgICAgICAgICBlbmQ=</text>
+        <text>import_weekly</text>
       </register>
       <register name="-" type="4">
-        <text>binding.pry</text>
+        <text>import_weekly</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
