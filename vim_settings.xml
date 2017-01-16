@@ -24,6 +24,9 @@
       <file name="/a.dummy" timestamp="1484268019657">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/schedules/create.js.erb" timestamp="1484528414065">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1478553229191">
         <mark key="[" line="207" column="19" />
         <mark key="]" line="204" column="0" />
@@ -68,9 +71,8 @@
         <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/schedules/index.html.erb" timestamp="1484526429413">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
@@ -298,7 +300,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484525421748">
+      <file name="/fragment.rb" timestamp="1484528286741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -476,13 +478,19 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484525557818">
+      <file name="/Ruby Console" timestamp="1484528374580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/schedules_controller.rb" timestamp="1484528483871">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+        <mark key="^" line="46" column="6" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list.rb" timestamp="1478559322666">
         <mark key="[" line="17" column="17" />
@@ -534,6 +542,7 @@
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484528478018" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="7" column="52" />
@@ -725,8 +734,8 @@
       <jump line="29" column="6" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHJlZGlyZWN0X3RvIGFkbWluX3Byb2plY3Rfc2NoZWR1bGVzX3BhdGgoQHByb2plY3QpLCBub3RpY2U6ICdTY2hlZHVsZSB3YXMgY3JlYXRlZC4nCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHJlbmRlciA6aW5kZXgsIHByb2plY3Q6IEBwcm9qZWN0CiAgICAgICAgICBlbmQ=</text>
       </register>
       <register name="-" type="4">
         <text>binding.pry</text>
@@ -737,8 +746,8 @@
       <register name="0" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHJlZGlyZWN0X3RvIGFkbWluX3Byb2plY3Rfc2NoZWR1bGVzX3BhdGgoQHByb2plY3QpLCBub3RpY2U6ICdTY2hlZHVsZSB3YXMgY3JlYXRlZC4nCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHJlbmRlciA6aW5kZXgsIHByb2plY3Q6IEBwcm9qZWN0CiAgICAgICAgICBlbmQ=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -747,26 +756,25 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlzY2lwbGluZVBoYXNlVGVtcGxhdGUuZmluZF9ieShkaXNjaXBsaW5lX2lkOiBkaXNjaXBsaW5lX2lkLCBwaGFzZV90ZW1wbGF0ZV9pZDogaykuZGVzdHJveQo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGlzY2lwbGluZVBoYXNlVGVtcGxhdGUuZmluZF9ieShkaXNjaXBsaW5lX2lkOiBkaXNjaXBsaW5lX2lkLCBwaGFzZV90ZW1wbGF0ZV9pZDogaykuZGVzdHJveQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogIC8vIGpRdWVyeShmdW5jdGlvbigkKSB7CiAgLy8gICAkKCJmb3JtIikuc3VibWl0KGZ1bmN0aW9uKGV2ZW50KSB7CiAgLy8gICAgIGNvbnNvbGUubG9nKCJTSFVCTUlUIik7CiAgLy8gICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgLy8gICB9KQogIC8vIH0pOwoKCiAgPC9zY3JpcHQ+Cgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ci8vIGpRdWVyeShmdW5jdGlvbigkKSB7Ci8vICAgJCgnYnV0dG9uI2FkZC1yb3cnKS5jbGljayhmdW5jdGlvbigpIHsKLy8gICBjb25zb2xlLmxvZygiRmFua2UiKTsKLy8gICBjb25zb2xlLmxvZygkKCIjcm93LWNvdW50IikudmFsKCkpOwoKLy8gfSk7CiAgICAvLyB2YXIgY2xvbmUgPSAkKCcjYXNzZXRzLWRhdGF0YWJsZSA+IHRib2R5Lm11bHRpID4gdHI6bGFzdCcpLmNsb25lKCk7CiAgICAvLyBjbG9uZS5maW5kKCdpbnB1dCcpLnZhbCgnJyk7CiAgICAvLyBjbG9uZS5pbnNlcnRBZnRlcignI2Fzc2V0cy1kYXRhdGFibGUgPiB0Ym9keS5tdWx0aTpsYXN0Jyk7Ci8vIH0pOwoKCiAgPC9zY3JpcHQ+</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIyBwYXJhbXMucmVqZWN0e3xrLCB2fCBbJ2FjdGlvbicsICdjb250cm9sbGVyJywgJ3V0ZjgnXS5pbmNsdWRlPyhrKX0uZWFjaCBkbyB8ayx2fAogICAgICAjICAgcHV0cyAiI3trfTogI3t2fSIKICAgICAgIyBlbmQK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIyBkaXNjaXBsaW5lcyA9IERpc2NpcGxpbmUudXBkYXRlKHBhcmFtc1s6ZGlzY2lwbGluZXNdLmtleXMsIHBhcmFtc1s6ZGlzY2lwbGluZXNdLnZhbHVlcykK</text>
-      </register>
-      <register name="9" type="4">
-        <text>s, params[:assets].values)
-      d</text>
       </register>
       <register name=":" type="4">
         <text>23d</text>
