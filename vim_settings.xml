@@ -165,8 +165,10 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484348160373">
-        <mark key="[" line="75" column="39" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484612013568">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
       </file>
       <file name="$USER_HOME$/dev/paladin/dooby.rb" timestamp="1479146928815">
         <mark key="[" line="42" column="49" />
@@ -328,10 +330,9 @@
         <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm.rake" timestamp="1484593861586">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1474925115112">
         <mark key="[" line="22" column="5" />
@@ -478,7 +479,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484593864660">
+      <file name="/Ruby Console" timestamp="1484611968978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -728,10 +729,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import_weekly</text>
+        <text encoding="base64">OmRhdGVfc3VibWl0dGVkLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>import_weekly</text>
+        <text encoding="base64">OmRhdGVfc3VibWl0dGVkLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
