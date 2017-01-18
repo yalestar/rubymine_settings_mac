@@ -165,10 +165,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484766857323">
-        <mark key="[" line="130" column="30" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484773729619">
+        <mark key="'" line="104" column="55" />
+        <mark key="[" line="111" column="54" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="$USER_HOME$/dev/paladin/dooby.rb" timestamp="1479146928815">
         <mark key="[" line="42" column="49" />
@@ -302,7 +303,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484766046045">
+      <file name="/fragment.rb" timestamp="1484773775518">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -484,7 +485,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484766774195">
+      <file name="/Ruby Console" timestamp="1484774035976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -607,7 +608,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_download.rake" timestamp="1484088154406">
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484766585400">
+      <file name="/Dummy.txt" timestamp="1484774032466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -734,6 +735,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/users_controller.rb" />
       <jump line="23" column="14" filename="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_monthly_importer.rb" />
       <jump line="29" column="6" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" />
+      <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
