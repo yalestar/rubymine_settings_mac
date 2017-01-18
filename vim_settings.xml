@@ -165,8 +165,8 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484612013568">
-        <mark key="[" line="22" column="18" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484766857323">
+        <mark key="[" line="130" column="30" />
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
@@ -302,7 +302,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484528286741">
+      <file name="/fragment.rb" timestamp="1484766046045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -484,7 +484,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1484701652783">
+      <file name="/Ruby Console" timestamp="1484766774195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -510,7 +510,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/roles_controller.rb" timestamp="1484701673257" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_lines/_confirm.html.haml" timestamp="1476914443731">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="49" />
@@ -608,8 +607,8 @@
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_download.rake" timestamp="1484088154406">
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484593822667">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1484766585400">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
