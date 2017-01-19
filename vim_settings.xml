@@ -165,11 +165,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484773729619">
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1484849837206">
         <mark key="'" line="104" column="55" />
-        <mark key="[" line="111" column="54" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/dooby.rb" timestamp="1479146928815">
         <mark key="[" line="42" column="49" />
@@ -738,11 +738,11 @@
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQWRtaW46OlZpZXdzQ29udHJvbGxlciA8IEFwcGxpY2F0aW9uQ29udHJvbGxlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OmRhdGVfc3VibWl0dGVkLCA=</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -792,31 +792,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxlbmRcPg==</entry>
-      </history-search>
-      <history-cmd>
-        <entry>24</entry>
-        <entry>42</entry>
-        <entry>140</entry>
-        <entry>104</entry>
-        <entry>4</entry>
-        <entry>7d</entry>
-        <entry>13</entry>
-        <entry>41</entry>
-        <entry>62</entry>
-        <entry>64</entry>
-        <entry>5d</entry>
-        <entry>58</entry>
-        <entry>67</entry>
-        <entry>27</entry>
-        <entry>26</entry>
-        <entry>10</entry>
-        <entry>5</entry>
-        <entry>34</entry>
-        <entry>7</entry>
-        <entry>23d</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
