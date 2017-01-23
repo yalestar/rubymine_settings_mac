@@ -129,6 +129,9 @@
       <file name="$USER_HOME$/dev/paladin/app/datatables/datatable.rb" timestamp="1480371498373">
         <mark key="[" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/config_properties/index.html.erb" timestamp="1485130135302">
+        <mark key="[" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
@@ -302,7 +305,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1484773775518">
+      <file name="/fragment.rb" timestamp="1485130771331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -743,10 +746,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cnUgPSA=</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cnUgPSA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
