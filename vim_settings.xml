@@ -306,7 +306,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1485477892038">
+      <file name="/fragment.rb" timestamp="1485556218323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -474,8 +474,10 @@
       <file name="$USER_HOME$/dev/paladin/app/policies/search_policy.rb" timestamp="1472001103906">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1485553753085">
-        <mark key="[" line="52" column="51" />
+      <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1485556312560">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_ndc.rb" timestamp="1476898722474">
         <mark key="[" line="0" column="6" />
@@ -501,7 +503,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1485553177169">
+      <file name="/Ruby Console" timestamp="1485556237900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -760,10 +762,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ondition</text>
+        <text>conds_array</text>
       </register>
       <register name="-" type="4">
-        <text>ondition</text>
+        <text>conds_array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
