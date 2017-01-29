@@ -303,6 +303,9 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/projects/_form.html.erb" timestamp="1485729616351">
+        <mark key="[" line="79" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
