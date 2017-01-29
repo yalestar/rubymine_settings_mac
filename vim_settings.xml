@@ -91,7 +91,6 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1485564263066" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_save.js.erb" timestamp="1478555300353">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="7" />
@@ -323,7 +322,6 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search_options.rb" timestamp="1485553764304" />
       <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -502,8 +500,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1485559622200" />
-      <file name="/Ruby Console" timestamp="1485564217503">
+      <file name="/Ruby Console" timestamp="1485726061700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
