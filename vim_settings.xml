@@ -91,12 +91,6 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1485821143193">
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="40" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="36" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_save.js.erb" timestamp="1478555300353">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="7" />
@@ -481,11 +475,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/search_policy.rb" timestamp="1472001103906">
         <mark key="[" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1485823133040">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_ndc.rb" timestamp="1476898722474">
         <mark key="[" line="0" column="6" />
