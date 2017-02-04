@@ -26,7 +26,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486244347606">
+      <file name="/a.dummy" timestamp="1486245883914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/schedules/create.js.erb" timestamp="1484528414065">
@@ -127,7 +127,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/permission.rb" timestamp="1486243950809" />
       <file name="$USER_HOME$/dev/paladin/app/datatables/datatable.rb" timestamp="1480371498373">
         <mark key="[" line="45" column="0" />
       </file>
@@ -136,6 +135,9 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_views.html.erb" timestamp="1486246734316">
+        <mark key="[" line="39" column="52" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_import.rb" timestamp="1480964638437">
         <mark key="[" line="38" column="17" />
@@ -191,6 +193,7 @@
       <file name="$USER_HOME$/dev/paladin/spec/factories/treatment_factory.rb" timestamp="1475104939372">
         <mark key="[" line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/assets/javascripts/roles.js" timestamp="1486246287015" />
       <file name="$USER_HOME$/dev/paladin/Gemfile" timestamp="1477692376760">
         <mark key="[" line="117" column="31" />
         <mark key="]" line="115" column="95" />
@@ -336,6 +339,11 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -346,6 +354,11 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
+        <mark key="[" line="39" column="224" />
+        <mark key="]" line="39" column="224" />
+        <mark key="." line="39" column="224" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/imports_controller.rb" timestamp="1485208569262">
         <mark key="[" line="27" column="16" />
@@ -364,6 +377,7 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/helpers/roles_helper.rb" timestamp="1486245583807" />
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1474925115112">
         <mark key="[" line="22" column="5" />
       </file>
@@ -391,9 +405,9 @@
         <mark key="." line="39" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role.rb" timestamp="1486244331976">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -426,6 +440,12 @@
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/assets/javascripts/viewId" timestamp="1486246126461">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="29" column="56" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/index.html.erb" timestamp="1477518764451">
         <mark key="[" line="4" column="0" />
@@ -526,7 +546,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1486244279065">
+      <file name="/Ruby Console" timestamp="1486246864475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -670,6 +690,11 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_other_permissions.html.erb" timestamp="1486246703406">
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="39" column="165" />
+        <mark key="." line="39" column="165" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -790,11 +815,11 @@
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>permissionKey</text>
       </register>
       <register name="-" type="4">
-        <text>permissions</text>
+        <text>permissionKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
