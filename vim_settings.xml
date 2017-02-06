@@ -105,7 +105,6 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role_view.rb" timestamp="1486346696015">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="14" />
-        <mark key="^" line="25" column="54" />
         <mark key="." line="16" column="14" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1478821921811">
@@ -152,10 +151,7 @@
         <mark key="." line="38" column="20" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/home/index.html.erb" timestamp="1486346588505">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
+        <mark key="[" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
