@@ -162,10 +162,10 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_import.rb" timestamp="1486665642873">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_import.rb" timestamp="1486758304951">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.haml" timestamp="1477695592788">
         <mark key="[" line="4" column="0" />
@@ -549,7 +549,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1486500038555">
+      <file name="/Ruby Console" timestamp="1486758308939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -677,7 +677,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_download.rake" timestamp="1484088154406">
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486084667614">
+      <file name="/Dummy.txt" timestamp="1486758258701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
