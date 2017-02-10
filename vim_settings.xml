@@ -163,10 +163,10 @@
         <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_import.rb" timestamp="1486762456986">
-        <mark key="[" line="162" column="25" />
-        <mark key="]" line="163" column="25" />
-        <mark key="." line="163" column="25" />
-        <mark key="^" line="163" column="25" />
+        <mark key="[" line="161" column="25" />
+        <mark key="]" line="162" column="25" />
+        <mark key="." line="162" column="25" />
+        <mark key="^" line="162" column="25" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.haml" timestamp="1477695592788">
         <mark key="[" line="4" column="0" />
