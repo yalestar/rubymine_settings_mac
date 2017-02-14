@@ -319,7 +319,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1487017622600">
+      <file name="/fragment.rb" timestamp="1487095920569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -356,7 +356,7 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487022446153">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487095909020">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -547,7 +547,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487022592193">
+      <file name="/Ruby Console" timestamp="1487095377128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -821,11 +821,11 @@
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgPSBmLmFzc29jaWF0aW9uIDpjb25kaXRpb25fdHJlYXRtZW50cywgaW5wdXRfaHRtbDogeyBjbGFzczogJ2Zvcm0tY29udHJvbCcgfSwgd3JhcHBlcl9odG1sOiB7IGNsYXNzOiAiY29sLXNtLTIiIH0sIGRlZmF1bHQ6IDE=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5</text>
+        <text encoding="base64">ICAgICAgPSBmLmFzc29jaWF0aW9uIDpjb25kaXRpb25fdHJlYXRtZW50cywgaW5wdXRfaHRtbDogeyBjbGFzczogJ2Zvcm0tY29udHJvbCcgfSwgd3JhcHBlcl9odG1sOiB7IGNsYXNzOiAiY29sLXNtLTIiIH0sIGRlZmF1bHQ6IDE=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
