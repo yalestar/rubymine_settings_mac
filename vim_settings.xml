@@ -356,7 +356,7 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487095909020">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487097201834">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -387,6 +387,7 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.haml" timestamp="1487097283156" />
       <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="3" />
@@ -430,6 +431,12 @@
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/config/initializers/bullet.rb" timestamp="1487097211331">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
         <mark key="[" line="15" column="0" />
@@ -547,7 +554,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487095377128">
+      <file name="/Ruby Console" timestamp="1487097222365">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -822,10 +829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgPSBmLmFzc29jaWF0aW9uIDpjb25kaXRpb25fdHJlYXRtZW50cywgaW5wdXRfaHRtbDogeyBjbGFzczogJ2Zvcm0tY29udHJvbCcgfSwgd3JhcHBlcl9odG1sOiB7IGNsYXNzOiAiY29sLXNtLTIiIH0sIGRlZmF1bHQ6IDE=</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgPSBmLmFzc29jaWF0aW9uIDpjb25kaXRpb25fdHJlYXRtZW50cywgaW5wdXRfaHRtbDogeyBjbGFzczogJ2Zvcm0tY29udHJvbCcgfSwgd3JhcHBlcl9odG1sOiB7IGNsYXNzOiAiY29sLXNtLTIiIH0sIGRlZmF1bHQ6IDE=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
