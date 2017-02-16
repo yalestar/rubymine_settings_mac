@@ -356,10 +356,10 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487097201834">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487207164107">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/imports_controller.rb" timestamp="1485208569262">
         <mark key="[" line="27" column="16" />
@@ -387,7 +387,6 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.haml" timestamp="1487097283156" />
       <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="3" />
@@ -554,7 +553,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487097222365">
+      <file name="/Ruby Console" timestamp="1487207305204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -828,8 +827,8 @@
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -841,7 +840,7 @@
         <text encoding="base64">ICBiZWxvbmdzX3RvIDpyb2xlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -849,26 +848,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwdXRzIHRyZWF0bWVudC5wcmltYXJ5X25hbWUKICBwdXRzIHRyZWF0bWVudC5pZA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRGlyLmNoZGlyKFRFTVBfRElSRUNUT1JZKQo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgbG9nZ2VyID0gTG9nZ2VyLm5ldyhTVERPVVQpCiAgICAgIGxvZ2dlci5sZXZlbCA9IExvZ2dlcjo6SU5GTwogICAgICBSYWlscy5sb2dnZXIgPSBsb2dnZXI=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBwdXRzIHRyZWF0bWVudC5wcmltYXJ5X25hbWUKICBwdXRzIHRyZWF0bWVudC5pZA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgRGlyLmNoZGlyKFRFTVBfRElSRUNUT1JZKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgbG9nZ2VyID0gTG9nZ2VyLm5ldyhTVERPVVQpCiAgICAgIGxvZ2dlci5sZXZlbCA9IExvZ2dlcjo6SU5GTwogICAgICBSYWlscy5sb2dnZXIgPSBsb2dnZXI=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gRmlsZS5iYXNlbmFtZSgnMjAxNi0xMi0wMS0wMDU4MTgtUnhOb3JtX2Z1bGxfMTEwNzIwMTYuemlwJywgJy56aXAnKQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
