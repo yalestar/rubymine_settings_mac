@@ -26,7 +26,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486937416087">
+      <file name="/a.dummy" timestamp="1487268695256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/schedules/create.js.erb" timestamp="1484528414065">
@@ -319,7 +319,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1487095920569">
+      <file name="/fragment.rb" timestamp="1487268756543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -553,7 +553,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487207305204">
+      <file name="/Ruby Console" timestamp="1487268486054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -572,6 +572,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="62" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/policies/rate_policy.rb" timestamp="1487268783225">
+        <mark key="[" line="3" column="65" />
+        <mark key="]" line="3" column="65" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="3" column="65" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/save_search_log_job_spec.rb" timestamp="1475616789779">
         <mark key="[" line="18" column="5" />
@@ -827,11 +833,11 @@
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -870,7 +876,7 @@
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>292</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
@@ -887,7 +893,6 @@
       <history-cmd>
         <entry>140</entry>
         <entry>104</entry>
-        <entry>4</entry>
         <entry>7d</entry>
         <entry>13</entry>
         <entry>41</entry>
@@ -905,6 +910,7 @@
         <entry>23d</entry>
         <entry>42</entry>
         <entry>292</entry>
+        <entry>4</entry>
       </history-cmd>
       <history-expr />
       <history-input />
