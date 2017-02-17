@@ -136,9 +136,6 @@
         <mark key="[" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/rates_controller_spec.rb" timestamp="1487292522419">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="8" />
-        <mark key="." line="60" column="8" />
         <mark key="^" line="58" column="30" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
@@ -309,10 +306,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1487289182601">
-        <mark key="[" line="108" column="16" />
-        <mark key="]" line="108" column="16" />
         <mark key="^" line="85" column="48" />
-        <mark key="." line="108" column="16" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_downloader_job.rb" timestamp="1480542173327">
         <mark key="[" line="36" column="14" />
@@ -364,10 +358,10 @@
         <mark key="." line="39" column="224" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487287382142">
-        <mark key="[" line="42" column="53" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="43" column="7" />
+        <mark key="^" line="43" column="7" />
+        <mark key="." line="43" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/imports_controller.rb" timestamp="1485208569262">
         <mark key="[" line="27" column="16" />
