@@ -162,6 +162,7 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/search_steps.rb" timestamp="1487288870348" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.haml" timestamp="1477695592788">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -301,11 +302,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1476217058766">
-        <mark key="[" line="84" column="35" />
-        <mark key="]" line="85" column="48" />
+      <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1487289182601">
+        <mark key="[" line="108" column="16" />
+        <mark key="]" line="108" column="16" />
         <mark key="^" line="85" column="48" />
-        <mark key="." line="85" column="48" />
+        <mark key="." line="108" column="16" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_downloader_job.rb" timestamp="1480542173327">
         <mark key="[" line="36" column="14" />
@@ -319,7 +320,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1487287367607">
+      <file name="/fragment.rb" timestamp="1487289197082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -477,6 +478,11 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="52" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487289630223">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/clients/edit.html.erb" timestamp="1481489476486">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="24" column="10" />
@@ -557,7 +563,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487287324123">
+      <file name="/Ruby Console" timestamp="1487289445688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -751,6 +757,7 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/web_steps.rb" timestamp="1487288959521" />
       <file name="$USER_HOME$/dev/paladin/lib/claims_loader.rb" timestamp="1483477909672">
         <mark key="[" line="38" column="49" />
         <mark key="]" line="39" column="0" />
@@ -838,16 +845,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rate_addl_params</text>
+        <text>go to the treatment page for &quot;ibuprofen&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>rate_addl_params</text>
+        <text>go to the treatment page for &quot;ibuprofen&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDpyb2xlCg==</text>
+        <text encoding="base64">ICAgIEFuZCBJIGdvIHRvIHRoZSB0cmVhdG1lbnQgcGFnZSBmb3IgImlidXByb2ZlbiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
