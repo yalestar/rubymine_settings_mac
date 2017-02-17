@@ -135,6 +135,12 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/config_properties/index.html.erb" timestamp="1485130135302">
         <mark key="[" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/rates_controller_spec.rb" timestamp="1487292522419">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="8" />
+        <mark key="." line="60" column="8" />
+        <mark key="^" line="58" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
@@ -563,7 +569,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487289445688">
+      <file name="/Ruby Console" timestamp="1487292568485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -845,10 +851,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>go to the treatment page for &quot;ibuprofen&quot;</text>
+        <text>build_stubbed</text>
       </register>
       <register name="-" type="4">
-        <text>go to the treatment page for &quot;ibuprofen&quot;</text>
+        <text>build_stubbed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
