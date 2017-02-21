@@ -37,7 +37,6 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1487703953648" />
       <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477945932349">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -629,6 +628,9 @@
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/assets_controller.rb" timestamp="1484613690912">
         <mark key="[" line="30" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/rates.feature" timestamp="1487716519531">
+        <mark key="[" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
