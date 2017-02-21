@@ -478,10 +478,10 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="52" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487289630223">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+      <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487712466175">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/clients/edit.html.erb" timestamp="1481489476486">
         <mark key="[" line="0" column="12" />
@@ -847,10 +847,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>build_stubbed</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>build_stubbed</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
