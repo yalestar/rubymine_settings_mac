@@ -37,6 +37,7 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1487703953648" />
       <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477945932349">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -356,8 +357,8 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487702402878">
-        <mark key="[" line="39" column="53" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487704153986">
+        <mark key="[" line="86" column="52" />
         <mark key="]" line="42" column="7" />
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
@@ -562,7 +563,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487701560058">
+      <file name="/Ruby Console" timestamp="1487703755384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -692,6 +693,9 @@
         <mark key="]" line="51" column="6" />
         <mark key="^" line="50" column="0" />
         <mark key="." line="51" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/rates/_save.js.erb" timestamp="1487703516922">
+        <mark key="[" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_download.rake" timestamp="1484088154406">
         <mark key="[" line="4" column="5" />
