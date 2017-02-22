@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/paladin/app/models/search_term.rb" timestamp="1475168928054">
@@ -319,7 +319,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1487798835796">
+      <file name="/fragment.rb" timestamp="1487801333241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -406,6 +406,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/oauth2-1.3.0/lib/oauth2/client.rb" timestamp="1487802144781" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role.rb" timestamp="1486244331976">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -447,11 +448,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487798276476">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487802231537">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="2" column="55" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.js.erb" timestamp="1477519647429">
         <mark key="[" line="1" column="56" />
@@ -568,7 +569,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487798831706">
+      <file name="/Ruby Console" timestamp="1487801950616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -617,6 +618,7 @@
         <mark key="." line="28" column="52" />
         <mark key="^" line="28" column="52" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/fhir_client-1.8.0/lib/fhir_client/client.rb" timestamp="1487802117712" />
       <file name="$USER_HOME$/dev/EXAMPLES/searchapp/db/seeds.rb" timestamp="1469218649997">
         <mark key="[" line="0" column="4" />
       </file>
@@ -861,10 +863,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>api/FHIR/DSTU2/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>api/FHIR/DSTU2/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -873,34 +875,34 @@
         <text encoding="base64">ICAgIEFuZCBJIGdvIHRvIHRoZSB0cmVhdG1lbnQgcGFnZSBmb3IgImlidXByb2ZlbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">IyB1cmwgPSAnaHR0cHM6Ly9vcGVuLWljLmVwaWMuY29tL0ZISVIvYXBpL0ZISVIvRFNUVTIvJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZWRpcmVjdF91cmkgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBwdXRzIHRyZWF0bWVudC5wcmltYXJ5X25hbWUKICBwdXRzIHRyZWF0bWVudC5pZA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRGlyLmNoZGlyKFRFTVBfRElSRUNUT1JZKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgbG9nZ2VyID0gTG9nZ2VyLm5ldyhTVERPVVQpCiAgICAgIGxvZ2dlci5sZXZlbCA9IExvZ2dlcjo6SU5GTwogICAgICBSYWlscy5sb2dnZXIgPSBsb2dnZXI=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBwdXRzIHRyZWF0bWVudC5wcmltYXJ5X25hbWUKICBwdXRzIHRyZWF0bWVudC5pZA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgRGlyLmNoZGlyKFRFTVBfRElSRUNUT1JZKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgbG9nZ2VyID0gTG9nZ2VyLm5ldyhTVERPVVQpCiAgICAgIGxvZ2dlci5sZXZlbCA9IExvZ2dlcjo6SU5GTwogICAgICBSYWlscy5sb2dnZXIgPSBsb2dnZXI=</text>
       </register>
       <register name=":" type="4">
         <text>4</text>
