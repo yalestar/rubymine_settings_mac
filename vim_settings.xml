@@ -319,7 +319,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1487289197082">
+      <file name="/fragment.rb" timestamp="1487798835796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -447,8 +447,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487797928211">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487798276476">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.js.erb" timestamp="1477519647429">
         <mark key="[" line="1" column="56" />
@@ -565,7 +568,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1487711034310">
+      <file name="/Ruby Console" timestamp="1487798831706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
