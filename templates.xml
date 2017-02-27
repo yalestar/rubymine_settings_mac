@@ -979,6 +979,10 @@
           <option name="key" value="!!!" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="dee" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Zen CSS" />
           <option name="key" value="@i" />
         </TemplateKey>

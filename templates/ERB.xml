@@ -1,0 +1,14 @@
+<templateSet group="ERB">
+  <template name="ero" value="&lt;% $SELECTION$ %&gt;&#10;&#10;&lt;% end %&gt;" description="erb loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
+  <template name="er" value="&lt;%= $SELECTION$ %&gt;" description="erb output line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
+</templateSet>

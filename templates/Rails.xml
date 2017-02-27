@@ -1,0 +1,29 @@
+<templateSet group="Rails">
+  <template name="ve" value="validates_exclusion_of :$ATTRIBUTE$, :in =&gt; $ENUMERABLE$, :on =&gt; &quot;$CREATE$&quot;, :message =&gt; &quot;$MESSAGE$&quot;" description="validates exclusion of" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENUMERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="JSP" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="veif" value="validates_exclusion_of :$ATTRIBUTE$, :in =&gt; $ENUMERABLE$, :on =&gt; &quot;$CREATE$&quot;, :message =&gt; &quot;$IS_NOT_ALLOWED$&quot;, :if =&gt; proc { |obj| $OBJECT_CONDITION$ }" description="validates exclusion of" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENUMERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IS_NOT_ALLOWED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="JSP" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>
