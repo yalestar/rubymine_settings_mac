@@ -341,7 +341,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1489013185054">
+      <file name="/fragment.rb" timestamp="1489015291758">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -453,7 +453,7 @@
       <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.erb" timestamp="1487283737078">
         <mark key="[" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489013296227">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489014881620">
         <mark key="[" line="60" column="60" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
@@ -489,10 +489,10 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/initializers/bullet.rb" timestamp="1487097211331">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/dev/paladin/config/initializers/bullet.rb" timestamp="1489014985786">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
         <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1488933654162">
@@ -632,7 +632,7 @@
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
       </file>
-      <file name="/Ruby Console" timestamp="1489013056204">
+      <file name="/Ruby Console" timestamp="1489014989969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -956,10 +956,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Rating</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Rating</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
