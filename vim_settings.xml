@@ -20,7 +20,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1489084270848">
+      <file name="/a.dummy" timestamp="1489099262159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
@@ -313,7 +313,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1489084347385">
+      <file name="/Ruby Console" timestamp="1489099013295">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -664,6 +664,9 @@
         <mark key="[" line="39" column="224" />
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/oauth2_controller.rb" timestamp="1489099231293">
+        <mark key="[" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/imports_controller.rb" timestamp="1485208569262">
         <mark key="[" line="27" column="16" />
