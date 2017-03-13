@@ -20,7 +20,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1489427311755">
+      <file name="/a.dummy" timestamp="1489443415212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1489107757576">
@@ -65,7 +65,6 @@
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/step_definitions/utility_steps.rb" timestamp="1489426628481" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
@@ -128,7 +127,6 @@
       <file name="$USER_HOME$/dev/paladin/spec/factories/treatment_factory.rb" timestamp="1475104939372">
         <mark key="[" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.5.0/lib/capybara/node/finders.rb" timestamp="1489426683816" />
       <file name="$USER_HOME$/dev/paladin/spec/models/clinical_list_rule_spec.rb" timestamp="1477947516057">
         <mark key="[" line="4" column="73" />
         <mark key="]" line="5" column="0" />
@@ -825,8 +823,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_user_rating.html.haml" timestamp="1489103893563">
-        <mark key="[" line="8" column="85" />
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_user_rating.html.haml" timestamp="1489443427089">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/jobs/save_search_log_job_spec.rb" timestamp="1475616789779">
         <mark key="[" line="18" column="5" />
@@ -852,11 +852,11 @@
       <file name="$USER_HOME$/dev/paladin/features/rates.feature" timestamp="1487716519531">
         <mark key="[" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/locales/en.yml" timestamp="1489021959898">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="315" column="0" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="315" column="0" />
+      <file name="$USER_HOME$/dev/paladin/config/locales/en.yml" timestamp="1489443403163">
+        <mark key="[" line="242" column="32" />
+        <mark key="]" line="240" column="11" />
+        <mark key="^" line="240" column="11" />
+        <mark key="." line="240" column="11" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_confirm.html.haml" timestamp="1476915072988">
         <mark key="[" line="4" column="45" />
@@ -893,10 +893,10 @@
         <mark key="^" line="52" column="14" />
         <mark key="." line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_add_rating.html.haml" timestamp="1489108567544">
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="4" column="81" />
-        <mark key="." line="4" column="81" />
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_add_rating.html.haml" timestamp="1489443080670">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="81" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/searches/index.html.haml" timestamp="1475187155096">
@@ -1016,10 +1016,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>treatment</text>
+        <text>community.reviews</text>
       </register>
       <register name="-" type="4">
-        <text>treatment</text>
+        <text>community.reviews</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
