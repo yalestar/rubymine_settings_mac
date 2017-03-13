@@ -20,7 +20,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1489108613676">
+      <file name="/a.dummy" timestamp="1489427311755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1489107757576">
@@ -65,6 +65,7 @@
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/utility_steps.rb" timestamp="1489426628481" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
@@ -127,6 +128,10 @@
       <file name="$USER_HOME$/dev/paladin/spec/factories/treatment_factory.rb" timestamp="1475104939372">
         <mark key="[" line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/user_steps.rb" timestamp="1489427163644">
+        <mark key="[" line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.5.0/lib/capybara/node/finders.rb" timestamp="1489426683816" />
       <file name="$USER_HOME$/dev/paladin/spec/models/clinical_list_rule_spec.rb" timestamp="1477947516057">
         <mark key="[" line="4" column="73" />
         <mark key="]" line="5" column="0" />
@@ -313,7 +318,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1489193833133">
+      <file name="/Ruby Console" timestamp="1489427438218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -686,6 +691,11 @@
       <file name="$USER_HOME$/dev/paladin/app/policies/campaign_policy.rb" timestamp="1474925115112">
         <mark key="[" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/user_rating_spec.rb" timestamp="1489426437522">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="7" column="82" />
+        <mark key="." line="7" column="82" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1486941293704">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="29" />
@@ -788,6 +798,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/user_ratings.feature" timestamp="1489427526734">
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="30" column="60" />
+        <mark key="." line="30" column="60" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_uncompressor.rb" timestamp="1480714160410">
         <mark key="[" line="3" column="42" />
@@ -1000,10 +1016,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICMgaXQgJ2NvbnRhaW5zIGEgdmFsdWUgZm9yIGV2ZXJ5IHBvc3NpYmxlIHJhdGluZycgZG8KICAgICMgICBzdGFyX2NvdW50cyA9IHN1YmplY3Quc3Rhcl9jb3VudHMKICAgICMgICBleHBlY3Qoc3Rhcl9jb3VudHMua2V5cykudG8gZXEoWzUsIDQsIDMsIDIsIDFdKQogICAgIyBlbmQ=</text>
+        <text>&quot;Cannabis&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>&quot;Cannabis&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
