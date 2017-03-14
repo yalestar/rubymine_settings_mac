@@ -85,9 +85,9 @@
         <mark key="." line="38" column="20" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_form.html.haml" timestamp="1489512144711">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1489096213199">
@@ -316,7 +316,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1489511563776">
+      <file name="/Ruby Console" timestamp="1489518702576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -370,7 +370,7 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487270844741">
+      <file name="/Dummy.txt" timestamp="1489518595539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -447,6 +447,7 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/migrate_rates_data.rake" timestamp="1489518720171" />
       <file name="$USER_HOME$/dev/paladin/app/models/search_term.rb" timestamp="1475168928054">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="14" />
@@ -633,7 +634,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1489193865335">
+      <file name="/fragment.rb" timestamp="1489518730507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
