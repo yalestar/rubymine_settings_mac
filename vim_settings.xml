@@ -65,6 +65,12 @@
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/helpers/user_ratings_helper_spec.rb" timestamp="1489521719843">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1472490314165">
         <mark key="[" line="24" column="0" />
       </file>
@@ -243,7 +249,7 @@
         <mark key="." line="3" column="48" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/user_ratings_utils.rb" timestamp="1489193799548">
+      <file name="$USER_HOME$/dev/paladin/lib/user_ratings_utils.rb" timestamp="1489521388222">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="4" />
         <mark key="^" line="19" column="9" />
@@ -316,7 +322,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1489518702576">
+      <file name="/Ruby Console" timestamp="1489521773399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -633,7 +639,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1489518730507">
+      <file name="/fragment.rb" timestamp="1489521588714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
