@@ -447,7 +447,6 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/migrate_rates_data.rake" timestamp="1489518720171" />
       <file name="$USER_HOME$/dev/paladin/app/models/search_term.rb" timestamp="1475168928054">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="14" />
