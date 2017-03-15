@@ -474,10 +474,8 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/user_ratings_controller.rb" timestamp="1489603347445">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/user_ratings_controller.rb" timestamp="1489604813189">
+        <mark key="[" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
@@ -641,7 +639,7 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phases_controller.rb" timestamp="1483312081599">
         <mark key="[" line="7" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1489603366908">
+      <file name="/fragment.rb" timestamp="1489604651441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1024,10 +1022,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@treatment</text>
+        <text>UserRating.where(condition: @user_rating.condition_id, treatment: @treatment)</text>
       </register>
       <register name="-" type="4">
-        <text>@treatment</text>
+        <text>UserRating.where(condition: @user_rating.condition_id, treatment: @treatment)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
