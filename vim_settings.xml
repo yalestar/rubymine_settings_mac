@@ -231,11 +231,11 @@
       <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.erb" timestamp="1487283737078">
         <mark key="[" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489685793332">
-        <mark key="[" line="104" column="71" />
-        <mark key="]" line="90" column="70" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489687534367">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
         <mark key="^" line="90" column="70" />
-        <mark key="." line="90" column="70" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -1031,11 +1031,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlkcF9lbnRpdHlfaWQ6ICJodHRwOi8vaWRwMS5zYW1sLmxvY2FsL3NpbXBsZXNhbWwvc2FtbDIvaWRwL21ldGFkYXRhLnBocCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>UserRating.where(condition: @user_rating.condition_id, treatment: @treatment)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
