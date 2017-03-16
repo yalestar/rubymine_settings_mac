@@ -23,7 +23,6 @@
       <file name="/a.dummy" timestamp="1489690401161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1489700954205" />
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -93,7 +92,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1489690657570">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1489706767166">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
@@ -329,7 +328,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1489682561327">
+      <file name="/Ruby Console" timestamp="1489706921045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -473,6 +472,11 @@
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/schedules/create.js.erb" timestamp="1484528414065">
         <mark key="[" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1489706702141">
+        <mark key="]" line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+        <mark key="." line="68" column="15" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477945932349">
         <mark key="[" line="10" column="6" />
