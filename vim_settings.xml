@@ -232,11 +232,11 @@
       <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.erb" timestamp="1487283737078">
         <mark key="[" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489784366382">
-        <mark key="[" line="123" column="40" />
-        <mark key="]" line="124" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489790326174">
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="37" />
         <mark key="^" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+        <mark key="." line="41" column="37" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -1047,11 +1047,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>classify.constantize</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>classify.constantize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
