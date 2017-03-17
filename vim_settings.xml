@@ -20,7 +20,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1489710444444">
+      <file name="/a.dummy" timestamp="1489791447955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
@@ -148,7 +148,7 @@
         <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1489787233180">
-        <mark key="[" line="40" column="5" />
+        <mark key="[" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/asset.rb" timestamp="1484253453962">
         <mark key="[" line="6" column="0" />
@@ -232,12 +232,7 @@
       <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.erb" timestamp="1487283737078">
         <mark key="[" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489790326174">
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="37" />
-        <mark key="^" line="124" column="0" />
-        <mark key="." line="41" column="37" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489791639205" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -664,7 +659,7 @@
         <mark key="[" line="7" column="49" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1489787099380" />
-      <file name="/fragment.rb" timestamp="1489787090901">
+      <file name="/fragment.rb" timestamp="1489791128050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
