@@ -92,11 +92,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1489710312309">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="." line="21" column="8" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1489784640493">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
@@ -147,7 +147,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1489684307752">
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1489784247042">
         <mark key="[" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/asset.rb" timestamp="1484253453962">
@@ -232,7 +232,7 @@
       <file name="$USER_HOME$/dev/paladin/app/views/rates/_form.html.erb" timestamp="1487283737078">
         <mark key="[" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489690374103">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1489784366382">
         <mark key="[" line="123" column="40" />
         <mark key="]" line="124" column="0" />
         <mark key="^" line="124" column="0" />
@@ -735,6 +735,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/organization_users_controller.rb" timestamp="1489784528501" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -962,7 +963,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1489710984367">
+      <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1489783921981">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
@@ -1045,8 +1046,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>success</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>success</text>
@@ -1057,38 +1058,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICA9IGxpbmtfdG8gIkFkZCBZb3VyIFJldmlldyIsIFs6bmV3LCBAcmVzb3VyY2UsIDp1c2VyX3JhdGluZ10sIHJlbW90ZTogdHJ1ZSwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>def cleanup_session
       session.delete(:org_id)
       session.delete(:coupon_code)
     end</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICMgaG93IHRvIGRldGVybWluZSB3aGV0aGVyIHdlJ3JlIG9uIHRyZWF0bWVudCBwYWdlIG9yIENUIHBhZ2UKICAgICMgb24gdHJlYXRtZW50IHBhZ2Ugd2Ugc2hvdyBhbGwgcmF0aW5ncyBmb3IgYSB0cmVhdG1lbnQKICAgICMgb24gQ1QgcGFnZSB3ZSBvbmx5IHNob3cgcmF0aW5ncyB0aGF0IG1hdGNoIGJvdGggdHJlYXRtZW50ICYgY29uZGl0aW9uCiAgICAjIGJ1dCBvbiB0aGUgdHJlYXRtZW50IHBhZ2UsIHJhdGluZ3Mgc3RpbGwgaGF2ZSBhc3NvY2lhdGVkIGNvbmRpdGlvbnMsIHNvIHdlIGNhbid0IHVzZSB0aGF0IHRvIGZpbHRlcgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA9IGYuZmllbGRzX2ZvciA6b3JnYW5pemF0aW9ucyBkbyB8b3wKICAgICAgICAgICAgICAgICAgPSBvLmlucHV0IDpjb3Vwb25fY29kZSwgbGFiZWw6ICdSZWdpc3RyYXRpb24gQ29kZSAob3B0aW9uYWwpJywgcmVxdWlyZWQ6IGZhbHNlLAogICAgICAgICAgICAgICAgICBpbnB1dF9odG1sOiB7IGNsYXNzOiAnZm9ybS1jb250cm9sJywgdmFsdWU6IEBjb2RlLAogICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcjogdCgnc2ltcGxlX2Zvcm0uc2lnbl91cC5yZWdpc3RyYXRpb25fY29kZV9wbGFjZWhvbGRlcicpLCBhdXRvY29tcGxldGU6IDpvZmYgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzcG9uc2UuYXR0cmlidXRlc1s6ZW1haWxfYWRkcmVzc10ucHJlc2VudD8KICAgICAgICAgICAgICAjIFdlIGhhdmUgYW4gZW1haWwgYWRkcmVzcyBwcmVzdW1lZCB0byBiZSB2YWxpZAogICAgICAgICAgICAgIGVtYWlsID0gcmVzcG9uc2UuYXR0cmlidXRlc1s6ZW1haWxfYWRkcmVzc10KICAgICAgICAgICAgICB1c2VyID0gVXNlci5maW5kX2J5X2VtYWlsKGVtYWlsKQogICAgICAgICAgICAgICMgZG8gd2UgaGF2ZSBhIHVzZXIgd2l0aCB0aGlzIGVtYWlsPwogICAgICAgICAgICAgIGlmIHVzZXIucHJlc2VudD8KICAgICAgICAgICAgICAgICMgVXBkYXRlIHRoZSBhdHRyaWJ1dGVzIGFuZCBjaGVjayBpZiBmdWxseSB2YWxpZAogICAgICAgICAgICAgICAgaWYgdXNlci52YWxpZD8KICAgICAgICAgICAgICAgICAgIyBTaWduIGluCiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICMgU2VuZCB0byBSZWdpc3RyYXRpb24gU2NyZWVuIHdpdGggZGF0YSBwcmUtcG9wdWxhdGVkCiAgICAgICAgICAgICAgICAgIHJlZGlyZWN0X3RvKG5ld19zc29fdXNlcl9wYXRoLCBmbGFzaDogewogICAgICAgICAgICAgICAgICAgIGVtYWlsX2FkZHJlc3M6IHVzZXIuZW1haWwsCiAgICAgICAgICAgICAgICAgICAgZmlyc3RfbmFtZTogdXNlci5sZWdhbF9maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgICAgIGxhc3RfbmFtZTogdXNlci5sZWdhbF9sYXN0X25hbWUKICAgICAgICAgICAgICAgICAgfSkgYW5kIHJldHVybgogICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgICAgZWxzZQoKICAgICAgICAgICAgICAgICMgaWYgdXNlci52YWxpZD8KICAgICAgICAgICAgICAgICMgICAjIFNpZ24gaW4KICAgICAgICAgICAgICAgICMgZWxzZQogICAgICAgICAgICAgICAgIyAgICMgU2VuZCB0byBSZWdpc3RyYXRpb24gU2NyZWVuIHdpdGggZGF0YSBwcmUtcG9wdWxhdGVkCiAgICAgICAgICAgICAgICAgICMgWUpLIEhFUkUgQlJPCiAgICAgICAgICAgICAgICAjCiAgICAgICAgICAgICAgICAjIGVuZAogICAgICAgICAgICAgIGVuZAogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgIyBWZXJpZmllZCBlbWFpbCBub3QgZm91bmQ6IGdlbmVyYXRlIGEgdXNlciB1c2luZyBhbGwgdGhlIGRhdGEgaW4gdGhlIGFzc2VydGlvbgogICAgICAgICAgICAgICMgQWxzbyBjcmVhdGUgYSBuZXcgU1NPIENyZWRlbnRpYWwgYW5kIGxpbmsgdG8gdGhlIHVzZXIgYW5kIHRoZSBQYXJ0bmVyIElEUAogICAgICAgICAgICAgICMgdXNlci5zYXZlKHZhbGlkYXRlOiBmYWxzZSkKICAgICAgICAgICAgICByZWRpcmVjdF90byhyZWdpc3Rlcl9wYXRoKQogICAgICAgICAgICBlbmQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIGlkcF9lbnRpdHlfaWQ6ICJodHRwOi8vaWRwMS5zYW1sLmxvY2FsL3NpbXBsZXNhbWwvc2FtbDIvaWRwL21ldGFkYXRhLnBocCIsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBkZWYgaGFuZGxlX3Nzb191c2VyCiAKICBlbmQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIyA9IGxhYmVsX3RhZyg6Y29uZGl0aW9uX2lkLCApCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBjb25kaXRpb24gPSBDb25kaXRpb24uZmluZF9ieShuYW1lOiBjb25kaXRpb25fbmFtZSkK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICMgaXQgJ2NvbnRhaW5zIGEgdmFsdWUgZm9yIGV2ZXJ5IHBvc3NpYmxlIHJhdGluZycgZG8KICAgICMgICBzdGFyX2NvdW50cyA9IHN1YmplY3Quc3Rhcl9jb3VudHMKICAgICMgICBleHBlY3Qoc3Rhcl9jb3VudHMua2V5cykudG8gZXEoWzUsIDQsIDMsIDIsIDFdKQogICAgIyBlbmQ=</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
