@@ -153,7 +153,6 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/asset.rb" timestamp="1484253453962">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1489710345331" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477946916643">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="24" column="33" />
@@ -329,7 +328,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1489706921045">
+      <file name="/Ruby Console" timestamp="1489770518980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -736,7 +735,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/organization_users_controller.rb" timestamp="1489710182536" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -1015,7 +1013,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1489684365366" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
