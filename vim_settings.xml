@@ -313,7 +313,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1490031843081">
+      <file name="/Ruby Console" timestamp="1490037999552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
@@ -454,6 +454,11 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1490037984849">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/schedules/create.js.erb" timestamp="1484528414065">
         <mark key="[" line="0" column="23" />
@@ -1028,10 +1033,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>classify.constantize</text>
+        <text>losers</text>
       </register>
       <register name="-" type="4">
-        <text>classify.constantize</text>
+        <text>losers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
