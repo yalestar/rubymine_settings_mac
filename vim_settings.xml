@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/paladin/app/models/search_term.rb" timestamp="1475168928054">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/datatables/clients_datatable.rb" timestamp="1482614313334">
         <mark key="[" line="42" column="51" />
         <mark key="]" line="42" column="51" />
         <mark key="." line="42" column="51" />
         <mark key="^" line="41" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1490049136677">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/db_rx_norm/migrate/20161110003757_create_rx_norm_tables.rb" timestamp="1479764861250">
         <mark key="[" line="19" column="17" />
@@ -25,16 +37,71 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1489709036720">
+        <mark key="[" line="105" column="35" />
+        <mark key="]" line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1490050301144">
         <mark key="[" line="62" column="38" />
         <mark key="]" line="46" column="5" />
         <mark key="." line="46" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477945932349">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phase_templates_controller.rb" timestamp="1483312363226">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/disciplines/update.js.erb" timestamp="1483312518123">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/user_ratings_controller.rb" timestamp="1490052292105">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="79" column="26" />
+        <mark key="." line="79" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476290120088">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/devise/invitations/new.html.erb" timestamp="1479074956808">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_import.rake" timestamp="1484088329370">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ask_a_pharmacist.feature" timestamp="1476133799735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1478553747189">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="2" column="83" />
+        <mark key="." line="16" column="6" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_policy.rb" timestamp="1478553459752">
         <mark key="[" line="20" column="6" />
@@ -53,6 +120,11 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1478821921811">
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="24" column="58" />
+        <mark key="." line="24" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/helpers/admin/users_helper.rb" timestamp="1482084708285">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="10" column="0" />
@@ -69,11 +141,22 @@
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_new.html.haml" timestamp="1477519493763">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/helpers/user_ratings_helper_spec.rb" timestamp="1489521719843">
         <mark key="[" line="24" column="54" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/db/migrate/20170306232546_create_user_ratings.rb" timestamp="1489017475214">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" timestamp="1490053722664">
         <mark key="[" line="3" column="2" />
@@ -122,364 +205,6 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/clinical_list_rule_spec.rb" timestamp="1477947516057">
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="72" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
-        <mark key="[" line="4" column="62" />
-        <mark key="]" line="4" column="62" />
-        <mark key="." line="4" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/new.html.erb" timestamp="1489081370372">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477946916643">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/user_rating_utils.rb" timestamp="1488921950504">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="23" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.erb" timestamp="1477518989302">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="6" column="129" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487704153986">
-        <mark key="[" line="86" column="52" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1488921539805">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.haml" timestamp="1478554983353">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_save.js.erb" timestamp="1477589589151">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="18" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="39" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1489690899548">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_choose_condition.html.haml" timestamp="1488925360432">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="48" />
-        <mark key="." line="3" column="48" />
-        <mark key="^" line="3" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/user_ratings_utils.rb" timestamp="1489521388222">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="61" />
-        <mark key="." line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487802231537">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="2" column="55" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="2" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.js.erb" timestamp="1477519647429">
-        <mark key="[" line="1" column="56" />
-        <mark key="]" line="1" column="56" />
-        <mark key="." line="1" column="56" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/index.html.erb" timestamp="1477518764451">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="96" />
-        <mark key="." line="9" column="96" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_inserter.rb" timestamp="1479249128801">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="52" column="27" />
-        <mark key="^" line="32" column="45" />
-        <mark key="." line="52" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487712466175">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1475170055929">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_rate.html.haml" timestamp="1488924639911">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/policies/clinical_list_policy_spec.rb" timestamp="1477526345771">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.html.erb" timestamp="1477519532378">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/Ruby Console" timestamp="1490052565939">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_add_yours.html.haml" timestamp="1490047461481">
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/conditions_index.rb" timestamp="1476137918324">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="75" />
-        <mark key="." line="5" column="75" />
-        <mark key="^" line="27" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" timestamp="1484526150645">
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="11" />
-        <mark key="." line="63" column="11" />
-        <mark key="^" line="63" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/helpers/rates_helper.rb" timestamp="1488922079320">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1489518595539">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476403198244">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/idp_settings_adapter.rb" timestamp="1489623095307">
-        <mark key="[" line="11" column="81" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/ndc_normalizer.rb" timestamp="1480704325848">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_permissions.rb" timestamp="1486244006461">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_index_updatable.rb" timestamp="1478822263939">
-        <mark key="[" line="6" column="74" />
-        <mark key="]" line="6" column="74" />
-        <mark key="." line="6" column="74" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/claims_loader.rb" timestamp="1483477909672">
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/user_rateable.rb" timestamp="1488921110802">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/requests/infobutton_query_spec.rb" timestamp="1476379121917">
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="144" column="10" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="144" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_lines_controller.rb" timestamp="1477943041978">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/db/schema.rb" timestamp="1482092115574">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/disciplines/index.html.erb" timestamp="1484268057474">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="6" />
-        <mark key="^" line="42" column="16" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/search_term.rb" timestamp="1475168928054">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1490049136677">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1489709036720">
-        <mark key="[" line="105" column="35" />
-        <mark key="]" line="68" column="15" />
-        <mark key="^" line="68" column="15" />
-        <mark key="." line="68" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/policies/clinical_list_rule_policy.rb" timestamp="1477945932349">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phase_templates_controller.rb" timestamp="1483312363226">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/disciplines/update.js.erb" timestamp="1483312518123">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/user_ratings_controller.rb" timestamp="1490052292105">
-        <mark key="[" line="61" column="52" />
-        <mark key="]" line="61" column="52" />
-        <mark key="." line="61" column="52" />
-        <mark key="^" line="65" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/features/community_search.feature" timestamp="1476290120088">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/devise/invitations/new.html.erb" timestamp="1479074956808">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_import.rake" timestamp="1484088329370">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_lists_controller.rb" timestamp="1478553747189">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="2" column="83" />
-        <mark key="." line="16" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/search_indexer_job.rb" timestamp="1478821921811">
-        <mark key="[" line="24" column="58" />
-        <mark key="]" line="24" column="58" />
-        <mark key="." line="24" column="58" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_new.html.haml" timestamp="1477519493763">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/db/migrate/20170306232546_create_user_ratings.rb" timestamp="1489017475214">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/dooby.rb" timestamp="1479146928815">
         <mark key="[" line="42" column="49" />
         <mark key="]" line="42" column="9" />
@@ -523,6 +248,23 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/clinical_list_rule_spec.rb" timestamp="1477947516057">
+        <mark key="[" line="4" column="73" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/new.html.erb" timestamp="1489081370372">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/user_rating.rb" timestamp="1490049205421">
         <mark key="[" line="29" column="45" />
         <mark key="]" line="29" column="50" />
@@ -545,6 +287,12 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477946916643">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
         <mark key="]" line="7" column="0" />
@@ -556,16 +304,43 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/user_rating_utils.rb" timestamp="1488921950504">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.erb" timestamp="1477518989302">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_downloader_job.rb" timestamp="1480542173327">
         <mark key="[" line="36" column="14" />
         <mark key="]" line="41" column="7" />
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="6" column="129" />
+      </file>
       <file name="/fragment.rb" timestamp="1490053483932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/new.js.erb" timestamp="1488931099307">
         <mark key="[" line="3" column="19" />
@@ -584,11 +359,22 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_results_object.rb" timestamp="1475095264119">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/rates_controller.rb" timestamp="1487704153986">
+        <mark key="[" line="86" column="52" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
@@ -612,10 +398,33 @@
         <mark key="]" line="2" column="78" />
         <mark key="." line="2" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1488921539805">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_form.html.haml" timestamp="1478554983353">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/user_rating_spec.rb" timestamp="1489426437522">
         <mark key="[" line="7" column="82" />
         <mark key="]" line="7" column="82" />
         <mark key="." line="7" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/lib/search_results_spec.rb" timestamp="1475269493792">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_save.js.erb" timestamp="1477589589151">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="39" column="18" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1486941293704">
         <mark key="[" line="13" column="30" />
@@ -628,6 +437,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -639,10 +453,28 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1489690899548">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_import_job.rb" timestamp="1482343437676">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_choose_condition.html.haml" timestamp="1488925360432">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="48" />
+        <mark key="." line="3" column="48" />
+        <mark key="^" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/user_ratings_utils.rb" timestamp="1489521388222">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/bullet.rb" timestamp="1489014985786">
         <mark key="[" line="1" column="18" />
@@ -655,22 +487,61 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/post_index_spec.rb" timestamp="1477004670092">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487802231537">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="2" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.js.erb" timestamp="1477519647429">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="56" />
+        <mark key="." line="1" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/assets/javascripts/viewId" timestamp="1486246126461">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="46" />
         <mark key="." line="34" column="46" />
         <mark key="^" line="29" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/index.html.erb" timestamp="1477518764451">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="96" />
+        <mark key="." line="9" column="96" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/searches/_results_items.html.haml" timestamp="1475264028552">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_inserter.rb" timestamp="1479249128801">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="52" column="27" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="52" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487712466175">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/clients/edit.html.erb" timestamp="1481489476486">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="24" column="10" />
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1475170055929">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
@@ -682,6 +553,11 @@
         <mark key="]" line="7" column="1" />
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_rate.html.haml" timestamp="1488924639911">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/importer.rb" timestamp="1485455506148">
         <mark key="[" line="7" column="13" />
@@ -707,6 +583,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="4" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/policies/clinical_list_policy_spec.rb" timestamp="1477526345771">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_ndc.rb" timestamp="1476898722474">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -716,6 +598,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.html.erb" timestamp="1477519532378">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1490115456402">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
         <mark key="[" line="2" column="16" />
@@ -757,11 +647,33 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_add_yours.html.haml" timestamp="1490047461481">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_search_spec.rb" timestamp="1475871687552">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="28" column="52" />
         <mark key="." line="28" column="52" />
         <mark key="^" line="28" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/conditions_index.rb" timestamp="1476137918324">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="75" />
+        <mark key="." line="5" column="75" />
+        <mark key="^" line="27" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" timestamp="1484526150645">
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="11" />
+        <mark key="." line="63" column="11" />
+        <mark key="^" line="63" column="11" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/locales/en.yml" timestamp="1489443403163">
         <mark key="[" line="242" column="32" />
@@ -774,6 +686,11 @@
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/searches_controller.rb" timestamp="1475169950124">
         <mark key="[" line="10" column="37" />
@@ -816,10 +733,42 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="51" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/helpers/rates_helper.rb" timestamp="1488922079320">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_edit_menu.html.erb" timestamp="1488924703950">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1489518595539">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/comments_index.rb" timestamp="1476137934265">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/treatment_spec.rb" timestamp="1476403198244">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/idp_settings_adapter.rb" timestamp="1489623095307">
+        <mark key="[" line="11" column="81" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/ndc_normalizer.rb" timestamp="1480704325848">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_other_permissions.html.erb" timestamp="1486246703406">
         <mark key="[" line="39" column="58" />
@@ -831,10 +780,21 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_permissions.rb" timestamp="1486244006461">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1489783921981">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_index_updatable.rb" timestamp="1478822263939">
+        <mark key="[" line="6" column="74" />
+        <mark key="]" line="6" column="74" />
+        <mark key="." line="6" column="74" />
       </file>
       <file name="$USER_HOME$/dev/paladin/db/migrate/20160928195443_rename_search_result_to_search_term.rb" timestamp="1475168917537">
         <mark key="[" line="2" column="42" />
@@ -848,11 +808,50 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/claims_loader.rb" timestamp="1483477909672">
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/user_rateable.rb" timestamp="1488921110802">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_ratings.html.haml" timestamp="1490048718188">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
         <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/requests/infobutton_query_spec.rb" timestamp="1476379121917">
+        <mark key="[" line="144" column="12" />
+        <mark key="]" line="144" column="10" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="144" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_lines_controller.rb" timestamp="1477943041978">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/db/schema.rb" timestamp="1482092115574">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/disciplines/index.html.erb" timestamp="1484268057474">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="6" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/helpers/searches_helper.rb" timestamp="1475263904002">
         <mark key="[" line="8" column="14" />
