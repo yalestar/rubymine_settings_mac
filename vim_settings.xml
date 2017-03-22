@@ -31,7 +31,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1490212742022">
+      <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -64,7 +64,7 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/user_ratings_controller.rb" timestamp="1490126084087">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/user_ratings_controller.rb" timestamp="1490215324153">
         <mark key="^" line="10" column="116" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
@@ -263,11 +263,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/user_rating.rb" timestamp="1490049205421">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="50" />
-        <mark key="^" line="31" column="134" />
-        <mark key="." line="29" column="50" />
+      <file name="$USER_HOME$/dev/paladin/app/models/user_rating.rb" timestamp="1490216138857">
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="62" column="24" />
+        <mark key="^" line="62" column="24" />
+        <mark key="." line="62" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/datatables/clinical_list_rules_datatable.rb" timestamp="1478561664590">
         <mark key="[" line="57" column="0" />
@@ -285,7 +285,6 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib/action_view/helpers/url_helper.rb" timestamp="1490212423792" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/admin/clinical_list_rules_controller_spec.rb" timestamp="1477946916643">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="24" column="33" />
@@ -331,7 +330,7 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="6" column="129" />
       </file>
-      <file name="/fragment.rb" timestamp="1490212081927">
+      <file name="/fragment.rb" timestamp="1490216083383">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -358,7 +357,6 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/application.rb" timestamp="1490212761109" />
       <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -537,7 +535,6 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib/action_view/routing_url_for.rb" timestamp="1490212686693" />
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1475170055929">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="12" />
@@ -605,7 +602,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1490213484342">
+      <file name="/Ruby Console" timestamp="1490215278146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -914,11 +911,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>any?</text>
       </register>
       <register name="-" type="4">
-        <text>policy_scope(@resource.user_ratings)</text>
+        <text>any?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
