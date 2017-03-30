@@ -7,9 +7,9 @@
     <context>
       <option name="COMPLETION" value="false" />
       <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
     </context>
   </template>
   <template name="veif" value="validates_exclusion_of :$ATTRIBUTE$, :in =&gt; $ENUMERABLE$, :on =&gt; &quot;$CREATE$&quot;, :message =&gt; &quot;$IS_NOT_ALLOWED$&quot;, :if =&gt; proc { |obj| $OBJECT_CONDITION$ }" description="validates exclusion of" toReformat="true" toShortenFQNames="true" deactivated="true">
@@ -21,9 +21,9 @@
     <context>
       <option name="COMPLETION" value="false" />
       <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
     </context>
   </template>
 </templateSet>
