@@ -289,11 +289,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491256473575">
-        <mark key="[" line="58" column="84" />
-        <mark key="]" line="60" column="3" />
-        <mark key="^" line="60" column="3" />
-        <mark key="." line="60" column="3" />
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491258101097">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="59" column="27" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
@@ -352,10 +352,10 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="6" column="129" />
       </file>
-      <file name="/fragment.rb" timestamp="1491253929118">
+      <file name="/fragment.rb" timestamp="1491258492087">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -457,11 +457,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491256009925">
-        <mark key="[" line="59" column="12" />
-        <mark key="]" line="68" column="56" />
-        <mark key="." line="68" column="56" />
-        <mark key="^" line="68" column="56" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491257807132">
+        <mark key="[" line="62" column="2" />
+        <mark key="]" line="62" column="2" />
+        <mark key="." line="62" column="2" />
+        <mark key="^" line="70" column="56" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -631,7 +631,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1491255237709">
+      <file name="/Ruby Console" timestamp="1491258112571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -941,10 +941,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGhicCA9IEhlYWx0aFBsYW5CZW5lZml0LmZpbmRfYnkocnhncm91cDogZ3JvdXBfaWQpCiAgICBvcmdfYmVuZWZpdCA9IE9yZ2FuaXphdGlvbkhlYWx0aFBsYW5CZW5lZml0LmZpbmRfYnkoaGVhbHRoX3BsYW5fYmVuZWZpdDogaGJwKQogICAgaWYgb3JnX2JlbmVmaXQubmlsPyB8fCBvcmdfYmVuZWZpdC5vcmdhbml6YXRpb24ubmlsPwogICAgICBsb2dfd2FybigiVW5hYmxlIHRvIGRldGVybWluZSBvcmdhbml6YXRpb24gZm9yICN7Z3JvdXBfaWR9IikKICAgICAgbmlsCiAgICBlbHNlCiAgICAgIEBncm91cF9vcmdfaGFzaFtncm91cF9pZF0gPSBvcmdfYmVuZWZpdC5vcmdhbml6YXRpb24uaWQKICAgICAgb3JnX2JlbmVmaXQub3JnYW5pemF0aW9uLmlkCiAgICBlbmQ=</text>
+        <text>s[:authorized_members]</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>s[:authorized_members]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
