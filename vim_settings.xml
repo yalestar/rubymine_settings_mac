@@ -176,7 +176,11 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491340104204" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491343748012">
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
         <mark key="]" line="29" column="82" />
@@ -285,8 +289,9 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491329868336">
-        <mark key="^" line="83" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491343468677">
+        <mark key="[" line="24" column="38" />
+        <mark key="^" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
@@ -449,12 +454,6 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491330021310">
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="12" />
-        <mark key="^" line="67" column="56" />
-        <mark key="." line="62" column="12" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -628,7 +627,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1491340007354">
+      <file name="/Ruby Console" timestamp="1491343790161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -768,9 +767,6 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/job_pipelines/claims_loader_job_spec.rb" timestamp="1491341118179">
-        <mark key="[" line="40" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1491337151637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -787,7 +783,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/idp_settings_adapter.rb" timestamp="1489623095307">
+      <file name="$USER_HOME$/dev/paladin/app/models/idp_settings_adapter.rb" timestamp="1491343058247">
         <mark key="[" line="11" column="81" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -946,7 +942,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confirmation_token</text>
+        <text encoding="base64">CiAgICBkZWYgZWRpdAogICAgZW5kCgogICAgZGVmIGNvbmZpZ3VyZV9wZXJtaXR0ZWRfcGFyYW1ldGVycwogICAgICBkZXZpc2VfcGFyYW1ldGVyX3Nhbml0aXplci5mb3IoOnNpZ25fdXApIHsgfHV8IHUucGVybWl0KCpwb2xpY3koVXNlcikucmVnaXN0cmF0aW9uX3Blcm1pdHRlZF9hdHRyaWJ1dGVzKSB9CiAgICAgIGRldmlzZV9wYXJhbWV0ZXJfc2FuaXRpemVyLmZvcig6YWNjb3VudF91cGRhdGUpIHsgfHV8IHUucGVybWl0KCpwb2xpY3koVXNlcikucmVnaXN0cmF0aW9uX3Blcm1pdHRlZF9hdHRyaWJ1dGVzKSB9CiAgICBlbmQ=</text>
       </register>
       <register name="-" type="4">
         <text>confirmation_token</text>
@@ -958,44 +954,34 @@
         <text encoding="base64">ICAgICAgICBnZW5kZXJfYXRfYmlydGg6IEdlbmRlci5nZW5kZXJfYnlfbmFtZShAcHJpbWFyeV9tZW1iZXJbQGlkcF9hdHRyaWJ1dGVfbWFwWydnZW5kZXJfYXRfYmlydGgnXVswXV0pLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAjIHNlbGYtaW52aXRlCiAgICAgICAgICAjIHN0b3JlIHRoZSB1c2VyOyBzZXQgdGhlIHVzZXIgSUQgaW4gdGhlIHNlc2gsIHRoZW4gZmV0Y2gKICAgICAgICAgICMgbG9vcCB0aHJvdWdoIGF1dGhvcml6ZWQgdXNlcnMgaW4gcGF5bG9hZDsgZmluZCBkZWZhdWx0PXkKICAgICAgICAgICMgQkUgU1VSRSBUTyBMT09LIElOIGF1dGhvcml6ZWRNZW1iZXJzLCBub3QgcHJpbWFyeU1lbWJlcg==</text>
+        <text encoding="base64">CiAgICBkZWYgZWRpdAogICAgZW5kCgogICAgZGVmIGNvbmZpZ3VyZV9wZXJtaXR0ZWRfcGFyYW1ldGVycwogICAgICBkZXZpc2VfcGFyYW1ldGVyX3Nhbml0aXplci5mb3IoOnNpZ25fdXApIHsgfHV8IHUucGVybWl0KCpwb2xpY3koVXNlcikucmVnaXN0cmF0aW9uX3Blcm1pdHRlZF9hdHRyaWJ1dGVzKSB9CiAgICAgIGRldmlzZV9wYXJhbWV0ZXJfc2FuaXRpemVyLmZvcig6YWNjb3VudF91cGRhdGUpIHsgfHV8IHUucGVybWl0KCpwb2xpY3koVXNlcikucmVnaXN0cmF0aW9uX3Blcm1pdHRlZF9hdHRyaWJ1dGVzKSB9CiAgICBlbmQ=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZ2VuZXJhdGVfdGVtcF9lbWFpbChzc29fdXNlcl9pZCkKICAgICAKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxuID0gQHByaW1hcnlfbWVtYmVyW0BpZHBfYXR0cmlidXRlX21hcFsnbGVnYWxfbGFzdF9uYW1lJ11bMF1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZuID0gQHByaW1hcnlfbWVtYmVyW0BpZHBfYXR0cmlidXRlX21hcFsnbGVnYWxfZmlyc3RfbmFtZSddWzBdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>def self.from_string(gender)
-    gender.downcase!
-    if gender == 'm'
-      'male'
-    elsif gender == 'f'
-      'female'
-    elsif gender == 'o'
-      'other'
-    else
-      gender
-    end</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBHZW5kZXIuZmluZF9ieShuYW1lOiBnZW5kZXIuZG93bmNhc2Up</text>
+        <text encoding="base64">CiAgICAgICAgICAjIHNlbGYtaW52aXRlCiAgICAgICAgICAjIHN0b3JlIHRoZSB1c2VyOyBzZXQgdGhlIHVzZXIgSUQgaW4gdGhlIHNlc2gsIHRoZW4gZmV0Y2gKICAgICAgICAgICMgbG9vcCB0aHJvdWdoIGF1dGhvcml6ZWQgdXNlcnMgaW4gcGF5bG9hZDsgZmluZCBkZWZhdWx0PXkKICAgICAgICAgICMgQkUgU1VSRSBUTyBMT09LIElOIGF1dGhvcml6ZWRNZW1iZXJzLCBub3QgcHJpbWFyeU1lbWJlcg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGlmIHByaW1hcnkKICAgICAgb3Jn</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgZ2VuZXJhdGVfdGVtcF9lbWFpbChzc29fdXNlcl9pZCkKICAgICAKICBlbmQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIG1lbXMuZWFjaCBkbyB8bWVtYmVyfAogICAgICBwdXRzIG1lbWJlcgogICAgZW5k</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxuID0gQHByaW1hcnlfbWVtYmVyW0BpZHBfYXR0cmlidXRlX21hcFsnbGVnYWxfbGFzdF9uYW1lJ11bMF1dCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICMgZXZpbCA9IGV2YWwobWVtcykKCiAgICBldmlsLmVhY2ggZG8gfG1lbWJlcnwKCiAgICBlbmQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZuID0gQHByaW1hcnlfbWVtYmVyW0BpZHBfYXR0cmlidXRlX21hcFsnbGVnYWxfZmlyc3RfbmFtZSddWzBdXQo=</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
