@@ -176,11 +176,11 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491329915358">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="24" column="10" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491337435937">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1475170144721">
         <mark key="[" line="29" column="82" />
@@ -342,13 +342,14 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1491337575157" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
         <mark key="^" line="6" column="129" />
       </file>
-      <file name="/fragment.rb" timestamp="1491329443138">
+      <file name="/fragment.rb" timestamp="1491336737657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -631,7 +632,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1491335875034">
+      <file name="/Ruby Console" timestamp="1491337748445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -771,7 +772,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491328614124">
+      <file name="/Dummy.txt" timestamp="1491337151637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
