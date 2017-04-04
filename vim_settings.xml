@@ -345,7 +345,6 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1491253189346" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.erb" timestamp="1477695367667">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="17" />
@@ -413,7 +412,6 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/validate_user_importer.rb" timestamp="1491262841676" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="78" />
@@ -547,7 +545,6 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1491254240358" />
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_inserter.rb" timestamp="1479249128801">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="52" column="27" />
@@ -637,7 +634,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1491263916560">
+      <file name="/Ruby Console" timestamp="1491325676757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
