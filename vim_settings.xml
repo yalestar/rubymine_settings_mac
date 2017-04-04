@@ -515,7 +515,6 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1491328640188" />
       <file name="$USER_HOME$/dev/EXAMPLES/bonkers/fhir_test.rb" timestamp="1487802231537">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="2" column="55" />
@@ -611,7 +610,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/users_controller.rb" timestamp="1491329839254" />
       <file name="$USER_HOME$/dev/paladin/spec/policies/clinical_list_policy_spec.rb" timestamp="1477526345771">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -633,7 +631,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1491333835752">
+      <file name="/Ruby Console" timestamp="1491334711642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
