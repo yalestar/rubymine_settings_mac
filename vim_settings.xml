@@ -237,11 +237,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491504077556">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491504089668">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="66" column="31" />
         <mark key="^" line="98" column="45" />
-        <mark key="." line="104" column="0" />
+        <mark key="." line="66" column="31" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
@@ -452,11 +452,11 @@
       <jump line="4" column="21" filename="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgZ2VuZGVyX2F0X2JpcnRoX25hbWUKICAgIGlmIEBwcmltYXJ5X21lbWJlcltAaWRwX2F0dHJpYnV0ZV9tYXBbJ2dlbmRlcl9hdF9iaXJ0aCddXQogICAgICBHZW5kZXIuZ2VuZGVyX2J5X25hbWUoQHByaW1hcnlfbWVtYmVyW0BpZHBfYXR0cmlidXRlX21hcFsnZ2VuZGVyX2F0X2JpcnRoJ11bMF1dKQogICAgZWxzZQogICAgICBuaWwKICAgIGVuZAogIGVuZAoK</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text># TODO: YJK: destroy once used; don't wait for explicitly calling this</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
