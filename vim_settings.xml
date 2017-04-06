@@ -70,6 +70,9 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1491502159184">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role_view.rb" timestamp="1486346696015">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="14" />
@@ -119,6 +122,10 @@
       <file name="$USER_HOME$/dev/paladin/config/locales/devise.en.yml" timestamp="1491430093735">
         <mark key="[" line="34" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1491501686972">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/edit.js.erb" timestamp="1477519647429">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -142,7 +149,7 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491435981360">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491501934723">
         <mark key="[" line="2" column="40" />
         <mark key="^" line="53" column="12" />
       </file>
@@ -171,7 +178,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/helpers/application_helper.rb" timestamp="1491498999213">
+      <file name="$USER_HOME$/dev/paladin/app/helpers/application_helper.rb" timestamp="1491501745610">
         <mark key="[" line="12" column="64" />
         <mark key="]" line="12" column="14" />
         <mark key="^" line="12" column="14" />
@@ -212,7 +219,7 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="/Ruby Console" timestamp="1491499503519">
+      <file name="/Ruby Console" timestamp="1491502558578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -230,11 +237,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491435687143">
-        <mark key="[" line="76" column="5" />
-        <mark key="]" line="76" column="5" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="76" column="5" />
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491501856426">
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="77" column="5" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="77" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
@@ -246,11 +253,11 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1491500078601">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1491501983018">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
@@ -268,7 +275,7 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1491499882277">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1491501655150">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="92" column="3" />
@@ -299,7 +306,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491500949469">
+      <file name="/Dummy.txt" timestamp="1491501906122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -333,6 +340,9 @@
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1491502539402">
+        <mark key="[" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
         <mark key="[" line="20" column="0" />
@@ -439,6 +449,7 @@
       <jump line="29" column="6" filename="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/disciplines_controller.rb" />
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" />
+      <jump line="4" column="21" filename="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
