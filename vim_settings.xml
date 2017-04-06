@@ -23,12 +23,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491435949675">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="8" />
-        <mark key="^" line="58" column="114" />
-        <mark key="." line="55" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1491254232800">
         <mark key="[" line="109" column="4" />
         <mark key="]" line="109" column="4" />
@@ -372,6 +366,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/config/initializers/idp_settings.rb" timestamp="1491519087942">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="6" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
         <mark key="]" line="39" column="224" />
@@ -456,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>config</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
