@@ -13,26 +13,21 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role.rb" timestamp="1486244331976">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491592390188">
-        <mark key="[" line="103" column="8" />
-        <mark key="]" line="103" column="8" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="103" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1491254232800">
         <mark key="[" line="109" column="4" />
         <mark key="]" line="109" column="4" />
         <mark key="." line="109" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1491430966278">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phase_templates_controller.rb" timestamp="1483312363226">
         <mark key="[" line="25" column="7" />
@@ -44,16 +39,11 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1491514678975" />
-      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1491586997292">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1491608054714">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
@@ -70,11 +60,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1491502159184">
         <mark key="[" line="5" column="0" />
       </file>
@@ -88,16 +73,6 @@
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_import_job.rb" timestamp="1482343437676">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/static_pages/welcome.html.haml" timestamp="1491499353230">
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/helpers/admin/users_helper.rb" timestamp="1482084708285">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="10" column="0" />
@@ -108,12 +83,6 @@
         <mark key="]" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1491604912032" />
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1489107305636">
-        <mark key="[" line="10" column="123" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/db/migrate/20170306232546_create_user_ratings.rb" timestamp="1489017475214">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="18" />
@@ -121,6 +90,176 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/config/locales/devise.en.yml" timestamp="1491430093735">
         <mark key="[" line="34" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491501934723">
+        <mark key="[" line="2" column="40" />
+        <mark key="^" line="53" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1485800025390">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/condition_index_spec.rb" timestamp="1478821969223">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476998105548">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="75" />
+        <mark key="." line="5" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/treatment_cost_importer.rb" timestamp="1485455533122">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_rewriter.rb" timestamp="1479422744094">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491603979785">
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.3.2/lib/rspec/mocks/example_methods.rb" timestamp="1491604939317" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1491501983018">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
+        <mark key="[" line="1" column="68" />
+        <mark key="]" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
+        <mark key="[" line="109" column="54" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.erb" timestamp="1477518989302">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/fragment.rb" timestamp="1491604504527">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1491502539402">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
+        <mark key="[" line="39" column="224" />
+        <mark key="]" line="39" column="224" />
+        <mark key="." line="39" column="224" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/lib/org_benefit_finder.rb" timestamp="1491603659146" />
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
+        <mark key="[" line="2" column="78" />
+        <mark key="]" line="2" column="78" />
+        <mark key="." line="2" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1488921539805">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/user_rating_spec.rb" timestamp="1489426437522">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="7" column="82" />
+        <mark key="." line="7" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/services/regence_idp_interpreter_spec.rb" timestamp="1491586305795">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role.rb" timestamp="1486244331976">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491607900087">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1491514678975" />
+      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1491607246081">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1491429999052">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/rx_norm_import_job.rb" timestamp="1482343437676">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/static_pages/welcome.html.haml" timestamp="1491499353230">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1491607967007" />
+      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1489107305636">
+        <mark key="[" line="10" column="123" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1491501686972">
         <mark key="'" line="4" column="21" />
@@ -149,10 +288,6 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491501934723">
-        <mark key="[" line="2" column="40" />
-        <mark key="^" line="53" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="24" />
@@ -163,41 +298,16 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1485800025390">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/gender.rb" timestamp="1491262886827">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/condition_index_spec.rb" timestamp="1478821969223">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/helpers/application_helper.rb" timestamp="1491501745610">
         <mark key="[" line="12" column="64" />
         <mark key="]" line="12" column="14" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476998105548">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="75" />
-        <mark key="." line="5" column="75" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/treatment_cost_importer.rb" timestamp="1485455533122">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_ndc.rb" timestamp="1476898722474">
         <mark key="[" line="0" column="6" />
@@ -214,12 +324,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
-        <mark key="[" line="4" column="62" />
-        <mark key="]" line="4" column="62" />
-        <mark key="." line="4" column="62" />
-      </file>
-      <file name="/Ruby Console" timestamp="1491604957366">
+      <file name="/Ruby Console" timestamp="1491607877630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -232,18 +337,6 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_rewriter.rb" timestamp="1479422744094">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="34" />
-        <mark key="." line="44" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1491603979785">
-        <mark key="[" line="121" column="4" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.3.2/lib/rspec/mocks/example_methods.rb" timestamp="1491604939317" />
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -254,21 +347,11 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1491501983018">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
-        <mark key="[" line="1" column="68" />
-        <mark key="]" line="1" column="68" />
-        <mark key="." line="1" column="68" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
-        <mark key="[" line="109" column="54" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/paladin/config/locales/en.yml" timestamp="1491433776453">
+        <mark key="[" line="321" column="97" />
+        <mark key="]" line="317" column="30" />
+        <mark key="^" line="240" column="11" />
+        <mark key="." line="317" column="30" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1491501655150">
         <mark key="[" line="25" column="0" />
@@ -281,27 +364,17 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1486488498248">
         <mark key="[" line="58" column="32" />
         <mark key="]" line="58" column="32" />
         <mark key="." line="58" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.erb" timestamp="1477518989302">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_edit_menu.html.erb" timestamp="1488924703950">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491603519236">
+      <file name="/Dummy.txt" timestamp="1491607516964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -316,11 +389,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1491604504527">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/ndc_normalizer.rb" timestamp="1480704325848">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="19" />
@@ -330,14 +398,6 @@
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1491502539402">
-        <mark key="[" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
         <mark key="[" line="20" column="0" />
@@ -349,27 +409,11 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_index_updatable.rb" timestamp="1478822263939">
         <mark key="[" line="6" column="74" />
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
-        <mark key="[" line="39" column="224" />
-        <mark key="]" line="39" column="224" />
-        <mark key="." line="39" column="224" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/org_benefit_finder.rb" timestamp="1491603659146" />
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -385,11 +429,6 @@
         <mark key="]" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
-        <mark key="[" line="2" column="78" />
-        <mark key="]" line="2" column="78" />
-        <mark key="." line="2" column="78" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.haml" timestamp="1478552230673">
         <mark key="[" line="6" column="84" />
         <mark key="]" line="6" column="84" />
@@ -399,21 +438,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1488921539805">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/user_rating_spec.rb" timestamp="1489426437522">
-        <mark key="[" line="7" column="82" />
-        <mark key="]" line="7" column="82" />
-        <mark key="." line="7" column="82" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/regence_idp_interpreter_spec.rb" timestamp="1491586305795">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1491435327279">
         <mark key="[" line="22" column="25" />
@@ -454,10 +478,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -466,34 +490,34 @@
         <text encoding="base64">ICAgICAgICBnZW5kZXJfYXRfYmlydGg6IEdlbmRlci5nZW5kZXJfYnlfbmFtZShAcHJpbWFyeV9tZW1iZXJbQGlkcF9hdHRyaWJ1dGVfbWFwWydnZW5kZXJfYXRfYmlydGgnXVswXV0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHNhbWwpLm5vdF90byBiZV9uaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGF0dHJpYnV0ZV9tYXApLm5vdF90byBiZV9uaWwK</text>
+        <text encoding="base64">ICAgICAgbmlsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHNldHRpbmdzKS5ub3RfdG8gYmVfbmlsCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQoOnNhbWwpIHsgU2FtbEhlbHBlci5uZXcocGFydG5lcl9pZHAubmFtZSkgfQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHNhbWwpLm5vdF90byBiZV9uaWwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ClBsYXRmb3JtXzM6CiAgc2V0dGluZ3M6CiAgICBhdXRobl9jb250ZXh0OiAidXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOmFjOmNsYXNzZXM6UGFzc3dvcmRQcm90ZWN0ZWRUcmFuc3BvcnQiCiAgICBpZHBfZW50aXR5X2lkOiAic3NvcG9jc2IzcG9kMDFfcmVhbG1fM19wcm94eSIKICAgIGlkcF9zc29fdGFyZ2V0X3VybDogImh0dHBzOi8vcmVhbG1fM19zc29wcm94eV9wb2MuaGVhbHRoc3BhcnEuY29tOjg0NDMvb3BlbmFtL1NTT1JlZGlyZWN0L21ldGFBbGlhcy9yZWFsbV8zL3Byb3h5aWRwIgogICAgaWRwX3Nsb190YXJnZXRfdXJsOiAiaHR0cHM6Ly9yZWFsbV8zX3Nzb3Byb3h5X3BvYy5oZWFsdGhzcGFycS5jb206ODQ0My9vcGVuYW0vSURQU2xvUE9TVC9tZXRhQWxpYXMvcmVhbG1fMy9wcm94eWlkcCIKICAgIGlkcF9jZXJ0X2ZpbmdlcnByaW50OiAiREU6RjE6OEQ6QkU6RDU6NDc6Q0Q6RjM6RDU6MkI6NjI6N0Y6NDE6NjM6N0M6NDQ6MzA6NDU6RkU6MzMiCiAgICBhc3NlcnRpb25fY29uc3VtZXJfc2VydmljZV91cmw6ICJodHRwczovL3JvbmFuLm1lZHNhdnZ5LmNvbS91c2Vycy9zc28vY29uc3VtZT9pZHA9UGxhdGZvcm1fMyIKICAgIGFzc2VydGlvbl9jb25zdW1lcl9zZXJ2aWNlX2JpbmRpbmc6ICJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YmluZGluZ3M6SFRUUC1QT1NUIgogICAgbmFtZV9pZGVudGlmaWVyX2Zvcm1hdDogInVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpuYW1laWQtZm9ybWF0OnRyYW5zaWVudCIKICAgIGlzc3VlcjogImh0dHBzOi8vcm9uYW4ubWVkc2F2dnkuY29tL3VzZXJzL3Nzby9tZXRhZGF0YT9pZHA9UGxhdGZvcm1fMyIKICAgIGlkcF9jZXJ0X2ZpbmdlcnByaW50X2FsZ29yaXRobTogWE1MU2VjdXJpdHk6OkRvY3VtZW50OjpTSEExCiAgICBza2lwX2NvbmRpdGlvbnM6IHRydWUKICAgIHNlY3VyaXR5OgogICAgICBkaWdlc3RfbWV0aG9kOiBYTUxTZWN1cml0eTo6RG9jdW1lbnQ6OlNIQTEKICAgICAgc2lnbmF0dXJlX21ldGhvZDogWE1MU2VjdXJpdHk6OkRvY3VtZW50OjpSU0FfU0hBMQogICAgICBhdXRobl9yZXF1ZXN0c19zaWduZWQ6IHRydWUKICAgICAgZW1iZWRfc2lnbjogdHJ1ZQogIGF0dHJpYnV0ZV9tYXA6CiAgICBzc29fY3JlZGVudGlhbF9pZDogdWlkCiAgICBwYXJ0bmVyX2lkcF9pZDogaWRwX2lkCiAgICBtZW1iZXJfaWQ6IG1lbWJlcklkCiAgICBlbWFpbDogZW1haWxfYWRkcmVzcwogICAgbGVnYWxfZmlyc3RfbmFtZTogZmlyc3ROYW1lCiAgICBtaWRkbGVfaW5pdGlhbDogbWlkZGxlX2luaXRpYWwKICAgIGFkZHJlc3M6IGFkZHJlc3MKICAgIHN0YXRlX2NvZGU6IHN0YXRlCiAgICBnZW5kZXJfYXRfYmlydGg6IGdlbmRlcgogICAgbGVnYWxfbGFzdF9uYW1lOiBsYXN0TmFtZQogICAgbW9iaWxlX3Bob25lX251bWJlcjogbW9iaWxlX3Bob25lCiAgICBlbWFpbF9vcHRfaW46IGVtYWlsX29wdF9pbgogIGludGVycHJldGVyX2NsYXNzOiBSZWdlbmNlSWRwSW50ZXJwcmV0ZXIKCmNhbWJpYV9sZGFwOgogIHNldHRpbmdzOgogICAgYXNzZXJ0aW9uX2NvbnN1bWVyX3NlcnZpY2VfdXJsOiAiaHR0cHM6Ly9yb25hbi5tZWRzYXZ2eS5jb20vdXNlcnMvc3NvL2NvbnN1bWU/aWRwPWNhbWJpYV9sZGFwIgogICAgYXNzZXJ0aW9uX2NvbnN1bWVyX3NlcnZpY2VfYmluZGluZzogInVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpiaW5kaW5nczpIVFRQLVBPU1QiCiAgICBuYW1lX2lkZW50aWZpZXJfZm9ybWF0OiAidXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOm5hbWVpZC1mb3JtYXQ6dW5zcGVjaWZpZWQiCiAgICBpc3N1ZXI6ICJodHRwczovL3JvbmFuLm1lZHNhdnZ5LmNvbS91c2Vycy9zc28vbWV0YWRhdGEiCiAgICBpZHBfZW50aXR5X2lkOiAiaHR0cHM6Ly9mZWRzdmMtc3RhZ2luZy5yZWdlbmNlLmNvbSIKICAgIGF1dGhuX2NvbnRleHQ6ICJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YWM6Y2xhc3NlczpQYXNzd29yZCIKICAgIGlkcF9zbG9fdGFyZ2V0X3VybDogImh0dHA6Ly9zcGFyay5yZWdlbmNlLmNvbS9QYWdlcy9kZWZhdWx0LmFzcHgiCiAgICBpZHBfc3NvX3RhcmdldF91cmw6ICJodHRwczovL2ZlZHN2Y2ludC1zdGFnaW5nLnJlZ2VuY2UuY29tL2FmZndlYnNlcnZpY2VzL3B1YmxpYy9zYW1sMnNzbyIKICAgIGlkcF9jZXJ0X2ZpbmdlcnByaW50OiAiODY6NDc6OUQ6OEU6RDA6QkI6NkE6MkM6Rjc6MTg6RjE6M0U6QUQ6MTA6NUM6NzQ6RkY6ODM6OTQ6MEIiCiAgICBpZHBfY2VydF9maW5nZXJwcmludF9hbGdvcml0aG06IFhNTFNlY3VyaXR5OjpEb2N1bWVudDo6U0hBMQogICAgc2tpcF9jb25kaXRpb25zOiB0cnVlCiAgICBzZWN1cml0eToKICAgICAgZGlnZXN0X21ldGhvZDogWE1MU2VjdXJpdHk6OkRvY3VtZW50OjpTSEExCiAgICAgIHNpZ25hdHVyZV9tZXRob2Q6IFhNTFNlY3VyaXR5OjpEb2N1bWVudDo6UlNBX1NIQTEKICAgICAgYXV0aG5fcmVxdWVzdHNfc2lnbmVkOiB0cnVlCiAgICAgIGVtYmVkX3NpZ246IHRydWUKICBhdHRyaWJ1dGVfbWFwOgogICAgICBlbWFpbDogbWFpbAogIGludGVycHJldGVyX2NsYXNzOiBDYW1iaWFMZGFwSW50ZXJwcmV0ZXI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGF0dHJpYnV0ZV9tYXApLm5vdF90byBiZV9uaWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHNldHRpbmdzKS5ub3RfdG8gYmVfbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOnNhbWwpIHsgU2FtbEhlbHBlci5uZXcocGFydG5lcl9pZHAubmFtZSkgfQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9zYW1sX3NldHRpbmdzKGlkcF9pZCA9IG5pbCkKICAgICMgICBza2lwX3BvbGljeV9zY29wZQogICAgIyAgIGF1dGhvcml6ZSA6c2FtbCwgOmluZGV4PwogICAgIwogICAgIyAgIHNldHRpbmdzID0gSURQU1tpZHBfaWRdWydzZXR0aW5ncyddIGlmIGlkcF9pZC5wcmVzZW50PwogICAgIwogICAgIyAgIE9uZUxvZ2luOjpSdWJ5U2FtbDo6U2V0dGluZ3MubmV3KHNldHRpbmdzKSBpZiBzZXR0aW5ncy5wcmVzZW50PwogICAgIyBlbmQKICAgICMKICAgICMgZGVmIGdldF9zYW1sX2F0dHJpYnV0ZV9tYXAoaWRwX2lkID0gbmlsKQogICAgIyAgIHNraXBfcG9saWN5X3Njb3BlCiAgICAjICAgYXV0aG9yaXplIDpzYW1sLCA6aW5kZXg/CiAgICAjCiAgICAjICAgYXR0cmlidXRlX21hcCA9IElEUFNbaWRwX2lkXVsnYXR0cmlidXRlX21hcCddIGlmIGlkcF9pZC5wcmVzZW50PwogICAgIyAgIGF0dHJpYnV0ZV9tYXAKICAgICMgZW5k</text>
+        <text encoding="base64">ClBsYXRmb3JtXzM6CiAgc2V0dGluZ3M6CiAgICBhdXRobl9jb250ZXh0OiAidXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOmFjOmNsYXNzZXM6UGFzc3dvcmRQcm90ZWN0ZWRUcmFuc3BvcnQiCiAgICBpZHBfZW50aXR5X2lkOiAic3NvcG9jc2IzcG9kMDFfcmVhbG1fM19wcm94eSIKICAgIGlkcF9zc29fdGFyZ2V0X3VybDogImh0dHBzOi8vcmVhbG1fM19zc29wcm94eV9wb2MuaGVhbHRoc3BhcnEuY29tOjg0NDMvb3BlbmFtL1NTT1JlZGlyZWN0L21ldGFBbGlhcy9yZWFsbV8zL3Byb3h5aWRwIgogICAgaWRwX3Nsb190YXJnZXRfdXJsOiAiaHR0cHM6Ly9yZWFsbV8zX3Nzb3Byb3h5X3BvYy5oZWFsdGhzcGFycS5jb206ODQ0My9vcGVuYW0vSURQU2xvUE9TVC9tZXRhQWxpYXMvcmVhbG1fMy9wcm94eWlkcCIKICAgIGlkcF9jZXJ0X2ZpbmdlcnByaW50OiAiREU6RjE6OEQ6QkU6RDU6NDc6Q0Q6RjM6RDU6MkI6NjI6N0Y6NDE6NjM6N0M6NDQ6MzA6NDU6RkU6MzMiCiAgICBhc3NlcnRpb25fY29uc3VtZXJfc2VydmljZV91cmw6ICJodHRwczovL3JvbmFuLm1lZHNhdnZ5LmNvbS91c2Vycy9zc28vY29uc3VtZT9pZHA9UGxhdGZvcm1fMyIKICAgIGFzc2VydGlvbl9jb25zdW1lcl9zZXJ2aWNlX2JpbmRpbmc6ICJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YmluZGluZ3M6SFRUUC1QT1NUIgogICAgbmFtZV9pZGVudGlmaWVyX2Zvcm1hdDogInVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpuYW1laWQtZm9ybWF0OnRyYW5zaWVudCIKICAgIGlzc3VlcjogImh0dHBzOi8vcm9uYW4ubWVkc2F2dnkuY29tL3VzZXJzL3Nzby9tZXRhZGF0YT9pZHA9UGxhdGZvcm1fMyIKICAgIGlkcF9jZXJ0X2ZpbmdlcnByaW50X2FsZ29yaXRobTogWE1MU2VjdXJpdHk6OkRvY3VtZW50OjpTSEExCiAgICBza2lwX2NvbmRpdGlvbnM6IHRydWUKICAgIHNlY3VyaXR5OgogICAgICBkaWdlc3RfbWV0aG9kOiBYTUxTZWN1cml0eTo6RG9jdW1lbnQ6OlNIQTEKICAgICAgc2lnbmF0dXJlX21ldGhvZDogWE1MU2VjdXJpdHk6OkRvY3VtZW50OjpSU0FfU0hBMQogICAgICBhdXRobl9yZXF1ZXN0c19zaWduZWQ6IHRydWUKICAgICAgZW1iZWRfc2lnbjogdHJ1ZQogIGF0dHJpYnV0ZV9tYXA6CiAgICBzc29fY3JlZGVudGlhbF9pZDogdWlkCiAgICBwYXJ0bmVyX2lkcF9pZDogaWRwX2lkCiAgICBtZW1iZXJfaWQ6IG1lbWJlcklkCiAgICBlbWFpbDogZW1haWxfYWRkcmVzcwogICAgbGVnYWxfZmlyc3RfbmFtZTogZmlyc3ROYW1lCiAgICBtaWRkbGVfaW5pdGlhbDogbWlkZGxlX2luaXRpYWwKICAgIGFkZHJlc3M6IGFkZHJlc3MKICAgIHN0YXRlX2NvZGU6IHN0YXRlCiAgICBnZW5kZXJfYXRfYmlydGg6IGdlbmRlcgogICAgbGVnYWxfbGFzdF9uYW1lOiBsYXN0TmFtZQogICAgbW9iaWxlX3Bob25lX251bWJlcjogbW9iaWxlX3Bob25lCiAgICBlbWFpbF9vcHRfaW46IGVtYWlsX29wdF9pbgogIGludGVycHJldGVyX2NsYXNzOiBSZWdlbmNlSWRwSW50ZXJwcmV0ZXIKCmNhbWJpYV9sZGFwOgogIHNldHRpbmdzOgogICAgYXNzZXJ0aW9uX2NvbnN1bWVyX3NlcnZpY2VfdXJsOiAiaHR0cHM6Ly9yb25hbi5tZWRzYXZ2eS5jb20vdXNlcnMvc3NvL2NvbnN1bWU/aWRwPWNhbWJpYV9sZGFwIgogICAgYXNzZXJ0aW9uX2NvbnN1bWVyX3NlcnZpY2VfYmluZGluZzogInVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpiaW5kaW5nczpIVFRQLVBPU1QiCiAgICBuYW1lX2lkZW50aWZpZXJfZm9ybWF0OiAidXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOm5hbWVpZC1mb3JtYXQ6dW5zcGVjaWZpZWQiCiAgICBpc3N1ZXI6ICJodHRwczovL3JvbmFuLm1lZHNhdnZ5LmNvbS91c2Vycy9zc28vbWV0YWRhdGEiCiAgICBpZHBfZW50aXR5X2lkOiAiaHR0cHM6Ly9mZWRzdmMtc3RhZ2luZy5yZWdlbmNlLmNvbSIKICAgIGF1dGhuX2NvbnRleHQ6ICJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YWM6Y2xhc3NlczpQYXNzd29yZCIKICAgIGlkcF9zbG9fdGFyZ2V0X3VybDogImh0dHA6Ly9zcGFyay5yZWdlbmNlLmNvbS9QYWdlcy9kZWZhdWx0LmFzcHgiCiAgICBpZHBfc3NvX3RhcmdldF91cmw6ICJodHRwczovL2ZlZHN2Y2ludC1zdGFnaW5nLnJlZ2VuY2UuY29tL2FmZndlYnNlcnZpY2VzL3B1YmxpYy9zYW1sMnNzbyIKICAgIGlkcF9jZXJ0X2ZpbmdlcnByaW50OiAiODY6NDc6OUQ6OEU6RDA6QkI6NkE6MkM6Rjc6MTg6RjE6M0U6QUQ6MTA6NUM6NzQ6RkY6ODM6OTQ6MEIiCiAgICBpZHBfY2VydF9maW5nZXJwcmludF9hbGdvcml0aG06IFhNTFNlY3VyaXR5OjpEb2N1bWVudDo6U0hBMQogICAgc2tpcF9jb25kaXRpb25zOiB0cnVlCiAgICBzZWN1cml0eToKICAgICAgZGlnZXN0X21ldGhvZDogWE1MU2VjdXJpdHk6OkRvY3VtZW50OjpTSEExCiAgICAgIHNpZ25hdHVyZV9tZXRob2Q6IFhNTFNlY3VyaXR5OjpEb2N1bWVudDo6UlNBX1NIQTEKICAgICAgYXV0aG5fcmVxdWVzdHNfc2lnbmVkOiB0cnVlCiAgICAgIGVtYmVkX3NpZ246IHRydWUKICBhdHRyaWJ1dGVfbWFwOgogICAgICBlbWFpbDogbWFpbAogIGludGVycHJldGVyX2NsYXNzOiBDYW1iaWFMZGFwSW50ZXJwcmV0ZXI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZV9tYXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
