@@ -23,7 +23,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491860829636">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1491867251168">
         <mark key="[" line="28" column="50" />
         <mark key="]" line="26" column="26" />
         <mark key="^" line="26" column="26" />
@@ -60,11 +60,11 @@
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1491861928775">
-        <mark key="[" line="58" column="5" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="34" />
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1491866347698">
+        <mark key="[" line="67" column="74" />
+        <mark key="]" line="67" column="7" />
+        <mark key="^" line="67" column="11" />
+        <mark key="." line="67" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
@@ -125,7 +125,9 @@
         <mark key="]" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1491861941052" />
+      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1491865982067">
+        <mark key="[" line="36" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1489107305636">
         <mark key="[" line="10" column="123" />
         <mark key="]" line="1" column="27" />
@@ -161,10 +163,6 @@
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1491501934723">
-        <mark key="[" line="2" column="40" />
-        <mark key="^" line="53" column="12" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
@@ -232,7 +230,7 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="/Ruby Console" timestamp="1491861988410">
+      <file name="/Ruby Console" timestamp="1491866883761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -277,6 +275,7 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/2.3.0/rexml/document.rb" timestamp="1491866797257" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
         <mark key="]" line="7" column="0" />
@@ -315,6 +314,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-saml-1.4.2/lib/onelogin/ruby-saml/response.rb" timestamp="1491866719089" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_edit_menu.html.erb" timestamp="1488924703950">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -335,7 +335,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1491861864108">
+      <file name="/fragment.rb" timestamp="1491867169381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -472,10 +472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>URI.join(expected_host, expected_path).to eq(redirect_url))</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>URI.join(expected_host, expected_path).to eq(redirect_url))</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
