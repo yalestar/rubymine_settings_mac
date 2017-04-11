@@ -39,12 +39,7 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1491933983011">
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="28" />
-        <mark key="^" line="59" column="59" />
-        <mark key="." line="67" column="28" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1491938467717" />
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
         <mark key="]" line="79" column="26" />
@@ -160,7 +155,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1491933925634">
+      <file name="/fragment.rb" timestamp="1491938433585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -317,7 +312,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1491934416790">
+      <file name="/Ruby Console" timestamp="1491938369435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -371,7 +366,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491932996626">
+      <file name="/Dummy.txt" timestamp="1491938615395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -475,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xd</text>
+        <text>e(settings)</text>
       </register>
       <register name="-" type="4">
-        <text>xd</text>
+        <text>e(settings)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
