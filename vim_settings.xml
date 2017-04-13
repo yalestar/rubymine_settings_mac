@@ -306,9 +306,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1492120908891">
         <mark key="[" line="75" column="4" />
-        <mark key="]" line="96" column="11" />
-        <mark key="^" line="96" column="11" />
-        <mark key="." line="96" column="11" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -350,7 +347,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1492119665093">
+      <file name="/fragment.rb" timestamp="1492121908297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
