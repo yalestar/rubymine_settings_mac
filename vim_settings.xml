@@ -312,11 +312,12 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1492127392880">
-        <mark key="[" line="76" column="15" />
-        <mark key="]" line="76" column="15" />
-        <mark key="^" line="90" column="54" />
-        <mark key="." line="76" column="15" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1492187820283">
+        <mark key="'" line="84" column="54" />
+        <mark key="[" line="84" column="55" />
+        <mark key="]" line="84" column="55" />
+        <mark key="^" line="84" column="55" />
+        <mark key="." line="84" column="55" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -378,8 +379,10 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1491502539402">
-        <mark key="[" line="2" column="19" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1492187796954">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1478822380489">
         <mark key="[" line="20" column="0" />
@@ -492,13 +495,14 @@
       <jump line="104" column="55" filename="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/paladin/app/helpers/user_ratings_helper.rb" />
       <jump line="4" column="21" filename="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" />
+      <jump line="84" column="54" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>, only: [:welcome]</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>, only: [:welcome]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -537,7 +541,7 @@
         <text encoding="base64">ICAgICAgaWRwID0gJ0Nvcm5lbGl1cycK</text>
       </register>
       <register name=":" type="4">
-        <text>19</text>
+        <text>74</text>
       </register>
     </registers>
     <search>
@@ -552,7 +556,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>34</entry>
         <entry>7</entry>
         <entry>23d</entry>
         <entry>42</entry>
@@ -572,6 +575,7 @@
         <entry>66y</entry>
         <entry>5</entry>
         <entry>19</entry>
+        <entry>74</entry>
       </history-cmd>
       <history-expr />
       <history-input />
