@@ -23,7 +23,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1492127578570" />
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1492032868718">
         <mark key="[" line="108" column="28" />
         <mark key="]" line="106" column="16" />
@@ -119,7 +118,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib/action_dispatch/routing/url_for.rb" timestamp="1492125489318" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_save.js.erb" timestamp="1488925311524">
         <mark key="[" line="8" column="52" />
         <mark key="]" line="8" column="52" />
@@ -222,7 +220,6 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib/action_controller/metal/redirecting.rb" timestamp="1492118791068" />
       <file name="$USER_HOME$/dev/paladin/lib/treatment_cost_importer.rb" timestamp="1485455533122">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -253,10 +250,13 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492127011552">
-        <mark key="[" line="2" column="62" />
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492129231081">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1492127439176">
+      <file name="/Ruby Console" timestamp="1492129144553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -290,7 +290,7 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1492127570877">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1492129173742">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
@@ -343,7 +343,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492116428171">
+      <file name="/Dummy.txt" timestamp="1492128711330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -358,7 +358,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1492127517428">
+      <file name="/fragment.rb" timestamp="1492129174534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -495,16 +495,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(intended_url)</text>
+        <text>&quot;badPassword&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>(intended_url)</text>
+        <text>&quot;badPassword&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHVzZXIucmVsb2FkLmNvbmZpcm1lZD8pLnRvIGJlX3RydXRoeQo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgZGVzY3JpYmUgJ2ludGVyY2VwdGluZyBJRFAgcGFyYW1ldGVyJyBkbwoKCiAgZW5k</text>
