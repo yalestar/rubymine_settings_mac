@@ -59,7 +59,7 @@
         <mark key="^" line="45" column="14" />
         <mark key="." line="45" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1492112993955">
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1492190028980">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="^" line="82" column="37" />
@@ -250,7 +250,12 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492189483800" />
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492191213170">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="54" />
+        <mark key="^" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+      </file>
       <file name="/Ruby Console" timestamp="1492189486981">
         <mark key="[" line="0" column="0" />
       </file>
@@ -285,7 +290,7 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1492129173742">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1492190147395">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
@@ -307,7 +312,7 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1492187820283">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1492190497264">
         <mark key="'" line="84" column="54" />
         <mark key="[" line="84" column="55" />
         <mark key="]" line="84" column="55" />
@@ -339,7 +344,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492128711330">
+      <file name="/Dummy.txt" timestamp="1492190021872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -354,7 +359,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1492129174534">
+      <file name="/fragment.rb" timestamp="1492189939140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -494,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, only: [:welcome]</text>
+        <text>accepting an invitation and completing signup</text>
       </register>
       <register name="-" type="4">
-        <text>, only: [:welcome]</text>
+        <text>accepting an invitation and completing signup</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -536,7 +541,7 @@
         <text encoding="base64">ICAgICAgaWRwID0gJ0Nvcm5lbGl1cycK</text>
       </register>
       <register name=":" type="4">
-        <text>74</text>
+        <text>12</text>
       </register>
     </registers>
     <search>
@@ -551,8 +556,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>7</entry>
-        <entry>23d</entry>
         <entry>42</entry>
         <entry>292</entry>
         <entry>4</entry>
@@ -571,6 +574,8 @@
         <entry>5</entry>
         <entry>19</entry>
         <entry>74</entry>
+        <entry>13</entry>
+        <entry>12</entry>
       </history-cmd>
       <history-expr />
       <history-input />

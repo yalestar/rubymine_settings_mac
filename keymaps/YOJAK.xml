@@ -137,10 +137,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
