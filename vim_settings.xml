@@ -194,6 +194,12 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/condition.rb" timestamp="1485800025390">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -250,13 +256,13 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492191213170">
-        <mark key="[" line="15" column="8" />
+      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492192200743">
+        <mark key="[" line="18" column="54" />
         <mark key="]" line="15" column="54" />
         <mark key="^" line="15" column="54" />
         <mark key="." line="15" column="54" />
       </file>
-      <file name="/Ruby Console" timestamp="1492189486981">
+      <file name="/Ruby Console" timestamp="1492192250968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -499,10 +505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accepting an invitation and completing signup</text>
+        <text>'pixie dust', color: 'pink'</text>
       </register>
       <register name="-" type="4">
-        <text>accepting an invitation and completing signup</text>
+        <text>'pixie dust', color: 'pink'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
