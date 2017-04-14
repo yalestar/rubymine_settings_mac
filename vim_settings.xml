@@ -320,12 +320,6 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1492199675687">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="93" column="17" />
-        <mark key="^" line="93" column="17" />
-        <mark key="." line="93" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -336,6 +330,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/models/formulary_spec.rb" timestamp="1492203546425" />
       <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1486488498248">
         <mark key="[" line="58" column="32" />
         <mark key="]" line="58" column="32" />
