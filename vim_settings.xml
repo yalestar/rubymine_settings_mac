@@ -95,13 +95,16 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/locales/devise.en.yml" timestamp="1491430093735">
-        <mark key="[" line="34" column="18" />
+      <file name="$USER_HOME$/dev/paladin/config/locales/devise.en.yml" timestamp="1492466763269">
+        <mark key="[" line="52" column="71" />
+        <mark key="]" line="52" column="48" />
+        <mark key="." line="52" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492112323535">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492466844927">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="80" />
+        <mark key="^" line="17" column="80" />
+        <mark key="." line="17" column="80" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
@@ -177,7 +180,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1492448513797">
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1492466280250" />
+      <file name="/fragment.rb" timestamp="1492466393241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -202,6 +206,7 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/layouts/_navigation.html.haml" timestamp="1492467081121" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
         <mark key="]" line="39" column="224" />
@@ -353,7 +358,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1492447042606">
+      <file name="/Ruby Console" timestamp="1492466320688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -376,8 +381,8 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/locales/en.yml" timestamp="1491860866357">
-        <mark key="[" line="324" column="60" />
+      <file name="$USER_HOME$/dev/paladin/config/locales/en.yml" timestamp="1492466802623">
+        <mark key="[" line="329" column="65" />
         <mark key="]" line="317" column="30" />
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
@@ -397,7 +402,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492443356583">
+      <file name="/Dummy.txt" timestamp="1492466716748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
