@@ -13,7 +13,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492545340462">
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492545666735">
         <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="46" />
         <mark key="." line="27" column="46" />
@@ -365,7 +365,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1492545144692">
+      <file name="/Ruby Console" timestamp="1492546387150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -435,10 +435,10 @@
         <mark key="." line="39" column="165" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1492545142557">
-        <mark key="[" line="210" column="8" />
-        <mark key="]" line="210" column="8" />
-        <mark key="^" line="210" column="7" />
-        <mark key="." line="210" column="8" />
+        <mark key="[" line="205" column="8" />
+        <mark key="]" line="205" column="8" />
+        <mark key="^" line="205" column="7" />
+        <mark key="." line="205" column="8" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1489783921981">
         <mark key="[" line="1" column="40" />
@@ -449,11 +449,6 @@
         <mark key="[" line="6" column="74" />
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492537527904">
-        <mark key="[" line="22" column="86" />
-        <mark key="]" line="24" column="80" />
-        <mark key="." line="24" column="80" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
         <mark key="[" line="103" column="0" />
