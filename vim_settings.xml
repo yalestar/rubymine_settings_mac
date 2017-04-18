@@ -13,7 +13,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492537320613" />
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492545340462">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="45" />
+      </file>
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -24,6 +29,12 @@
         <mark key="]" line="106" column="16" />
         <mark key="." line="106" column="16" />
         <mark key="^" line="106" column="16" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activesupport-4.2.7.1/lib/active_support/number_helper/number_to_rounded_converter.rb" timestamp="1492545547918">
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="25" column="64" />
+        <mark key="^" line="25" column="64" />
+        <mark key="." line="25" column="64" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/treatments_controller.rb" timestamp="1491430966278">
         <mark key="[" line="1" column="30" />
@@ -354,7 +365,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1492537413379">
+      <file name="/Ruby Console" timestamp="1492545144692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -423,7 +434,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1492537669295">
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1492545142557">
         <mark key="[" line="210" column="8" />
         <mark key="]" line="210" column="8" />
         <mark key="^" line="210" column="7" />
@@ -504,10 +515,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ji5nc3ViKC9bXlxkXC5dLywgJycp</text>
+        <text encoding="base64">MCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ji5nc3ViKC9bXlxkXC5dLywgJycp</text>
+        <text encoding="base64">MCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -546,7 +557,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>182</text>
+        <text>20</text>
       </register>
     </registers>
     <search>
@@ -561,8 +572,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>103</entry>
-        <entry>6</entry>
         <entry>30</entry>
         <entry>18</entry>
         <entry>3</entry>
@@ -581,6 +590,8 @@
         <entry>77</entry>
         <entry>162</entry>
         <entry>182</entry>
+        <entry>106</entry>
+        <entry>20</entry>
       </history-cmd>
       <history-expr />
       <history-input />
