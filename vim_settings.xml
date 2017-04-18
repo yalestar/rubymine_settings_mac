@@ -441,11 +441,11 @@
         <mark key="^" line="205" column="7" />
         <mark key="." line="205" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492553171627">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492556391040">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/search_index_updatable.rb" timestamp="1478822263939">
         <mark key="[" line="6" column="74" />
@@ -513,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f16e3f</text>
+        <text>VALUE</text>
       </register>
       <register name="-" type="4">
-        <text>f16e3f</text>
+        <text>VALUE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
