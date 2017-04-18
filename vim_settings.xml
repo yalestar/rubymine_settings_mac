@@ -107,10 +107,10 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/locales/devise.en.yml" timestamp="1492466763269">
-        <mark key="[" line="52" column="71" />
-        <mark key="]" line="52" column="48" />
-        <mark key="." line="52" column="48" />
+      <file name="$USER_HOME$/dev/paladin/config/locales/devise.en.yml" timestamp="1492547914422">
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492471325700" />
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
@@ -360,11 +360,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492197767908">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Ruby Console" timestamp="1492546387150">
         <mark key="[" line="0" column="0" />
       </file>
@@ -475,6 +470,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1492548401029" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
