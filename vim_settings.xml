@@ -8,7 +8,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/initializers/impression.rb" timestamp="1492559054320" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -75,7 +74,6 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib/action_controller/metal/rescue.rb" timestamp="1492630274048" />
       <file name="$USER_HOME$/dev/paladin/spec/fixtures/idps/test.identity_providers.yml" timestamp="1491592578414">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -114,7 +112,6 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492557814352" />
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="34" />
@@ -174,7 +171,6 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pundit-1.0.1/lib/pundit/policy_finder.rb" timestamp="1492630350835" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
         <mark key="]" line="7" column="0" />
@@ -185,13 +181,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/formulary_spec.rb" timestamp="1492203546425" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_list_rules/_form.html.erb" timestamp="1477518989302">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1492466280250" />
       <file name="/fragment.rb" timestamp="1492644956921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -205,7 +199,6 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1492645822260">
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activesupport-4.2.7.1/lib/active_support/callbacks.rb" timestamp="1492630649785" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -216,7 +209,6 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/layouts/_navigation.html.haml" timestamp="1492467081121" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
         <mark key="]" line="39" column="224" />
@@ -342,7 +334,6 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise-3.5.10/lib/devise/controllers/store_location.rb" timestamp="1492632505575" />
       <file name="$USER_HOME$/dev/paladin/app/views/static_pages/info_interstitial.html.haml" timestamp="1492645208050">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="9" />
@@ -380,7 +371,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1492717839769">
+      <file name="/Ruby Console" timestamp="1492718308231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -393,7 +384,6 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pundit-1.0.1/lib/pundit.rb" timestamp="1492630706414" />
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -459,7 +449,6 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise-3.5.10/lib/devise/controllers/helpers.rb" timestamp="1492631464185" />
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1492545142557">
         <mark key="[" line="205" column="8" />
         <mark key="]" line="205" column="8" />
@@ -477,7 +466,6 @@
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/initializers/idp_settings.rb" timestamp="1492559132575" />
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
