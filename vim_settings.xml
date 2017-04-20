@@ -203,9 +203,6 @@
         <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1492645822260">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
         <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activesupport-4.2.7.1/lib/active_support/callbacks.rb" timestamp="1492630649785" />
