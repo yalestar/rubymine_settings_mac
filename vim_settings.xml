@@ -13,12 +13,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492809992082">
-        <mark key="[" line="27" column="46" />
-        <mark key="]" line="27" column="46" />
-        <mark key="." line="27" column="46" />
-        <mark key="^" line="27" column="45" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492809992082" />
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -194,7 +189,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1492809961836">
+      <file name="/fragment.rb" timestamp="1492813189212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -364,7 +359,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1492810223314">
+      <file name="/Ruby Console" timestamp="1492813394609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -459,10 +454,10 @@
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492810208136">
-        <mark key="[" line="406" column="43" />
-        <mark key="]" line="406" column="43" />
-        <mark key="." line="406" column="43" />
+      <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492813392145">
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="23" column="79" />
+        <mark key="." line="23" column="79" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
         <mark key="[" line="103" column="0" />
@@ -528,10 +523,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
