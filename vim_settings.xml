@@ -13,7 +13,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492809992082" />
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1492814515584">
+        <mark key="[" line="184" column="15" />
+        <mark key="]" line="184" column="15" />
+        <mark key="." line="184" column="15" />
+      </file>
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -244,6 +248,12 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit.rb" timestamp="1492814671545">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1492116455825">
         <mark key="[" line="20" column="0" />
       </file>
@@ -412,7 +422,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492732263187">
+      <file name="/Dummy.txt" timestamp="1492814624912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -436,12 +446,6 @@
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1492545142557">
-        <mark key="[" line="205" column="8" />
-        <mark key="]" line="205" column="8" />
-        <mark key="^" line="205" column="7" />
-        <mark key="." line="205" column="8" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492557520991">
         <mark key="[" line="19" column="34" />
@@ -523,10 +527,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
