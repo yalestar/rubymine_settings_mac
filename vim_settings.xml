@@ -411,7 +411,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492814624912">
+      <file name="/Dummy.txt" timestamp="1493063262921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -435,6 +435,12 @@
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1493063274760">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="228" column="22" />
+        <mark key="^" line="228" column="22" />
+        <mark key="." line="228" column="22" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492557520991">
         <mark key="[" line="19" column="34" />
@@ -516,10 +522,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>has_</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>has_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
