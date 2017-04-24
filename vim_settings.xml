@@ -13,6 +13,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1493071399646" />
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -109,6 +110,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492726413813">
         <mark key="[" line="20" column="86" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/conditions_controller.rb" timestamp="1493071603709" />
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="34" />
@@ -188,7 +190,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1492813189212">
+      <file name="/fragment.rb" timestamp="1493071644548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
