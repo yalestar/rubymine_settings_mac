@@ -13,7 +13,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1493071399646" />
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1493140584503">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="99" column="18" />
+        <mark key="^" line="99" column="18" />
+        <mark key="." line="99" column="18" />
+      </file>
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
