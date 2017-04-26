@@ -216,8 +216,11 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/user_profile.feature" timestamp="1493229537812">
+      <file name="$USER_HOME$/dev/paladin/features/user_profile.feature" timestamp="1493230441569">
         <mark key="'" line="118" column="16" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
@@ -350,11 +353,11 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/step_definitions/registration_steps.rb" timestamp="1493229945932">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="32" column="43" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="32" column="43" />
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/registration_steps.rb" timestamp="1493230499370">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="41" />
+        <mark key="^" line="31" column="40" />
+        <mark key="." line="31" column="41" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
@@ -568,10 +571,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>not_to be_nil</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>not_to be_nil</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
