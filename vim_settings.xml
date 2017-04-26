@@ -97,7 +97,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/registrations_controller.rb" timestamp="1493161757205" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_save.js.erb" timestamp="1488925311524">
         <mark key="[" line="8" column="52" />
         <mark key="]" line="8" column="52" />
@@ -216,6 +215,9 @@
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/user_profile.feature" timestamp="1493229537812">
+        <mark key="'" line="118" column="16" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
@@ -347,6 +349,12 @@
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/registration_steps.rb" timestamp="1493229945932">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
@@ -556,6 +564,7 @@
       <jump line="4" column="21" filename="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" />
       <jump line="84" column="54" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" />
+      <jump line="118" column="16" filename="$USER_HOME$/dev/paladin/features/user_profile.feature" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
