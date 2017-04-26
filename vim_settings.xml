@@ -217,9 +217,8 @@
         <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/user_profile.feature" timestamp="1493235727447">
-        <mark key="a" line="23" column="27" />
-        <mark key="'" line="118" column="16" />
-        <mark key="^" line="29" column="20" />
+        <mark key="'" line="108" column="16" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
@@ -302,7 +301,7 @@
         <mark key="^" line="41" column="27" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/content_strings.rb" timestamp="1493235579812">
-        <mark key="[" line="50" column="63" />
+        <mark key="[" line="47" column="63" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1489107305636">
         <mark key="[" line="10" column="123" />
@@ -354,12 +353,6 @@
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/features/step_definitions/registration_steps.rb" timestamp="1493235194584">
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="39" />
-        <mark key="^" line="31" column="52" />
-        <mark key="." line="32" column="39" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
