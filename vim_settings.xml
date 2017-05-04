@@ -206,7 +206,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1493157846096">
+      <file name="/fragment.rb" timestamp="1493928446373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -230,6 +230,11 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/conditions/_other_treatments.html.haml" timestamp="1493927927324">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
         <mark key="]" line="39" column="224" />
@@ -239,6 +244,12 @@
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="78" />
         <mark key="." line="2" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/conditions/details/_treatments.html.haml" timestamp="1493928040610">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/treatments_index.rb" timestamp="1488921539805">
         <mark key="[" line="5" column="45" />
@@ -454,7 +465,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493234826193">
+      <file name="/Dummy.txt" timestamp="1493928023297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -495,6 +506,12 @@
         <mark key="[" line="6" column="74" />
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/conditions/comparison.html.haml" timestamp="1493928502562">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492813392145">
         <mark key="[" line="23" column="79" />
@@ -565,11 +582,11 @@
       <jump line="118" column="16" filename="$USER_HOME$/dev/paladin/features/user_profile.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEFuZCBzaG93IG1lIHRoZSBwYWdl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA9IHJlbmRlciAnb3RoZXJfdHJlYXRtZW50cycK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIEFuZCBzaG93IG1lIHRoZSBwYWdl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -578,31 +595,31 @@
         <text encoding="base64">ICAgICAgYWxsb3coQGNvbnRyb2xsZXIpLnRvIHJlY2VpdmUoOmZsYXNoKS5hbmRfcmV0dXJuKCB7aW50ZXJzdGl0aWFsX2luZm86IDpzc29fY29tcGxldGVfcmVnaXN0cmF0aW9ufSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyByZXZpZXdfcmVxdWVzdHNfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA9IHJlbmRlciAnb3RoZXJfdHJlYXRtZW50cycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGxldCg6dXNlcl9wYXJhbXMpIGRvCiAgICAgIHsKCiAgICAgIH0KICAgIGVuZA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA9IHJlbmRlciBwYXJ0aWFsOiAidHJlYXRtZW50cy9jYXJkIiwgY29sbGVjdGlvbjogQGNvbmRpdGlvbl90cmVhdG1lbnRfYmVuZWZpdHMsIGFzOiA6Y29uZGl0aW9uX3RyZWF0bWVudF9pdGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fdXNlcnNfcGF0aAo=</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyIHBhcnRpYWw6ICJ0cmVhdG1lbnRzL2NhcmQiLCBjb2xsZWN0aW9uOiBAY29uZGl0aW9uX3RyZWF0bWVudF9iZW5lZml0cywgYXM6IDpjb25kaXRpb25fdHJlYXRtZW50X2l0ZW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R09PR0xFX0FOQUxZVElDU19UUkFDS0lOR19DT0RFPSIkKGNhdCAuZW52LWxvY2FsLWFuYWx5dGljcy1jb2RlIDI+L2Rldi9udWxsKSIK</text>
+        <text encoding="base64">ICAgICAgIyByZXZpZXdfcmVxdWVzdHNfcGF0aAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0jPSByZW5kZXIgcGFydGlhbDogInNoYXJlZC9nb29nbGVfYW5hbHl0aWNzIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGxldCg6dXNlcl9wYXJhbXMpIGRvCiAgICAgIHsKCiAgICAgIH0KICAgIGVuZA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gYWRtaW5fdXNlcnNfcGF0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">R09PR0xFX0FOQUxZVElDU19UUkFDS0lOR19DT0RFPSIkKGNhdCAuZW52LWxvY2FsLWFuYWx5dGljcy1jb2RlIDI+L2Rldi9udWxsKSIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgPGgzPjwvaDM+CiAgICA8L2Rpdj4KICA8L2Rpdj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0jPSByZW5kZXIgcGFydGlhbDogInNoYXJlZC9nb29nbGVfYW5hbHl0aWNzIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
