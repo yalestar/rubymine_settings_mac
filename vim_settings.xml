@@ -191,6 +191,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/reports/reporto.json.jbuilder" timestamp="1494197071763">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
         <mark key="]" line="7" column="0" />
@@ -423,7 +429,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494012940749">
+      <file name="/Ruby Console" timestamp="1494196792200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -600,10 +606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>puts 'LKJLKJ'</text>
+        <text>.assets do |asset|</text>
       </register>
       <register name="-" type="4">
-        <text>puts 'LKJLKJ'</text>
+        <text>.assets do |asset|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
