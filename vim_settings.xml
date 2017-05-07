@@ -128,6 +128,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492726413813">
         <mark key="[" line="20" column="86" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/reports/index.json.jbuilder" timestamp="1494199248577" />
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="34" />
@@ -218,7 +219,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1494012778014">
+      <file name="/fragment.rb" timestamp="1494198610928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -606,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.assets do |asset|</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>.assets do |asset|</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
