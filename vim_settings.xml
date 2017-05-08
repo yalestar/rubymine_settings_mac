@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1490049136677">
+      <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1494264513157">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
@@ -218,10 +218,10 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1494200729035">
+      <file name="/fragment.rb" timestamp="1494264469423">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -317,7 +317,7 @@
         <mark key="]" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/helpers/treatments_helper.rb" timestamp="1493932594752">
+      <file name="$USER_HOME$/dev/paladin/app/helpers/treatments_helper.rb" timestamp="1494264352622">
         <mark key="[" line="36" column="27" />
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="27" />
@@ -429,7 +429,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494263495998">
+      <file name="/Ruby Console" timestamp="1494264310028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -466,6 +466,9 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/treatments/_admin_card.html.haml" timestamp="1494264558445">
+        <mark key="[" line="18" column="91" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1486488498248">
         <mark key="[" line="58" column="32" />
         <mark key="]" line="58" column="32" />
@@ -482,7 +485,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493932597349">
+      <file name="/Dummy.txt" timestamp="1494264287373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -599,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>@condition.nam</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>@condition.nam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
