@@ -13,12 +13,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment_benefit_calculator.rb" timestamp="1493141519630">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="99" column="18" />
-        <mark key="^" line="99" column="18" />
-        <mark key="." line="99" column="18" />
-      </file>
       <file name="/a.dummy" timestamp="1490215485608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -467,12 +461,6 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/treatments/_admin_card.html.haml" timestamp="1493942524125">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="43" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1486488498248">
         <mark key="[" line="58" column="32" />
         <mark key="]" line="58" column="32" />
@@ -515,10 +503,9 @@
         <mark key="." line="39" column="165" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1493932915484">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="228" column="22" />
-        <mark key="^" line="228" column="22" />
-        <mark key="." line="228" column="22" />
+        <mark key="]" line="232" column="22" />
+        <mark key="^" line="232" column="22" />
+        <mark key="." line="232" column="22" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492557520991">
         <mark key="[" line="19" column="34" />
@@ -532,10 +519,10 @@
         <mark key="." line="6" column="74" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/comparison.html.haml" timestamp="1493928502562">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="35" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492813392145">
         <mark key="[" line="23" column="79" />
