@@ -429,7 +429,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494264310028">
+      <file name="/Ruby Console" timestamp="1494345110570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -466,9 +466,6 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/treatments/_admin_card.html.haml" timestamp="1494264558445">
-        <mark key="[" line="18" column="91" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1486488498248">
         <mark key="[" line="58" column="32" />
         <mark key="]" line="58" column="32" />
@@ -485,7 +482,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494264287373">
+      <file name="/Dummy.txt" timestamp="1494344977672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
