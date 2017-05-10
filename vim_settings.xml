@@ -119,7 +119,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1492726413813">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1494452453979">
         <mark key="[" line="20" column="86" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
@@ -177,6 +177,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1494452326586" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="68" />
@@ -218,7 +219,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1494449226887">
+      <file name="/fragment.rb" timestamp="1494452377738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -227,10 +228,6 @@
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/features/user_profile.feature" timestamp="1493235727447">
-        <mark key="'" line="108" column="16" />
-        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
@@ -318,11 +315,6 @@
         <mark key="]" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/requests/anchor_fragment_request_spec.rb" timestamp="1494450281224">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1492632002913">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -399,11 +391,13 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise-3.5.10/lib/devise/controllers/store_location.rb" timestamp="1494452046375" />
       <file name="$USER_HOME$/dev/paladin/app/models/gender.rb" timestamp="1491262886827">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib/action_controller/metal/instrumentation.rb" timestamp="1494452100159" />
       <file name="$USER_HOME$/dev/paladin/app/assets/stylesheets/lists.css" timestamp="1492552921499">
         <mark key="[" line="287" column="21" />
         <mark key="]" line="287" column="21" />
@@ -430,7 +424,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494449535792">
+      <file name="/Ruby Console" timestamp="1494452726766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -459,12 +453,7 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1494448686148">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="42" column="10" />
-        <mark key="^" line="42" column="10" />
-        <mark key="." line="42" column="10" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1494452838667" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -600,13 +589,15 @@
       <jump line="84" column="54" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" />
       <jump line="118" column="16" filename="$USER_HOME$/dev/paladin/features/user_profile.feature" />
+      <jump line="41" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
+      <jump line="44" column="18" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.tr('.', '/')</text>
+        <text>unl00ess</text>
       </register>
       <register name="-" type="4">
-        <text>.tr('.', '/')</text>
+        <text>unl00ess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
