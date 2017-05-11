@@ -171,7 +171,7 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1492032317784">
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1494539403323">
         <mark key="[" line="72" column="62" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -218,7 +218,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1494536726322">
+      <file name="/fragment.rb" timestamp="1494539431151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -248,6 +248,7 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/org_benefit_finder.rb" timestamp="1494539327128" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="78" />
@@ -285,13 +286,13 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494536904510" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494539197153" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494536713136">
+      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494538493056">
         <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
@@ -424,7 +425,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494536862663">
+      <file name="/Ruby Console" timestamp="1494538675645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -469,6 +470,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ruby-saml-1.4.2/lib/onelogin/ruby-saml/response.rb" timestamp="1494538723051" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_edit_menu.html.erb" timestamp="1488924703950">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -551,11 +553,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1494536849054">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1494538690119" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
