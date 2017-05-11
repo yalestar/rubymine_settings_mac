@@ -177,7 +177,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1494452326586" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="68" />
@@ -219,8 +218,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/anchor_fragment.rb" timestamp="1494455349094" />
-      <file name="/fragment.rb" timestamp="1494455136625">
+      <file name="/fragment.rb" timestamp="1494536726322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -287,13 +285,13 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494449261247" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494536904510" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1492116455825">
+      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494536713136">
         <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
@@ -395,13 +393,11 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/devise-3.5.10/lib/devise/controllers/store_location.rb" timestamp="1494455712822" />
       <file name="$USER_HOME$/dev/paladin/app/models/gender.rb" timestamp="1491262886827">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib/action_controller/metal/instrumentation.rb" timestamp="1494452100159" />
       <file name="$USER_HOME$/dev/paladin/app/assets/stylesheets/lists.css" timestamp="1492552921499">
         <mark key="[" line="287" column="21" />
         <mark key="]" line="287" column="21" />
@@ -428,7 +424,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494454763343">
+      <file name="/Ruby Console" timestamp="1494536862663">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -457,7 +453,6 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1494455673876" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -556,8 +551,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1492629030336">
-        <mark key="[" line="10" column="87" />
+      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1494536849054">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -598,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
