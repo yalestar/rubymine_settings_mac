@@ -286,7 +286,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494539197153" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494540384972" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -425,6 +425,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1494540540352" />
       <file name="/Ruby Console" timestamp="1494538675645">
         <mark key="[" line="0" column="0" />
       </file>
@@ -454,6 +455,7 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1494540475293" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -476,7 +478,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494454558780">
+      <file name="/Dummy.txt" timestamp="1494540558971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
