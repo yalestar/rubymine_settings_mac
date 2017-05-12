@@ -151,6 +151,9 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/layouts/application.html.erb" timestamp="1494627305761">
+        <mark key="[" line="14" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/treatment_cost_importer.rb" timestamp="1485455533122">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -423,7 +426,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494618072406">
+      <file name="/Ruby Console" timestamp="1494627246735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -473,7 +476,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494540558971">
+      <file name="/Dummy.txt" timestamp="1494627291380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
