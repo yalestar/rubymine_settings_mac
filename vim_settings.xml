@@ -185,7 +185,7 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1494539403323">
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1494885926700">
         <mark key="[" line="72" column="62" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -238,7 +238,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1494882592498">
+      <file name="/fragment.rb" timestamp="1494887387082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,11 +305,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494882771635">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1494887331035">
+        <mark key="'" line="60" column="41" />
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="29" />
+        <mark key="." line="113" column="29" />
+        <mark key="^" line="113" column="29" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -449,7 +450,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494880847708">
+      <file name="/Ruby Console" timestamp="1494886722414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -609,13 +610,14 @@
       <jump line="41" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
       <jump line="44" column="18" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
       <jump line="61" column="29" filename="$USER_HOME$/dev/pitcrew_v_next/app/views/home/index.html.erb" />
+      <jump line="60" column="41" filename="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user_exists?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user_exists?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
