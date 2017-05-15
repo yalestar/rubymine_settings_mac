@@ -8,6 +8,11 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/projects/show.json.jbuilder" timestamp="1494821748992">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -209,10 +214,10 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/projects/index.json.jbuilder" timestamp="1494818756007">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="17" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
@@ -315,6 +320,7 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/reports/show.json.jbuilder" timestamp="1494821672357" />
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -514,11 +520,6 @@
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1493932915484">
-        <mark key="]" line="232" column="22" />
-        <mark key="^" line="232" column="22" />
-        <mark key="." line="232" column="22" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492557520991">
         <mark key="[" line="19" column="34" />
