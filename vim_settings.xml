@@ -122,6 +122,13 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/users/sso_registrations_controller.rb" timestamp="1494452453979">
         <mark key="[" line="20" column="86" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/home/index.html.erb" timestamp="1494817120284">
+        <mark key="'" line="62" column="29" />
+        <mark key="[" line="5" column="64" />
+        <mark key="]" line="50" column="3" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="50" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="34" />
@@ -151,8 +158,8 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/layouts/application.html.erb" timestamp="1494627305761">
-        <mark key="[" line="14" column="8" />
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/layouts/application.html.erb" timestamp="1494816554111">
+        <mark key="[" line="13" column="81" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/treatment_cost_importer.rb" timestamp="1485455533122">
         <mark key="[" line="15" column="0" />
@@ -221,10 +228,16 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1494539431151">
+      <file name="/fragment.rb" timestamp="1494816870180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/projects/_buckets.html.erb" timestamp="1494816913189">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -426,7 +439,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1494627246735">
+      <file name="/Ruby Console" timestamp="1494816577117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -589,19 +602,20 @@
       <jump line="118" column="16" filename="$USER_HOME$/dev/paladin/features/user_profile.feature" />
       <jump line="41" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
       <jump line="44" column="18" filename="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" />
+      <jump line="61" column="29" filename="$USER_HOME$/dev/pitcrew_v_next/app/views/home/index.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3coQGNvbnRyb2xsZXIpLnRvIHJlY2VpdmUoOmZsYXNoKS5hbmRfcmV0dXJuKCB7aW50ZXJzdGl0aWFsX2luZm86IDpzc29fY29tcGxldGVfcmVnaXN0cmF0aW9ufSApCg==</text>
+        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdXJsID0gdHJlYXRtZW50X3VybCh0cmVhdG1lbnQpCiAgICAgIGVuY29kZWRfdXJsID0gZGVzY3JpYmVkX2NsYXNzLmVuY29kZSh1cmw6IHVybCwgYW5jaG9yOiAnY29zdCcpCiAgICAgIGFjdHNfbGlrZV9hX3Byb3Blcmx5X2VuY29kZWRfYW5jaG9yX3VyaShlbmNvZGVkX3VybCwgOnNob3cpCiAgICAgICMgZXhwZWN0KGNvbnRyb2xsZXIuY2xhc3MpLnRvIGJlIFRyZWF0bWVudHNDb250cm9sbGVyCiAgICAgICMgZXhwZWN0KGNvbnRyb2xsZXIuYWN0aW9uX25hbWUpLnRvIGVxICdzaG93JwogICAgZW5kCgogICAgaXQgJ3JlZGlyZWN0cyB0byB0aGUgY29zdCBhbmNob3JfcGF0aCBhbG9uZyB3aXRoIGFuIGlkcCBwYXJhbScgZG8KICAgICAgdXJsID0gdHJlYXRtZW50c191cmwodHJlYXRtZW50LCBpZHA6ICdpZGVtcG90ZW50JykudHIoJy4nLCAnLycpCg==</text>
