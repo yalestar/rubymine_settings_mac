@@ -235,7 +235,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1495166895321">
+      <file name="/fragment.rb" timestamp="1495170238574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -313,11 +313,8 @@
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494538493056">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/nmig-master/convo.rb" timestamp="1495166865250">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Downloads/nmig-master/convo.rb" timestamp="1495170420790">
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
@@ -449,7 +446,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1495166894170">
+      <file name="/Ruby Console" timestamp="1495170393303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -613,50 +610,52 @@
       <jump line="53" column="1" filename="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" />
       <jump line="115" column="8" filename="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" />
       <jump line="113" column="25" filename="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" />
+      <jump line="23" column="52" filename="$USER_HOME$/Downloads/nmig-master/convo2.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>table_name</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>table_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">dG9wWyd0YWJsZXMnXSA9IG5hbWVzLm1lcmdlKGNvbHMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>h['original'] = 'admins'
-th['new'] = 'renamed_admins'</text>
+      <register name="1" type="2">
+        <text encoding="base64">cmVxdWlyZSAncHAnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1dHMgY29scwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIyBqYW5lIGFscmVhZHkgZXhpc3RzIHZpYSBTcGFycXkKICAgICAgIyBqYW5lIHRyaWVzIHRvIFNTTyB2aWEgUmVnZW5jZSBieSBtaXN0YWtl</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dG9wID0ge30K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text># iterate over each table, then column, camelize each thing
+# crap out JSON</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBSYWlscy5sb2dnZXIuZXJyb3IobXNnKQogICAgICByZWRpcmVjdF90byBuZXdf</text>
+        <text>h['original'] = 'admins'
+th['new'] = 'renamed_admins'</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKG1zZykKICAgICAgcHV0cyAiSEkgI3ttc2d9IgogICAgZW5k</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1dHMgY29scwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAnc3NvX2Vycm9yJwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgIyBqYW5lIGFscmVhZHkgZXhpc3RzIHZpYSBTcGFycXkKICAgICAgIyBqYW5lIHRyaWVzIHRvIFNTTyB2aWEgUmVnZW5jZSBieSBtaXN0YWtl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
