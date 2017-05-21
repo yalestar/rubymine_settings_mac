@@ -227,8 +227,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1494263573043">
-        <mark key="[" line="56" column="8" />
+      <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1495386943616">
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="59" column="14" />
+        <mark key="^" line="58" column="15" />
+        <mark key="." line="59" column="14" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/bonkers/spec/requests/widgets_spec.rb" timestamp="1494013092428">
         <mark key="[" line="7" column="5" />
@@ -245,6 +248,9 @@
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/admin_treatments.feature" timestamp="1495386865603">
+        <mark key="[" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
