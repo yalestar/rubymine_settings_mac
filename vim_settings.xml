@@ -179,9 +179,6 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/datatables/treatments_datatable.rb" timestamp="1495385924950">
-        <mark key="[" line="29" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="62" />
@@ -228,10 +225,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/paths.rb" timestamp="1495386943616">
-        <mark key="[" line="59" column="13" />
-        <mark key="]" line="59" column="14" />
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="14" />
         <mark key="^" line="58" column="15" />
-        <mark key="." line="59" column="14" />
+        <mark key="." line="58" column="14" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/bonkers/spec/requests/widgets_spec.rb" timestamp="1494013092428">
         <mark key="[" line="7" column="5" />
@@ -509,7 +506,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495386024606">
+      <file name="/Dummy.txt" timestamp="1495470092483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
