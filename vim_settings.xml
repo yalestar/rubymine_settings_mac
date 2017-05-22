@@ -58,6 +58,13 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" timestamp="1495476916576">
+        <mark key="'" line="6" column="27" />
+        <mark key="[" line="1" column="118" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1492637464688">
         <mark key="[" line="80" column="6" />
         <mark key="]" line="80" column="6" />
@@ -236,7 +243,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1495225855557">
+      <file name="/fragment.rb" timestamp="1495476337617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -245,9 +252,6 @@
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/features/admin_treatments.feature" timestamp="1495386865603">
-        <mark key="[" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
@@ -259,6 +263,7 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/support/user_cuke_helpers.rb" timestamp="1495476322889" />
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/_other_treatments.html.haml" timestamp="1493927927324">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
@@ -295,6 +300,7 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/session_steps.rb" timestamp="1495476169974" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/custom.js" timestamp="1493143228280">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="198" column="6" />
@@ -456,7 +462,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1495385385771">
+      <file name="/Ruby Console" timestamp="1495476255107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -621,13 +627,14 @@
       <jump line="115" column="8" filename="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" />
       <jump line="113" column="25" filename="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" />
       <jump line="23" column="52" filename="$USER_HOME$/Downloads/nmig-master/convo2.rb" />
+      <jump line="6" column="27" filename="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYzFbJ25ldyddID0gJ3VzZXJfaWQnCiAgICBlbHNlCiAgICAgIGMxWyduZXcnXSA9IGYudW5kZXJzY29yZQogICAgZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
