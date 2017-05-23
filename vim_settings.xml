@@ -196,6 +196,7 @@
         <mark key="]" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.5.0/lib/capybara/session.rb" timestamp="1495499300996" />
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_rewriter.rb" timestamp="1479422744094">
         <mark key="[" line="44" column="34" />
         <mark key="]" line="44" column="34" />
@@ -248,10 +249,10 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1495497810781">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.rb" timestamp="1495499638719">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -324,6 +325,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.3.1/lib/rspec/expectations/handler.rb" timestamp="1495498912777" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -471,7 +473,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1495497844277">
+      <file name="/Ruby Console" timestamp="1495499232091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -563,10 +565,11 @@
         <mark key="^" line="46" column="35" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/step_definitions/web_steps.rb" timestamp="1495497534508">
-        <mark key="[" line="178" column="47" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/web_steps.rb" timestamp="1495498591612">
+        <mark key="[" line="177" column="47" />
+        <mark key="]" line="123" column="30" />
+        <mark key="." line="123" column="30" />
+        <mark key="^" line="123" column="30" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492813392145">
         <mark key="[" line="23" column="79" />
@@ -593,6 +596,7 @@
         <mark key="]" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.3.1/lib/rspec/expectations/expectation_target.rb" timestamp="1495498684453" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/seeds/99_app_data.rb" timestamp="1485129496442">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -644,11 +648,11 @@
       <jump line="6" column="27" filename="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGphdmFzY3JpcHQK</text>
+      <register name="&quot;" type="4">
+        <text>ap</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQ==</text>
+        <text>ap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
