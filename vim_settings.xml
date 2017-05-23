@@ -247,7 +247,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1495568609619">
+      <file name="/fragment.rb" timestamp="1495572760856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -333,6 +333,12 @@
       <file name="$USER_HOME$/Downloads/nmig-master/convo.rb" timestamp="1495225639261">
         <mark key="^" line="40" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1495572692497">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -398,7 +404,6 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/admin_campaigns.feature" timestamp="1495569679634" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/index.html.erb" timestamp="1477518764451">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="96" />
@@ -423,7 +428,7 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/features/admin_campaigns_spec.rb" timestamp="1495569633404">
+      <file name="$USER_HOME$/dev/paladin/spec/features/admin_campaigns_spec.rb" timestamp="1495572718134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
@@ -473,7 +478,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1495568556575">
+      <file name="/Ruby Console" timestamp="1495572719352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -647,8 +652,8 @@
       <jump line="6" column="27" filename="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text>ap</text>
@@ -660,34 +665,34 @@
         <text encoding="base64">dG9wWyd0YWJsZXMnXSA9IG5hbWVzLm1lcmdlKGNvbHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGphdmFzY3JpcHQK</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGphdmFzY3JpcHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYzFbJ25ldyddID0gJ3VzZXJfaWQnCiAgICBlbHNlCiAgICAgIGMxWyduZXcnXSA9IGYudW5kZXJzY29yZQogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYzFbJ25ldyddID0gJ3VzZXJfaWQnCiAgICBlbHNlCiAgICAgIGMxWyduZXcnXSA9IGYudW5kZXJzY29yZQogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHAnCg==</text>
+        <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAncHAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dG9wID0ge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
