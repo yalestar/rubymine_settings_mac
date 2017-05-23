@@ -398,6 +398,7 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/admin_campaigns.feature" timestamp="1495569679634" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/index.html.erb" timestamp="1477518764451">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="96" />
@@ -421,6 +422,9 @@
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/features/admin_campaigns_spec.rb" timestamp="1495569633404">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
