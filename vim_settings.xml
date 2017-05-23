@@ -129,6 +129,7 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/utility_steps.rb" timestamp="1495497526605" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1493143640319">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -179,6 +180,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/admin_whatever.feature" timestamp="1495497842362">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
         <mark key="[" line="12" column="17" />
@@ -242,7 +248,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1495481782920">
+      <file name="/fragment.rb" timestamp="1495497810781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -465,7 +471,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1495493372857">
+      <file name="/Ruby Console" timestamp="1495497844277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -515,7 +521,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495481527504">
+      <file name="/Dummy.txt" timestamp="1495497515817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -556,6 +562,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="46" column="35" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/features/step_definitions/web_steps.rb" timestamp="1495497534508">
+        <mark key="[" line="178" column="47" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492813392145">
         <mark key="[" line="23" column="79" />
@@ -633,11 +644,11 @@
       <jump line="6" column="27" filename="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>create</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QGphdmFzY3JpcHQK</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -646,35 +657,34 @@
         <text encoding="base64">dG9wWyd0YWJsZXMnXSA9IG5hbWVzLm1lcmdlKGNvbHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYzFbJ25ldyddID0gJ3VzZXJfaWQnCiAgICBlbHNlCiAgICAgIGMxWyduZXcnXSA9IGYudW5kZXJzY29yZQogICAgZW5kCg==</text>
+        <text encoding="base64">QGphdmFzY3JpcHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHAnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYzFbJ25ldyddID0gJ3VzZXJfaWQnCiAgICBlbHNlCiAgICAgIGMxWyduZXcnXSA9IGYudW5kZXJzY29yZQogICAgZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYzFbJ29yaWdpbmFsJ10gPSBmCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dG9wID0ge30K</text>
+        <text encoding="base64">cmVxdWlyZSAncHAnCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text># iterate over each table, then column, camelize each thing
-# crap out JSON</text>
+      <register name="9" type="2">
+        <text encoding="base64">dG9wID0ge30K</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
