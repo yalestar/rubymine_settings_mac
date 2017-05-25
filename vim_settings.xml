@@ -13,6 +13,7 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/rxnorm_weekly_update.rb" timestamp="1495750643273" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -218,7 +219,6 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/rx_norm_import_job.rb" timestamp="1495746030354" />
       <file name="$USER_HOME$/dev/paladin/config/database.yml" timestamp="1493142867230">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="2" column="24" />
