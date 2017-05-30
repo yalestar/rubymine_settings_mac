@@ -186,10 +186,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/factories/rxn_sat_period_factory.rb" timestamp="1495650297451">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/paladin/spec/factories/rxn_sat_period_factory.rb" timestamp="1496175014140">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_weekly_importer.rb" timestamp="1495745916168">
         <mark key="[" line="13" column="6" />
@@ -258,7 +258,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1496165933942">
+      <file name="/fragment.rb" timestamp="1496175208186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -490,7 +490,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496165896740">
+      <file name="/Ruby Console" timestamp="1496175394419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -524,11 +524,11 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1496166012599">
-        <mark key="[" line="92" column="21" />
-        <mark key="]" line="92" column="21" />
-        <mark key="." line="92" column="21" />
-        <mark key="^" line="93" column="17" />
+      <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1496175287303">
+        <mark key="[" line="95" column="20" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
@@ -667,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>associated rxnorm_weekly_updates</text>
+        <text>01032017</text>
       </register>
       <register name="-" type="4">
-        <text>associated rxnorm_weekly_updates</text>
+        <text>01032017</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
