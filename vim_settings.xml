@@ -143,6 +143,7 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_import.rb" timestamp="1496165633319" />
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="34" />
@@ -257,7 +258,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1495746491699">
+      <file name="/fragment.rb" timestamp="1496165933942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -324,6 +325,7 @@
         <mark key="^" line="198" column="6" />
         <mark key="." line="198" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rxn_sat_rewriter.rb" timestamp="1496165572468" />
       <file name="$USER_HOME$/dev/paladin/lib/sso_error.rb" timestamp="1495120894037">
         <mark key="[" line="2" column="21" />
       </file>
@@ -488,7 +490,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1495746395231">
+      <file name="/Ruby Console" timestamp="1496165896740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -522,11 +524,11 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1495746392830">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-        <mark key="^" line="77" column="17" />
+      <file name="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_import_spec.rb" timestamp="1496166012599">
+        <mark key="[" line="92" column="21" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+        <mark key="^" line="93" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
@@ -539,7 +541,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495746105861">
+      <file name="/Dummy.txt" timestamp="1496166235862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -617,6 +619,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/db/schema.rb" timestamp="1496166249603" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -664,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>associated rxnorm_weekly_updates</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>associated rxnorm_weekly_updates</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -706,7 +709,7 @@
         <text encoding="base64">ICAgICAgYzFbJ25ldyddID0gJ3VzZXJfaWQnCiAgICBlbHNlCiAgICAgIGMxWyduZXcnXSA9IGYudW5kZXJzY29yZQogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>100</text>
+        <text>92</text>
       </register>
     </registers>
     <search>
@@ -721,7 +724,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
         <entry>84</entry>
         <entry>32d</entry>
         <entry>81</entry>
@@ -741,6 +743,7 @@
         <entry>15</entry>
         <entry>18</entry>
         <entry>100</entry>
+        <entry>92</entry>
       </history-cmd>
       <history-expr />
       <history-input />
