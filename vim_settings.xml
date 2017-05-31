@@ -257,7 +257,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1496183143609">
+      <file name="/fragment.rb" timestamp="1496271874312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -286,6 +286,9 @@
         <mark key="[" line="39" column="224" />
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/import_load.rb" timestamp="1496272272723">
+        <mark key="[" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
@@ -485,7 +488,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496266327506">
+      <file name="/Ruby Console" timestamp="1496271786554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -525,13 +528,12 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/rx_norm_load/rx_norm_full_importer.rb" timestamp="1496266202079" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_edit_menu.html.erb" timestamp="1488924703950">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496266318819">
+      <file name="/Dummy.txt" timestamp="1496271705563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
