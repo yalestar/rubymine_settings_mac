@@ -257,7 +257,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1496346291655">
+      <file name="/fragment.rb" timestamp="1496354890764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -488,7 +488,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496344751132">
+      <file name="/Ruby Console" timestamp="1496353577795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -517,6 +517,11 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1496354932974">
+        <mark key="[" line="73" column="64" />
+        <mark key="]" line="73" column="64" />
+        <mark key="." line="73" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -533,7 +538,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496344120866">
+      <file name="/Dummy.txt" timestamp="1496354406328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -586,7 +591,7 @@
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/stats/_all_rxn_sat_periods.html.erb" timestamp="1496346382812" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.0/lib/doorkeeper/rails/routes.rb" timestamp="1496355329258" />
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -660,10 +665,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>importer</text>
+        <text>self.class.parent_name == 'CamaleonCms'</text>
       </register>
       <register name="-" type="4">
-        <text>importer</text>
+        <text>self.class.parent_name == 'CamaleonCms'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
