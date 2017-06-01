@@ -488,7 +488,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496271786554">
+      <file name="/Ruby Console" timestamp="1496344751132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -533,7 +533,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496271705563">
+      <file name="/Dummy.txt" timestamp="1496344120866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -586,6 +586,7 @@
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/stats/_all_rxn_sat_periods.html.erb" timestamp="1496344628786" />
       <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1487011535735">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
