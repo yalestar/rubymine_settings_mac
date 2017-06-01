@@ -129,9 +129,6 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/stats_controller.rb" timestamp="1496346259271">
-        <mark key="[" line="56" column="71" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1493143640319">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -275,7 +272,6 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/views/admin/stats/index.html.erb" timestamp="1496346427340" />
       <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1484080891517">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
