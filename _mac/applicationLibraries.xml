@@ -472,6 +472,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler/gems/activemodel-serializers-xml-570ee7ed33d6/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-serializers-xml (v1.0.1@dd9c0a, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler/gems/activemodel-serializers-xml-dd9c0acf26aa/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler/gems/activemodel-serializers-xml-dd9c0acf26aa/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v4.2.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activerecord-4.2.3/lib" />
