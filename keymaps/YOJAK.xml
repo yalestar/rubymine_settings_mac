@@ -7,6 +7,8 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -22,6 +24,10 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -111,6 +117,10 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError" />
   <action id="GotoRow" />
   <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
@@ -201,6 +211,8 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift meta f10" />
   </action>
