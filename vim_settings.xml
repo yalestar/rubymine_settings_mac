@@ -85,8 +85,10 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1496680685275">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1496779639288">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role_view.rb" timestamp="1486346696015">
         <mark key="[" line="16" column="14" />
@@ -670,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>detect</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>detect</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
