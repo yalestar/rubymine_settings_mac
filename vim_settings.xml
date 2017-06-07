@@ -57,13 +57,6 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" timestamp="1495476916576">
-        <mark key="'" line="6" column="27" />
-        <mark key="[" line="1" column="118" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1492637464688">
         <mark key="[" line="80" column="6" />
         <mark key="]" line="80" column="6" />
@@ -85,7 +78,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1496780883429">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1496856866572">
         <mark key="[" line="36" column="28" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
@@ -266,7 +259,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1496777731691">
+      <file name="/fragment.rb" timestamp="1496856903427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -503,7 +496,8 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496777645025">
+      <file name="$USER_HOME$/dev/paladin/app/models/search.rb" timestamp="1496856272049" />
+      <file name="/Ruby Console" timestamp="1496856867618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -606,10 +600,11 @@
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1496852853750">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/dev/paladin/features/condition_and_treatment_search.feature" timestamp="1496856539354">
+        <mark key="[" line="199" column="22" />
+        <mark key="]" line="199" column="22" />
+        <mark key="." line="199" column="22" />
+        <mark key="^" line="199" column="21" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_lines_controller.rb" timestamp="1477943041978">
         <mark key="[" line="8" column="0" />
@@ -678,11 +673,11 @@
       <jump line="21" column="38" filename="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_weekly_importer_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSBUT0RPOiB0b3AgcGFkZGluZyAtLT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
