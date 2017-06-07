@@ -138,11 +138,6 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1496870335283">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="34" />
@@ -278,12 +273,13 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/admin/stats/index.html.erb" timestamp="1496876624566" />
       <file name="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" timestamp="1496869673311">
-        <mark key="'" line="7" column="38" />
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
+        <mark key="'" line="4" column="38" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/_other_treatments.html.haml" timestamp="1493927927324">
         <mark key="[" line="26" column="16" />
