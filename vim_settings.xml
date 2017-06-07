@@ -169,6 +169,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/projects/show.html.erb" timestamp="1496794974145">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476998105548">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="75" />
@@ -671,8 +677,8 @@
       <jump line="21" column="38" filename="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_weekly_importer_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCEtLSBUT0RPOiB0b3AgcGFkZGluZyAtLT4K</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
@@ -684,34 +690,34 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQuc3R1Yl9jaGFpbig6ZG9jdW1lbnQsIDp1cmwpLmFuZF9yZXR1cm4oYXJjaGl2ZV9kb2N1bWVudCkgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">PCEtLSBUT0RPOiB0b3AgcGFkZGluZyAtLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">PGJyPjxicj48YnI+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGRvY3VtZW50OiBvcGVuKGFyY2hpdmVfZG9jdW1lbnQpIAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiByZWxhdGVkX3MKICAgICAgCiAgICBlbmQ=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIGRvY3VtZW50OiBvcGVuKGFyY2hpdmVfZG9jdW1lbnQpIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpbGVfbmFtZTogJ2dvb2NoJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiByZWxhdGVkX3MKICAgICAgCiAgICBlbmQ=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
