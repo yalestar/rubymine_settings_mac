@@ -162,12 +162,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/projects/show.html.erb" timestamp="1496794974145">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/posts_index.rb" timestamp="1476998105548">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="75" />
@@ -497,7 +491,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496965099237">
+      <file name="/Ruby Console" timestamp="1497195631739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
