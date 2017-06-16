@@ -257,7 +257,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1497203627067">
+      <file name="/fragment.rb" timestamp="1497627764511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -496,13 +496,18 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1497203782478">
+      <file name="/Ruby Console" timestamp="1497627695949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/rg-ops/ansible/mike.rb" timestamp="1497627692829">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="31" column="2" />
+        <mark key="." line="31" column="2" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_user_rating.html.haml" timestamp="1489443427089">
         <mark key="[" line="3" column="11" />
@@ -672,11 +677,11 @@
       <jump line="5" column="38" filename="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YnJhbmNoID0g</text>
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text encoding="base64">YnJhbmNoID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
