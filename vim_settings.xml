@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/campaigns_controller.rb" timestamp="1498089697308" />
       <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1497396505615">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -496,7 +497,10 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1497627695949">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
+        <mark key="[" line="9" column="21" />
+      </file>
+      <file name="/Ruby Console" timestamp="1498089943971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -551,7 +555,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497391694987">
+      <file name="/Dummy.txt" timestamp="1498089566827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -575,6 +579,11 @@
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1498090154436">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/layouts/_messages.html.erb" timestamp="1492557520991">
         <mark key="[" line="19" column="34" />
@@ -608,6 +617,9 @@
         <mark key="[" line="23" column="79" />
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1498090622584">
+        <mark key="[" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_lines_controller.rb" timestamp="1477943041978">
         <mark key="[" line="8" column="0" />
@@ -678,10 +690,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YnJhbmNoID0g</text>
+        <text>*)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnJhbmNoID0g</text>
+        <text>*)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
