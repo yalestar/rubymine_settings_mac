@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/campaigns_controller.rb" timestamp="1498089697308" />
       <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1497396505615">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -258,7 +257,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1497627764511">
+      <file name="/fragment.rb" timestamp="1498232190971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -363,6 +362,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1498231750286" />
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -500,7 +500,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1498089943971">
+      <file name="/Ruby Console" timestamp="1498231190051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -555,7 +555,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498089566827">
+      <file name="/Dummy.txt" timestamp="1498231169192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
