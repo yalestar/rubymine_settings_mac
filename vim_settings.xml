@@ -57,6 +57,7 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/infobutton_queries_controller.rb" timestamp="1498261354603" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1492637464688">
         <mark key="[" line="80" column="6" />
         <mark key="]" line="80" column="6" />
@@ -362,7 +363,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1498231750286" />
+      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1498261504016" />
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -389,6 +390,11 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/features/support/content_strings.rb" timestamp="1493235579812">
         <mark key="[" line="47" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/.env" timestamp="1498261569754">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1489107305636">
         <mark key="[" line="10" column="123" />
@@ -500,7 +506,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1498231190051">
+      <file name="/Ruby Console" timestamp="1498261991675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -555,7 +561,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498231169192">
+      <file name="/Dummy.txt" timestamp="1498261233533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -690,10 +696,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*)</text>
+        <text>dev-analytics.medsavvy.com</text>
       </register>
       <register name="-" type="4">
-        <text>*)</text>
+        <text>dev-analytics.medsavvy.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
