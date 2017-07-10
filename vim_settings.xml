@@ -262,7 +262,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1498346884379">
+      <file name="/fragment.rb" timestamp="1499725359214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -367,6 +367,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1499724910526" />
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -512,7 +513,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1498411535103">
+      <file name="/Ruby Console" timestamp="1499725278508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -625,9 +626,10 @@
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1498262776615">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1499724482867">
         <mark key="[" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/2.3.0/net/http/request.rb" timestamp="1499724716498" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_lines_controller.rb" timestamp="1477943041978">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
