@@ -367,7 +367,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1499726053424">
+      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1499788126046">
         <mark key="[" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
@@ -397,10 +397,11 @@
       <file name="$USER_HOME$/dev/paladin/features/support/content_strings.rb" timestamp="1493235579812">
         <mark key="[" line="47" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/.env" timestamp="1498261569754">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
+      <file name="$USER_HOME$/dev/paladin/.env" timestamp="1499788333896">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/show.html.haml" timestamp="1489107305636">
         <mark key="[" line="10" column="123" />
@@ -515,7 +516,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1499726084142">
+      <file name="/Ruby Console" timestamp="1499788387563">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -565,7 +566,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498261233533">
+      <file name="/Dummy.txt" timestamp="1499788382673">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -628,10 +629,12 @@
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1499724482867">
-        <mark key="[" line="9" column="17" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1499788327293">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/2.3.0/net/http/request.rb" timestamp="1499724716498" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/clinical_list_lines_controller.rb" timestamp="1477943041978">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -700,11 +703,11 @@
       <jump line="5" column="38" filename="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, dry_run: false</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
