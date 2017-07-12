@@ -551,9 +551,9 @@
         <mark key="." line="73" column="64" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful_renderable.rb" timestamp="1499811634900">
-        <mark key="]" line="31" column="6" />
-        <mark key="^" line="31" column="6" />
-        <mark key="." line="31" column="6" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="6" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -628,6 +628,9 @@
         <mark key="]" line="123" column="30" />
         <mark key="." line="123" column="30" />
         <mark key="^" line="123" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/views/cms_pages/about.html.erb" timestamp="1499896579515">
+        <mark key="[" line="60" column="25" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/models/treatment_benefit_calculator_spec.rb" timestamp="1492813392145">
         <mark key="[" line="23" column="79" />
