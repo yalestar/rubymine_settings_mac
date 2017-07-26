@@ -129,7 +129,6 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/cms_pages/about_text.rb" timestamp="1500308723694" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/user.rb" timestamp="1497203744873">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -266,7 +265,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1499725359214">
+      <file name="/fragment.rb" timestamp="1501091271060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -517,7 +516,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1500072028594">
+      <file name="/Ruby Console" timestamp="1501091076088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -561,6 +560,7 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/opportunity_job.rb" timestamp="1501091339397" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
