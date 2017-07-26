@@ -265,7 +265,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1501091271060">
+      <file name="/fragment.rb" timestamp="1501098469155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -560,7 +560,7 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/opportunity_job.rb" timestamp="1501091339397" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/opportunity_job.rb" timestamp="1501098421979" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
