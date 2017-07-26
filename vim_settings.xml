@@ -265,7 +265,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1501109394322">
+      <file name="/fragment.rb" timestamp="1501111965254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -387,6 +387,9 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/requests/anchor_fragment_request_spec.rb" timestamp="1494455904056">
         <mark key="[" line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/lib/user_matcher_spec.rb" timestamp="1501112023720">
+        <mark key="[" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1492632002913">
         <mark key="[" line="38" column="0" />
@@ -516,7 +519,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1501109308144">
+      <file name="/Ruby Console" timestamp="1501111930050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -560,7 +563,6 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/opportunity_job.rb" timestamp="1501109427412" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
