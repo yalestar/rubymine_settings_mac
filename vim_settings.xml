@@ -83,6 +83,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/import.rb" timestamp="1501532023381" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1496856866572">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="28" />
@@ -148,11 +149,10 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1501529538460">
-        <mark key="[" line="131" column="41" />
-        <mark key="]" line="88" column="40" />
-        <mark key="." line="88" column="40" />
-        <mark key="^" line="88" column="40" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1501531506063">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/features/sso_returning_user_spec.rb" timestamp="1492192178355">
         <mark key="[" line="31" column="34" />
@@ -276,7 +276,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1501282600243">
+      <file name="/fragment.rb" timestamp="1501532348113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -301,10 +301,10 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/import_load.rb" timestamp="1501529479729">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="52" />
-        <mark key="." line="23" column="52" />
+      <file name="$USER_HOME$/dev/paladin/app/models/import_load.rb" timestamp="1501532476038">
+        <mark key="]" line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="22" column="6" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
@@ -522,7 +522,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1501530049940">
+      <file name="/Ruby Console" timestamp="1501532424515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -577,7 +577,14 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501529149005">
+      <file name="$USER_HOME$/dev/paladin/spec/job_pipelines/claims_loader_job_spec.rb" timestamp="1501531793126">
+        <mark key="'" line="85" column="27" />
+        <mark key="[" line="85" column="23" />
+        <mark key="]" line="85" column="23" />
+        <mark key="." line="85" column="23" />
+        <mark key="^" line="88" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501532829251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -715,13 +722,14 @@
       <jump line="6" column="27" filename="$USER_HOME$/dev/paladin/features/step_definitions/organization_steps.rb" />
       <jump line="21" column="38" filename="$USER_HOME$/dev/paladin/spec/lib/rx_norm_load/rx_norm_weekly_importer_spec.rb" />
       <jump line="5" column="38" filename="$USER_HOME$/dev/paladin/lib/tasks/claims_loader.rake" />
+      <jump line="85" column="27" filename="$USER_HOME$/dev/paladin/spec/job_pipelines/claims_loader_job_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>the date</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlIGlmIHJ4X25vcm0/</text>
       </register>
       <register name="-" type="4">
-        <text>the date</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlIGlmIHJ4X25vcm0/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -729,38 +737,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQuc3R1Yl9jaGFpbig6ZG9jdW1lbnQsIDp1cmwpLmFuZF9yZXR1cm4oYXJjaGl2ZV9kb2N1bWVudCkgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICMgaWYgaXQncyBub3QgY2xhaW1zIHR5cGUsIGFzc3VtZSBpdCdzIHZhbGlkIChyZXR1cm4gdHJ1ZSkKICAgIHJldHVybiB0cnVlIGlmIGNsYWltcz8=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGFsbG93KGxvYWRlcikudG8ocmVjZWl2ZSg6ZG93bmxvYWRfY2xhaW1zKS5hbmRfcmV0dXJuKGxvY2FsX2NsYWltc19maWxlX25hbWUpKQogICAgICAgIGxvYWRlci5sb2FkX2NsYWltcw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgVW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgojIGdlbSAndW5pY29ybicKCiMgVXNlIENhcGlzdHJhbm8gZm9yIGRlcGxveW1lbnQKIyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBidW5kbGUgZXhlYyByYWtlIGRvYzpyYWlscyBnZW5lcmF0ZXMgdGhlIEFQSSB1bmRlciBkb2MvYXBpLgo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL2V4ZWNqcyNyZWFkbWUgZm9yIG1vcmUgc3VwcG9ydGVkIHJ1bnRpbWVzCiMgZ2VtICd0aGVydWJ5cmFjZXInLCBwbGF0Zm9ybXM6IDpydWJ5CgojIFVzZSBqcXVlcnkgYXMgdGhlIEphdmFTY3JpcHQgbGlicmFyeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>201</text>
+        <text>89</text>
       </register>
     </registers>
     <search>
@@ -775,7 +783,6 @@
         <entry encoding="base64">XDxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
         <entry>66y</entry>
         <entry>5</entry>
         <entry>19</entry>
@@ -795,6 +802,7 @@
         <entry>92</entry>
         <entry>201</entry>
         <entry encoding="base64">JzwsJz4yMDE=</entry>
+        <entry>89</entry>
       </history-cmd>
       <history-expr />
       <history-input />
