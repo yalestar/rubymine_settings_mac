@@ -116,11 +116,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/event_logger.rb" timestamp="1503337837981">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/event_logger.rb" timestamp="1503342313151">
         <mark key="[" line="6" column="4" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/user_policy.rb" timestamp="1493161821819">
         <mark key="[" line="8" column="61" />
@@ -254,10 +251,10 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1503338132999">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1503342962387">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
@@ -286,10 +283,10 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1503339294856">
+      <file name="/fragment.rb" timestamp="1503343293980">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -561,12 +558,7 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1503338237186">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="1" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1503343246298" />
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful_renderable.rb" timestamp="1499811634900">
         <mark key="]" line="32" column="6" />
         <mark key="^" line="32" column="6" />
@@ -737,10 +729,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resource</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>resource</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
