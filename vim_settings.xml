@@ -116,6 +116,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/event_logger.rb" timestamp="1503425461199">
+        <mark key="[" line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/policies/user_policy.rb" timestamp="1493161821819">
         <mark key="[" line="8" column="61" />
       </file>
@@ -550,7 +553,6 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1503417699047" />
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful_renderable.rb" timestamp="1499811634900">
         <mark key="]" line="32" column="6" />
         <mark key="^" line="32" column="6" />
