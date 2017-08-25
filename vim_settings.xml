@@ -248,9 +248,10 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1503676722422">
-        <mark key="'" line="50" column="34" />
-        <mark key="[" line="109" column="28" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1503677077409">
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="14" />
+        <mark key="." line="70" column="14" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
@@ -525,7 +526,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1503442585050">
+      <file name="/Ruby Console" timestamp="1503676819719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -726,10 +727,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>resource</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>resource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
