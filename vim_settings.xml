@@ -345,6 +345,9 @@
       <file name="$USER_HOME$/dev/paladin/lib/sso_error.rb" timestamp="1495120894037">
         <mark key="[" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/ozzy/app/controllers/application_controller.rb" timestamp="1503943358911">
+        <mark key="[" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role.rb" timestamp="1486244331976">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -521,7 +524,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1503676819719">
+      <file name="/Ruby Console" timestamp="1503943066243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -534,6 +537,7 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/ozzy/app/models/concerns/special.rb" timestamp="1503943082653" />
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
