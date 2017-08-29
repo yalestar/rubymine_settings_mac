@@ -613,7 +613,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1504041434141" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1504042478915" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1498090154436">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
