@@ -252,7 +252,7 @@
         <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1504047483373">
-        <mark key="[" line="18" column="6" />
+        <mark key="[" line="19" column="6" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -404,6 +404,11 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/requests/anchor_fragment_request_spec.rb" timestamp="1494455904056">
         <mark key="[" line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/db/migrate/20170821171000_create_event_log.rb" timestamp="1504114312833">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1492632002913">
         <mark key="[" line="38" column="0" />
@@ -615,7 +620,6 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1504042478915" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1498090154436">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -734,11 +738,11 @@
       <jump line="59" column="34" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
