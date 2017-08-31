@@ -62,7 +62,12 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/infobutton_queries_controller.rb" timestamp="1504201477541" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/infobutton_queries_controller.rb" timestamp="1504217030538">
+        <mark key="[" line="74" column="9" />
+        <mark key="]" line="74" column="9" />
+        <mark key="." line="74" column="9" />
+        <mark key="^" line="86" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1492637464688">
         <mark key="[" line="80" column="6" />
         <mark key="]" line="80" column="6" />
@@ -388,7 +393,7 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1504201948444" />
+      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1504217353724" />
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -540,7 +545,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1504201719908">
+      <file name="/Ruby Console" timestamp="1504217038106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -622,7 +627,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504201889165">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504216972347">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
@@ -741,10 +746,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>analytics</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>analytics</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
