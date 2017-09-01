@@ -290,7 +290,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1504201638208">
+      <file name="/fragment.rb" timestamp="1504293510303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -393,8 +393,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1504220700536">
-        <mark key="[" line="24" column="76" />
+      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1504293664853">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
@@ -547,7 +550,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1504219993943">
+      <file name="/Ruby Console" timestamp="1504293617221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -747,8 +750,8 @@
       <jump line="59" column="34" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>analytics</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1dHMgIkhFUkUgQ09NUyBVUkwiCg==</text>
       </register>
       <register name="-" type="4">
         <text>analytics</text>
@@ -760,34 +763,34 @@
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1dHMgIkhFUkUgQ09NUyBVUkwiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICB0LnN0cmluZyA6cGFyYW1ldGVycwogIHQuc3RyaW5nIDpwYXJhbWV0ZXJfdmFsdWVzCiAgdC5zdHJpbmcgOmFjdGlvbg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICMgcmVmZXJlciA9IGdldF9vcHRpb25zKHJlcXVlc3QpCiAgICAjIHJlc291cmNlID0gZ2V0X3Jlc291cmNlKGxvY2F0aW9uKQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICMgcmVzY3VlIHNraXAgaXQKICAgICMgbm90IHN1cmUgaWYgdGhlcmUncyBhbnkgcmVhc29uIHRvIGZpbmQgaXQKICAgIHJlc291cmNlLnNlbmQoOmZpbmQsIGlkKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
