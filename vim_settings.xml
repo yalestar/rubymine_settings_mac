@@ -294,7 +294,6 @@
         <mark key="^" line="58" column="15" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/webmock_helper.rb" timestamp="1504305321122" />
       <file name="$USER_HOME$/dev/EXAMPLES/bonkers/spec/requests/widgets_spec.rb" timestamp="1494013092428">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="6" />
@@ -384,7 +383,7 @@
         <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1504306287311">
-        <mark key="[" line="66" column="9" />
+        <mark key="[" line="65" column="9" />
         <mark key="]" line="65" column="40" />
         <mark key="." line="65" column="40" />
         <mark key="^" line="65" column="40" />
