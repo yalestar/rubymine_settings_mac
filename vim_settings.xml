@@ -28,6 +28,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/errors.rb" timestamp="1504304929985" />
       <file name="$USER_HOME$/dev/paladin/config/routes.rb" timestamp="1493157704678">
         <mark key="[" line="108" column="28" />
         <mark key="]" line="106" column="16" />
@@ -46,7 +47,7 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/http_lib_adapters/net_http.rb" timestamp="1504303630297" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/http_lib_adapters/net_http.rb" timestamp="1504305772552" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phase_templates_controller.rb" timestamp="1483312363226">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="28" column="0" />
@@ -131,6 +132,7 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/spec_helper.rb" timestamp="1504305396170" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/user.rb" timestamp="1497203744873">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -235,6 +237,11 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1504306250941">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="68" />
@@ -287,13 +294,14 @@
         <mark key="^" line="58" column="15" />
         <mark key="." line="58" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/webmock_helper.rb" timestamp="1504305321122" />
       <file name="$USER_HOME$/dev/EXAMPLES/bonkers/spec/requests/widgets_spec.rb" timestamp="1494013092428">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1504301169889">
+      <file name="/fragment.rb" timestamp="1504305912823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -349,7 +357,7 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/request_pattern.rb" timestamp="1504303849580" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/request_pattern.rb" timestamp="1504305949986" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/custom.js" timestamp="1493143228280">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="198" column="6" />
@@ -375,11 +383,11 @@
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494538493056">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1495574526628">
-        <mark key="[" line="50" column="66" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1504306287311">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+        <mark key="^" line="65" column="40" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
@@ -536,7 +544,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/webmock.rb" timestamp="1504303536353" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/webmock.rb" timestamp="1504305848974" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492639990916">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -545,7 +553,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1504303646611">
+      <file name="/Ruby Console" timestamp="1504306296785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -620,6 +628,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/http_lib_adapters/httpclient_adapter.rb" timestamp="1504305250153" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504296337143">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -738,8 +747,8 @@
       <jump line="59" column="34" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>path</text>
@@ -751,7 +760,7 @@
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybF9oYXNoOiBsb2NhdGlvbl9oYXNoWzp1cmxIYXNoXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -760,25 +769,25 @@
         <text encoding="base64">ICAgICAgICAgIHVybF9oYXNoOiBsb2NhdGlvbl9oYXNoWzp1cmxIYXNoXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1dHMgIkhFUkUgQ09NUyBVUkwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVybF9oYXNoOiBsb2NhdGlvbl9oYXNoWzp1cmxIYXNoXSwK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1dHMgIkhFUkUgQ09NUyBVUkwiCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICB0LnN0cmluZyA6cGFyYW1ldGVycwogIHQuc3RyaW5nIDpwYXJhbWV0ZXJfdmFsdWVzCiAgdC5zdHJpbmcgOmFjdGlvbg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICMgcmVmZXJlciA9IGdldF9vcHRpb25zKHJlcXVlc3QpCiAgICAjIHJlc291cmNlID0gZ2V0X3Jlc291cmNlKGxvY2F0aW9uKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
