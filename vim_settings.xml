@@ -46,6 +46,7 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/http_lib_adapters/net_http.rb" timestamp="1504303630297" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phase_templates_controller.rb" timestamp="1483312363226">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="28" column="0" />
@@ -135,6 +136,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/request_signature_snippet.rb" timestamp="1504303478464" />
       <file name="$USER_HOME$/dev/paladin/config/env-default" timestamp="1493143640319">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -169,10 +171,10 @@
         <mark key="[" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1504301243656">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="24" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="24" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/interstitial_pages/index.html.erb" timestamp="1492732044267">
         <mark key="[" line="7" column="0" />
@@ -316,11 +318,6 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/import_load.rb" timestamp="1501532476038">
-        <mark key="]" line="22" column="6" />
-        <mark key="^" line="22" column="6" />
-        <mark key="." line="22" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="78" />
@@ -352,7 +349,7 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/path_transformer.rb" timestamp="1504301128288" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/request_pattern.rb" timestamp="1504303849580" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/custom.js" timestamp="1493143228280">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="198" column="6" />
@@ -539,6 +536,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib/webmock/webmock.rb" timestamp="1504303536353" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sessions_controller_spec.rb" timestamp="1492639990916">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -547,7 +545,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1504300401778">
+      <file name="/Ruby Console" timestamp="1504303646611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -576,11 +574,6 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful_renderable.rb" timestamp="1499811634900">
-        <mark key="]" line="32" column="6" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1504296371631">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -601,13 +594,6 @@
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/job_pipelines/claims_loader_job_spec.rb" timestamp="1501531793126">
-        <mark key="'" line="85" column="27" />
-        <mark key="[" line="85" column="23" />
-        <mark key="]" line="85" column="23" />
-        <mark key="." line="85" column="23" />
-        <mark key="^" line="88" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1504201328836">
         <mark key="[" line="0" column="0" />
@@ -843,6 +829,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
