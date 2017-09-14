@@ -305,6 +305,12 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa917fe9-4bfa-4352-b1b3-56b900eafe0a/console.sql" timestamp="1505418485325">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -594,7 +600,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504201328836">
+      <file name="/Dummy.txt" timestamp="1505418049785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -742,11 +748,11 @@
       <jump line="59" column="34" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OUTER</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>OUTER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -755,34 +761,34 @@
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ZSA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybF9oYXNoOiBsb2NhdGlvbl9oYXNoWzp1cmxIYXNoXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHVybF9oYXNoOiBsb2NhdGlvbl9oYXNoWzp1cmxIYXNoXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1dHMgIkhFUkUgQ09NUyBVUkwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVybF9oYXNoOiBsb2NhdGlvbl9oYXNoWzp1cmxIYXNoXSwK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1dHMgIkhFUkUgQ09NUyBVUkwiCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICB0LnN0cmluZyA6cGFyYW1ldGVycwogIHQuc3RyaW5nIDpwYXJhbWV0ZXJfdmFsdWVzCiAgdC5zdHJpbmcgOmFjdGlvbg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
