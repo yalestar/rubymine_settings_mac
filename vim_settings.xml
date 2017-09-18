@@ -295,7 +295,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1504305912823">
+      <file name="/fragment.rb" timestamp="1505772420583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -379,7 +379,13 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/parms.rb" timestamp="1505770271959" />
+      <file name="$USER_HOME$/dev/paladin/parms.rb" timestamp="1505772940632">
+        <mark key="'" line="27" column="46" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494538493056">
         <mark key="[" line="20" column="0" />
       </file>
@@ -551,7 +557,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1504309470512">
+      <file name="/Ruby Console" timestamp="1505772942645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -747,13 +753,14 @@
       <jump line="85" column="27" filename="$USER_HOME$/dev/paladin/spec/job_pipelines/claims_loader_job_spec.rb" />
       <jump line="75" column="25" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
       <jump line="59" column="34" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
+      <jump line="27" column="46" filename="$USER_HOME$/dev/paladin/parms.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OUTER</text>
+        <text encoding="base64">LCA6dXNlX3NzbCA9PiB0cnVl</text>
       </register>
       <register name="-" type="4">
-        <text>OUTER</text>
+        <text encoding="base64">LCA6dXNlX3NzbCA9PiB0cnVl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
