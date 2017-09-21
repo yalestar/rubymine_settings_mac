@@ -83,10 +83,10 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1496856866572">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1506013312482">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/role_view.rb" timestamp="1486346696015">
         <mark key="[" line="16" column="14" />
@@ -395,6 +395,7 @@
         <mark key="." line="65" column="40" />
         <mark key="^" line="65" column="40" />
       </file>
+      <file name="/searches_controller.rb" timestamp="1506013305624" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
