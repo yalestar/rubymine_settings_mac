@@ -295,7 +295,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1508274192660">
+      <file name="/fragment.rb" timestamp="1508884066043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -474,6 +474,7 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/cabinet_entries_controller.rb" timestamp="1508883802339" />
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/index.html.erb" timestamp="1477518764451">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="96" />
@@ -498,6 +499,7 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/cabinet_entry.rb" timestamp="1508884227148" />
       <file name="$USER_HOME$/dev/paladin/spec/features/admin_campaigns_spec.rb" timestamp="1495574636460">
         <mark key="[" line="0" column="0" />
       </file>
@@ -560,7 +562,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1508278188656">
+      <file name="/Ruby Console" timestamp="1508883807405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
