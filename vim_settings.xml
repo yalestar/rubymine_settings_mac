@@ -240,10 +240,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/mailmerge_tpc_campaign_opportunities.rb" timestamp="1510008454133">
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/dev/analytics/scripts/mailmerge_tpc_campaign_opportunities.rb" timestamp="1510008928791">
+        <mark key="[" line="110" column="15" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
@@ -303,7 +303,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1509924993711">
+      <file name="/fragment.rb" timestamp="1510008911988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -568,7 +568,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1509924976584">
+      <file name="/Ruby Console" timestamp="1510008738683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -767,11 +767,11 @@
       <jump line="27" column="46" filename="$USER_HOME$/dev/paladin/parms.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbl9uYW1lcyA9IHJvd1snY2FtcGFpZ25fbmFtZXMnXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIEtlcm5lbC5iaW5kaW5nLnByeQ==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgIEtlcm5lbC5iaW5kaW5nLnByeQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
