@@ -83,6 +83,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/controllers/helpers.rb" timestamp="1511198424508" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1508278185494">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -235,6 +236,7 @@
       <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1510956241041">
         <mark key="[" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1511198780127" />
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -301,8 +303,8 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1510956063975">
-        <mark key="[" line="0" column="93" />
+      <file name="/fragment.rb" timestamp="1511199850068">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
         <mark key="." line="0" column="93" />
       </file>
@@ -380,7 +382,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1510944171495" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1511199962070">
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="15" />
+        <mark key="." line="74" column="15" />
+        <mark key="^" line="73" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -459,7 +466,7 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1493157806057">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1511198324700">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="8" column="26" />
@@ -532,6 +539,8 @@
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/app/controllers/devise/invitations_controller.rb" timestamp="1511198500793" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/users_controller.rb" timestamp="1511199953420" />
       <file name="$USER_HOME$/dev/paladin/app/assets/stylesheets/lists.css" timestamp="1492552921499">
         <mark key="[" line="287" column="21" />
         <mark key="]" line="287" column="21" />
@@ -567,7 +576,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1510956257675">
+      <file name="/Ruby Console" timestamp="1511199562030">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -714,6 +723,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1511199345243" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -767,10 +777,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNraXBfbWF0Y2hfZWxpZ2liaWxpdHk6IHRydQ==</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNraXBfbWF0Y2hfZWxpZ2liaWxpdHk6IHRydQ==</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
