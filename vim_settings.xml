@@ -304,7 +304,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1511209361004">
+      <file name="/fragment.rb" timestamp="1511215639014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -383,7 +383,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1511209823136">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1511215470207">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -506,7 +506,7 @@
         <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1511204466269">
-        <mark key="[" line="226" column="104" />
+        <mark key="[" line="225" column="104" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487712466175">
         <mark key="[" line="3" column="18" />
@@ -577,7 +577,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1511209247478">
+      <file name="/Ruby Console" timestamp="1511215493975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
