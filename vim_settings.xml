@@ -171,6 +171,7 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/user_insurance_params.rb" timestamp="1511202857963" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1504301243656">
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="24" />
@@ -233,7 +234,7 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1510956241041">
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1511203684434">
         <mark key="[" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1511198780127" />
@@ -303,7 +304,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1511199850068">
+      <file name="/fragment.rb" timestamp="1511204575012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
         <mark key="." line="0" column="93" />
@@ -382,11 +383,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1511199962070">
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="15" />
-        <mark key="." line="74" column="15" />
-        <mark key="^" line="73" column="15" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1511204535878">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -466,7 +467,7 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1511198324700">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/invitations_controller.rb" timestamp="1511203222813">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="8" column="26" />
@@ -504,8 +505,8 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1492630539229">
-        <mark key="[" line="42" column="27" />
+      <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1511204466269">
+        <mark key="[" line="226" column="104" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487712466175">
         <mark key="[" line="3" column="18" />
@@ -539,7 +540,7 @@
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/app/controllers/devise/invitations_controller.rb" timestamp="1511198500793" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/app/controllers/devise/invitations_controller.rb" timestamp="1511203648999" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/admin/users_controller.rb" timestamp="1511199953420" />
       <file name="$USER_HOME$/dev/paladin/app/assets/stylesheets/lists.css" timestamp="1492552921499">
         <mark key="[" line="287" column="21" />
@@ -576,7 +577,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1511199562030">
+      <file name="/Ruby Console" timestamp="1511204472738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -626,7 +627,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510955741949">
+      <file name="/Dummy.txt" timestamp="1511203334069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -777,10 +778,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>U</text>
+        <text encoding="base64">ICAgICAgICAjIHVzZXIuYWNjZXB0X2ludml0YXRpb24hCiAgICAgICAgIyBhY2NlcHRfdXNlcl9pbnZpdGF0aW9uX3BhdGgoaW52aXRhdGlvbl90b2tlbjogdG9rZW4p</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>(User.first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -788,35 +789,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbl9uYW1lcyA9IHJvd1snY2FtcGFpZ25fbmFtZXMnXQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAjIHVzZXIuYWNjZXB0X2ludml0YXRpb24hCiAgICAgICAgIyBhY2NlcHRfdXNlcl9pbnZpdGF0aW9uX3BhdGgoaW52aXRhdGlvbl90b2tlbjogdG9rZW4p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbl9jb3VudCA9IHJvd1snY2FtcGFpZ25fY291bnQnXQo=</text>
+        <text encoding="base64">ICBjYW1wYWlnbl9uYW1lcyA9IHJvd1snY2FtcGFpZ25fbmFtZXMnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
+        <text encoding="base64">ICBjYW1wYWlnbl9jb3VudCA9IHJvd1snY2FtcGFpZ25fY291bnQnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYnllYnVnCg==</text>
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICMgYnllYnVnCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgcHV0cyBjb25kaXRpb25faWQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBwcmlvcl9jbGFpbXMgPSAw</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZSA7Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ZSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
