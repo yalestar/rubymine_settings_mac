@@ -83,7 +83,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/controllers/helpers.rb" timestamp="1511198424508" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/searches_controller.rb" timestamp="1508278185494">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -171,7 +170,6 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/user_insurance_params.rb" timestamp="1511202857963" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1504301243656">
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="24" />
@@ -237,7 +235,6 @@
       <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1511203684434">
         <mark key="[" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/lib/devise_invitable/model.rb" timestamp="1511198780127" />
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -304,7 +301,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1511215639014">
+      <file name="/fragment.rb" timestamp="1511221503433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -383,7 +380,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1511215470207" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -396,7 +392,7 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1494538493056">
+      <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1511221502190">
         <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1504306287311">
@@ -535,8 +531,6 @@
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.3/app/controllers/devise/invitations_controller.rb" timestamp="1511203648999" />
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/users_controller.rb" timestamp="1511199953420" />
       <file name="$USER_HOME$/dev/paladin/app/assets/stylesheets/lists.css" timestamp="1492552921499">
         <mark key="[" line="287" column="21" />
         <mark key="]" line="287" column="21" />
@@ -572,7 +566,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1511215493975">
+      <file name="/Ruby Console" timestamp="1511221820658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -719,7 +713,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/idps/localhost.identity_providers.yml" timestamp="1511199345243" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
