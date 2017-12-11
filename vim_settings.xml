@@ -441,6 +441,11 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1513036279467">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/features/support/content_strings.rb" timestamp="1493235579812">
         <mark key="[" line="47" column="63" />
       </file>
@@ -762,8 +767,8 @@
       <jump line="27" column="46" filename="$USER_HOME$/dev/paladin/parms.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@primary_member[@idp_attribute_map['gender_at_birth']]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>@primary_member[@idp_attribute_map['gender_at_birth']]</text>
@@ -775,34 +780,34 @@
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIGlmIGRpZmZlcmVudAogICAgIyBbdWldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRlZiBub19lbWFpbF9zYW1sX3Jlc3BvbnNlCiAgICBmaWxlID0gRmlsZS5vcGVuKCIje1JhaWxzLnJvb3R9L3NwZWMvZml4dHVyZXMvc2FtbC9zYW1sX3Jlc3BvbnNlX25vX2VtYWlsLnhtbCIsICdyJykKICAgIE9uZUxvZ2luOjpSdWJ5U2FtbDo6UmVzcG9uc2UubmV3KE5va29naXJpOjpYTUwoZmlsZSkudG9feG1sLCBzZXR0aW5nczogc2V0dGluZ3MpCiAgZW5k</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVzZXIuaW52aXRhdGlvbl9zZW50X2F0ID0gVGltZS56b25lLm5vdwo=</text>
+        <text encoding="base64">ICAgICMgdXBkYXRlIGlmIGRpZmZlcmVudAogICAgIyBbdWldCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAjIHVzZXIuYWNjZXB0X2ludml0YXRpb24hCiAgICAgICAgIyBhY2NlcHRfdXNlcl9pbnZpdGF0aW9uX3BhdGgoaW52aXRhdGlvbl90b2tlbjogdG9rZW4p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbl9uYW1lcyA9IHJvd1snY2FtcGFpZ25fbmFtZXMnXQo=</text>
+        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbl9jb3VudCA9IHJvd1snY2FtcGFpZ25fY291bnQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHVzZXIuaW52aXRhdGlvbl9zZW50X2F0ID0gVGltZS56b25lLm5vdwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAjIHVzZXIuYWNjZXB0X2ludml0YXRpb24hCiAgICAgICAgIyBhY2NlcHRfdXNlcl9pbnZpdGF0aW9uX3BhdGgoaW52aXRhdGlvbl90b2tlbjogdG9rZW4p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYnllYnVnCg==</text>
+        <text encoding="base64">ICBjYW1wYWlnbl9uYW1lcyA9IHJvd1snY2FtcGFpZ25fbmFtZXMnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
