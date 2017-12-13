@@ -62,12 +62,6 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/users/saml_controller_spec.rb" timestamp="1512154684403">
-        <mark key="[" line="81" column="6" />
-        <mark key="]" line="81" column="6" />
-        <mark key="^" line="76" column="29" />
-        <mark key="." line="81" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
         <mark key="]" line="79" column="26" />
@@ -232,11 +226,6 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1512158565316">
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa917fe9-4bfa-4352-b1b3-56b900eafe0a/console.sql" timestamp="1505418485325">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="6" column="7" />
@@ -309,7 +298,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1513031829412">
+      <file name="/fragment.rb" timestamp="1513206281385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -440,11 +429,6 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1513036279467">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/features/support/content_strings.rb" timestamp="1493235579812">
         <mark key="[" line="47" column="63" />
       </file>
@@ -567,7 +551,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1513036545758">
+      <file name="/Ruby Console" timestamp="1513206241322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -646,6 +630,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/helpers/cabinets_helper_spec.rb" timestamp="1513206431953">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504296337143">
         <mark key="[" line="3" column="27" />
@@ -766,11 +756,11 @@
       <jump line="27" column="46" filename="$USER_HOME$/dev/paladin/parms.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnk=</text>
       </register>
       <register name="-" type="4">
-        <text>@primary_member[@idp_attribute_map['gender_at_birth']]</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
