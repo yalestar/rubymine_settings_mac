@@ -123,6 +123,12 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/services/eligibility_match.rb" timestamp="1513271062615">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/user.rb" timestamp="1497203744873">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -226,6 +232,9 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1513272952193">
+        <mark key="[" line="139" column="41" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa917fe9-4bfa-4352-b1b3-56b900eafe0a/console.sql" timestamp="1505418485325">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="6" column="7" />
@@ -298,7 +307,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1513206281385">
+      <file name="/fragment.rb" timestamp="1513273124434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -371,6 +380,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1513272673607">
+        <mark key="[" line="102" column="7" />
+        <mark key="]" line="101" column="8" />
+        <mark key="." line="101" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -429,8 +443,9 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1513267570618">
-        <mark key="[" line="55" column="0" />
+      <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1513273152327">
+        <mark key="'" line="56" column="50" />
+        <mark key="[" line="18" column="7" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
@@ -556,7 +571,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1513268431327">
+      <file name="/Ruby Console" timestamp="1513273031731">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -753,13 +768,14 @@
       <jump line="75" column="25" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
       <jump line="59" column="34" filename="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" />
       <jump line="27" column="46" filename="$USER_HOME$/dev/paladin/parms.rb" />
+      <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -767,35 +783,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>unless reverse_match(matcher.matched.first, user.id)
+          ex = Exception.new(
+            &quot;Eligibility records found are for another \
+             matching user for User: #{user.id}&quot;)
+          # log_error(ex)
+          return false
+        end</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGRlZiBub19lbWFpbF9zYW1sX3Jlc3BvbnNlCiAgICBmaWxlID0gRmlsZS5vcGVuKCIje1JhaWxzLnJvb3R9L3NwZWMvZml4dHVyZXMvc2FtbC9zYW1sX3Jlc3BvbnNlX25vX2VtYWlsLnhtbCIsICdyJykKICAgIE9uZUxvZ2luOjpSdWJ5U2FtbDo6UmVzcG9uc2UubmV3KE5va29naXJpOjpYTUwoZmlsZSkudG9feG1sLCBzZXR0aW5nczogc2V0dGluZ3MpCiAgZW5k</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIGlmIGRpZmZlcmVudAogICAgIyBbdWldCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
+        <text encoding="base64">ICAgICMgdXBkYXRlIGlmIGRpZmZlcmVudAogICAgIyBbdWldCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIHVzZXIuaW52aXRhdGlvbl9zZW50X2F0ID0gVGltZS56b25lLm5vdwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAjIHVzZXIuYWNjZXB0X2ludml0YXRpb24hCiAgICAgICAgIyBhY2NlcHRfdXNlcl9pbnZpdGF0aW9uX3BhdGgoaW52aXRhdGlvbl90b2tlbjogdG9rZW4p</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjYW1wYWlnbl9uYW1lcyA9IHJvd1snY2FtcGFpZ25fbmFtZXMnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
