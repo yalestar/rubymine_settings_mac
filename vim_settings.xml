@@ -229,7 +229,6 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/idp_interpreters/regence_idp_interpreter.rb" timestamp="1513292754583" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa917fe9-4bfa-4352-b1b3-56b900eafe0a/console.sql" timestamp="1505418485325">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="6" column="7" />
@@ -312,6 +311,11 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/organization.rb" timestamp="1513374949164">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -375,7 +379,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1513292842445" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -759,8 +762,8 @@
       <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -771,7 +774,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>unless reverse_match(matcher.matched.first, user.id)
           ex = Exception.new(
             &quot;Eligibility records found are for another \
@@ -780,32 +792,23 @@
           return false
         end</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGRlZiBub19lbWFpbF9zYW1sX3Jlc3BvbnNlCiAgICBmaWxlID0gRmlsZS5vcGVuKCIje1JhaWxzLnJvb3R9L3NwZWMvZml4dHVyZXMvc2FtbC9zYW1sX3Jlc3BvbnNlX25vX2VtYWlsLnhtbCIsICdyJykKICAgIE9uZUxvZ2luOjpSdWJ5U2FtbDo6UmVzcG9uc2UubmV3KE5va29naXJpOjpYTUwoZmlsZSkudG9feG1sLCBzZXR0aW5nczogc2V0dGluZ3MpCiAgZW5k</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICMgdXBkYXRlIGlmIGRpZmZlcmVudAogICAgIyBbdWldCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVzZXIuaW52aXRhdGlvbl9zZW50X2F0ID0gVGltZS56b25lLm5vdwo=</text>
+        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAjIHVzZXIuYWNjZXB0X2ludml0YXRpb24hCiAgICAgICAgIyBhY2NlcHRfdXNlcl9pbnZpdGF0aW9uX3BhdGgoaW52aXRhdGlvbl90b2tlbjogdG9rZW4p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIyBlbHNpZiByZXNwb25zZS5hdHRyaWJ1dGVzW2F0dHJpYnV0ZV9tYXBbJ2VtYWlsJ11dLnByZXNlbnQ/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
