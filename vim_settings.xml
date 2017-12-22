@@ -284,6 +284,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/scripts/cep_monthly_stats.rb" timestamp="1513970197088">
+        <mark key="[" line="92" column="19" />
+        <mark key="]" line="92" column="22" />
+        <mark key="." line="92" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/rose.rb" timestamp="1501114414371">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="12" />
@@ -776,10 +781,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>sso_successful</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>sso_successful</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
