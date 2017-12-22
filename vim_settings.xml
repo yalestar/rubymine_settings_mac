@@ -306,7 +306,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1513722321372">
+      <file name="/fragment.rb" timestamp="1513971549501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -575,7 +575,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1513970494088">
+      <file name="/Ruby Console" timestamp="1513973376083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -645,10 +645,22 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/treatments_controller.rb" timestamp="1513971359626">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="9" />
+        <mark key="^" line="103" column="27" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_other_permissions.html.erb" timestamp="1486246703406">
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1513973288922">
+        <mark key="[" line="236" column="31" />
+        <mark key="]" line="236" column="31" />
+        <mark key="^" line="244" column="37" />
+        <mark key="." line="236" column="31" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1504309458930">
         <mark key="[" line="3" column="0" />
@@ -776,52 +788,81 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sso_successful</text>
+        <text>clincial_export</text>
       </register>
       <register name="-" type="4">
-        <text>sso_successful</text>
+        <text>clincial_export</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF9hY3Rpb246IGxvY2F0aW9uWzpldmVudEFjdGlvbl0gfHwgZW50cnlfaGFzaFs6YWN0aW9uXQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmVycm9yKG1zZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2tpcF91cGRhdGVfY29udGFjdDogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>def self.clincial_sql
+    %Q|
+      SELECT
+      t.id as 'Treatment ID',
+      c.name as 'Condition',
+      c.id as 'Condition ID',
+      t.primary_name AS 'treatment_name',
+      t.secondary_name,
+      t.brand_name,
+      t.created_at AS 'treatment_created',
+      t.updated_at AS 'treatment_updated',
+      tc.name AS 'treatment_category',
+      t.ancestry,
+      dl.name AS 'delivery_method',
+      t.medication,
+      CASE t.visible_state
+          WHEN 0 THEN 'work_in_progress'
+          WHEN 1 THEN 'cost_only'
+          WHEN 2 THEN 'published'
+      END AS 'visible_state',
+      t.price_classification,
+      t.prior_auth,
+      t.controlled_substance,
+      t.cost_frequency
+      FROM
+        treatments t
+            LEFT JOIN
+        treatment_categories tc ON t.treatment_category_id = tc.id
+            LEFT JOIN
+        delivery_methods dl ON t.delivery_method_id = dl.id
+        left join condition_treatments ct on t.id = ct.treatment_id
+        left join conditions c on c.id = ct.condition_id
+        limit 10;
+      |
+
+  end</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmVycm9yKG1zZykK</text>
       </register>
-      <register name="6" type="4">
-        <text>unless reverse_match(matcher.matched.first, user.id)
-          ex = Exception.new(
-            &quot;Eligibility records found are for another \
-             matching user for User: #{user.id}&quot;)
-          # log_error(ex)
-          return false
-        end</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc2tpcF91cGRhdGVfY29udGFjdDogdHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGRlZiBub19lbWFpbF9zYW1sX3Jlc3BvbnNlCiAgICBmaWxlID0gRmlsZS5vcGVuKCIje1JhaWxzLnJvb3R9L3NwZWMvZml4dHVyZXMvc2FtbC9zYW1sX3Jlc3BvbnNlX25vX2VtYWlsLnhtbCIsICdyJykKICAgIE9uZUxvZ2luOjpSdWJ5U2FtbDo6UmVzcG9uc2UubmV3KE5va29naXJpOjpYTUwoZmlsZSkudG9feG1sLCBzZXR0aW5nczogc2V0dGluZ3MpCiAgZW5k</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
