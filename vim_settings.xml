@@ -243,8 +243,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1514576383194">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1514577514730">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
@@ -578,7 +580,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1514576357499">
+      <file name="/Ruby Console" timestamp="1514577518150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -607,8 +609,8 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1504296371631">
-        <mark key="[" line="3" column="10" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1514577447242">
+        <mark key="[" line="78" column="38" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
@@ -628,7 +630,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513707247542">
+      <file name="/Dummy.txt" timestamp="1514577333510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -778,11 +780,11 @@
       <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -791,7 +793,7 @@
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -802,7 +804,16 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>def self.clincial_sql
     %Q|
       SELECT
@@ -840,20 +851,11 @@
 
   end</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmVycm9yKG1zZykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2tpcF91cGRhdGVfY29udGFjdDogdHJ1ZSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2tpcF91cGRhdGVfY29udGFjdDogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
