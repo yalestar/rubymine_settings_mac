@@ -243,6 +243,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1514576383194">
+        <mark key="[" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/new.html.erb" timestamp="1476920956142">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="68" />
@@ -384,11 +387,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1513722032668">
-        <mark key="[" line="189" column="38" />
-        <mark key="]" line="189" column="38" />
-        <mark key="^" line="66" column="12" />
-        <mark key="." line="189" column="38" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1514575868148">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="67" column="14" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
@@ -575,7 +578,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1513973376083">
+      <file name="/Ruby Console" timestamp="1514576357499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -645,22 +648,10 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/treatments_controller.rb" timestamp="1513971359626">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="9" />
-        <mark key="^" line="103" column="27" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_other_permissions.html.erb" timestamp="1486246703406">
         <mark key="[" line="39" column="58" />
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/treatment.rb" timestamp="1513973288922">
-        <mark key="[" line="236" column="31" />
-        <mark key="]" line="236" column="31" />
-        <mark key="^" line="244" column="37" />
-        <mark key="." line="236" column="31" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1504309458930">
         <mark key="[" line="3" column="0" />
@@ -788,10 +779,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clincial_export</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>clincial_export</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
