@@ -167,8 +167,8 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1504301243656">
-        <mark key="[" line="33" column="24" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1514578491492">
+        <mark key="[" line="39" column="5" />
         <mark key="]" line="33" column="24" />
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="24" />
@@ -273,7 +273,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1504309498659">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1514578819253">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
@@ -311,7 +311,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1513971549501">
+      <file name="/fragment.rb" timestamp="1514578142215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -389,23 +389,16 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1514575868148">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="67" column="14" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1514578716332">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
         <mark key="^" line="67" column="14" />
-        <mark key="." line="67" column="14" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/parms.rb" timestamp="1505772940632">
-        <mark key="'" line="27" column="46" />
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="27" column="32" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1511221502190">
         <mark key="[" line="20" column="0" />
@@ -580,7 +573,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1514577518150">
+      <file name="/Ruby Console" timestamp="1514579040566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -609,10 +602,11 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1514577447242">
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1514578743348">
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="8" />
+        <mark key="." line="72" column="8" />
+        <mark key="^" line="71" column="10" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -630,7 +624,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514577333510">
+      <file name="/Dummy.txt" timestamp="1514578882011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -780,11 +774,11 @@
       <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>action</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>action</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -793,19 +787,19 @@
         <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dfc2lnbmluX2V2ZW50CiAgICAgIG9wdGlvbnMgPQogICAgICAgIHsKICAgICAgICAgIGNhdGVnb3J5OiAnU2lnbkluJywKICAgICAgICAgIGFjdGlvbjogJ3NpZ25faW4nLAogICAgICAgICAgdGl0bGU6ICdUb3RhbGx5U2lnbmVkSW4nCiAgICAgICAgfQogICAgICBzZW5kX2FuYWx5dGljc19ldmVudChvcHRpb25zKQogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -813,49 +807,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>def self.clincial_sql
-    %Q|
-      SELECT
-      t.id as 'Treatment ID',
-      c.name as 'Condition',
-      c.id as 'Condition ID',
-      t.primary_name AS 'treatment_name',
-      t.secondary_name,
-      t.brand_name,
-      t.created_at AS 'treatment_created',
-      t.updated_at AS 'treatment_updated',
-      tc.name AS 'treatment_category',
-      t.ancestry,
-      dl.name AS 'delivery_method',
-      t.medication,
-      CASE t.visible_state
-          WHEN 0 THEN 'work_in_progress'
-          WHEN 1 THEN 'cost_only'
-          WHEN 2 THEN 'published'
-      END AS 'visible_state',
-      t.price_classification,
-      t.prior_auth,
-      t.controlled_substance,
-      t.cost_frequency
-      FROM
-        treatments t
-            LEFT JOIN
-        treatment_categories tc ON t.treatment_category_id = tc.id
-            LEFT JOIN
-        delivery_methods dl ON t.delivery_method_id = dl.id
-        left join condition_treatments ct on t.id = ct.treatment_id
-        left join conditions c on c.id = ct.condition_id
-        limit 10;
-      |
-
-  end</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUmFpbHMubG9nZ2VyLmVycm9yKG1zZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2tpcF91cGRhdGVfY29udGFjdDogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
