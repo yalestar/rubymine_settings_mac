@@ -284,10 +284,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/cep_monthly_stats.rb" timestamp="1513970197088">
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="92" column="22" />
-        <mark key="." line="92" column="19" />
+      <file name="$USER_HOME$/dev/analytics/scripts/cep_monthly_stats.rb" timestamp="1515000406337">
+        <mark key="[" line="92" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/rose.rb" timestamp="1501114414371">
         <mark key="[" line="12" column="12" />
@@ -573,7 +571,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1514579040566">
+      <file name="/Ruby Console" timestamp="1515000376723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -774,11 +772,11 @@
       <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>action</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -793,16 +791,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dfc2lnbmluX2V2ZW50CiAgICAgIG9wdGlvbnMgPQogICAgICAgIHsKICAgICAgICAgIGNhdGVnb3J5OiAnU2lnbkluJywKICAgICAgICAgIGFjdGlvbjogJ3NpZ25faW4nLAogICAgICAgICAgdGl0bGU6ICdUb3RhbGx5U2lnbmVkSW4nCiAgICAgICAgfQogICAgICBzZW5kX2FuYWx5dGljc19ldmVudChvcHRpb25zKQogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dfc2lnbmluX2V2ZW50CiAgICAgIG9wdGlvbnMgPQogICAgICAgIHsKICAgICAgICAgIGNhdGVnb3J5OiAnU2lnbkluJywKICAgICAgICAgIGFjdGlvbjogJ3NpZ25faW4nLAogICAgICAgICAgdGl0bGU6ICdUb3RhbGx5U2lnbmVkSW4nCiAgICAgICAgfQogICAgICBzZW5kX2FuYWx5dGljc19ldmVudChvcHRpb25zKQogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
