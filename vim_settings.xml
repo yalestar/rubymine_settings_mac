@@ -339,7 +339,12 @@
         <mark key="]" line="39" column="224" />
         <mark key="." line="39" column="224" />
       </file>
-      <file name="$USER_HOME$/dev/search_term_aggregator.rb" timestamp="1515112516531" />
+      <file name="$USER_HOME$/dev/search_term_aggregator.rb" timestamp="1515114682755">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="99" column="29" />
+        <mark key="." line="99" column="29" />
+        <mark key="^" line="99" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="78" />
@@ -572,7 +577,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1515112565493">
+      <file name="/Ruby Console" timestamp="1515114642138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -773,17 +778,17 @@
       <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NV['pdb'],</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQ==</text>
+        <text>NV['pdb'],</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBwYXNzd29yZDogRU5WWydwZGInXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
