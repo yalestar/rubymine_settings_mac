@@ -46,6 +46,11 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/algo/bub2.rb" timestamp="1516063802368">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/phase_templates_controller.rb" timestamp="1483312363226">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="28" column="0" />
@@ -581,7 +586,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1515115957216">
+      <file name="/Ruby Console" timestamp="1516063803521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -777,10 +782,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NV['pdb'],</text>
+        <text>|x|</text>
       </register>
       <register name="-" type="4">
-        <text>NV['pdb'],</text>
+        <text>|x|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
