@@ -172,11 +172,10 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516209174144">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="34" column="24" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516213065278">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/interstitial_pages/index.html.erb" timestamp="1492732044267">
         <mark key="[" line="7" column="0" />
@@ -314,7 +313,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1516208914773">
+      <file name="/fragment.rb" timestamp="1516211087508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -397,6 +396,12 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1516211002923">
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="10" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="76" column="10" />
       </file>
       <file name="$USER_HOME$/dev/paladin/search_agg_railsy.rb" timestamp="1515115952777">
         <mark key="[" line="39" column="12" />
@@ -581,7 +586,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1516208684055">
+      <file name="/Ruby Console" timestamp="1516210024655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -609,6 +614,12 @@
         <mark key="]" line="317" column="30" />
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1516210623765">
+        <mark key="[" line="80" column="7" />
+        <mark key="]" line="81" column="33" />
+        <mark key="^" line="81" column="33" />
+        <mark key="." line="81" column="33" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
@@ -777,10 +788,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EnvHelper.event_logger_enabled?</text>
+        <text>skip_current_user_check: true</text>
       </register>
       <register name="-" type="4">
-        <text>EnvHelper.event_logger_enabled?</text>
+        <text>skip_current_user_check: true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
