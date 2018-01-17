@@ -172,11 +172,11 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1514578491492">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="33" column="24" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="24" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516209174144">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/interstitial_pages/index.html.erb" timestamp="1492732044267">
         <mark key="[" line="7" column="0" />
@@ -314,7 +314,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1516207043044">
+      <file name="/fragment.rb" timestamp="1516208914773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -581,7 +581,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1516206778464">
+      <file name="/Ruby Console" timestamp="1516208684055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -651,7 +651,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1504309458930">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1516208910597">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -777,10 +777,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|x|</text>
+        <text>EnvHelper.event_logger_enabled?</text>
       </register>
       <register name="-" type="4">
-        <text>|x|</text>
+        <text>EnvHelper.event_logger_enabled?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
