@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516213065278">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516215894271">
         <mark key="[" line="29" column="43" />
         <mark key="]" line="29" column="67" />
         <mark key="." line="29" column="67" />
@@ -247,7 +247,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1514577514730">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/sessions_controller.rb" timestamp="1516215575857">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -313,7 +313,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1516211087508">
+      <file name="/fragment.rb" timestamp="1516216105883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -397,7 +397,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1516211002923">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/users/saml_controller.rb" timestamp="1516215598411">
         <mark key="[" line="76" column="10" />
         <mark key="]" line="76" column="10" />
         <mark key="^" line="75" column="19" />
@@ -586,7 +586,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1516210024655">
+      <file name="/Ruby Console" timestamp="1516215933871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -615,8 +615,8 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1516210623765">
-        <mark key="[" line="80" column="7" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1516215910444">
+        <mark key="[" line="89" column="0" />
         <mark key="]" line="81" column="33" />
         <mark key="^" line="81" column="33" />
         <mark key="." line="81" column="33" />
@@ -662,10 +662,10 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1516208910597">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1516216101058">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504296337143">
         <mark key="[" line="3" column="27" />
@@ -708,7 +708,7 @@
         <mark key="]" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1504201249966">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/piwik_event_job.rb" timestamp="1516215765774">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
@@ -788,10 +788,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>skip_current_user_check: true</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>skip_current_user_check: true</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -800,7 +800,7 @@
         <text encoding="base64">ICBwYXNzd29yZDogRU5WWydwZGInXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVSSShwYXJhbXNbOmhyZWZdKS5wYXRoLm1hdGNoKC9eXC9hZG1pblwvLiovKS5uaWw/Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -809,16 +809,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dfc2lnbmluX2V2ZW50CiAgICAgIG9wdGlvbnMgPQogICAgICAgIHsKICAgICAgICAgIGNhdGVnb3J5OiAnU2lnbkluJywKICAgICAgICAgIGFjdGlvbjogJ3NpZ25faW4nLAogICAgICAgICAgdGl0bGU6ICdUb3RhbGx5U2lnbmVkSW4nCiAgICAgICAgfQogICAgICBzZW5kX2FuYWx5dGljc19ldmVudChvcHRpb25zKQogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dfc2lnbmluX2V2ZW50CiAgICAgIG9wdGlvbnMgPQogICAgICAgIHsKICAgICAgICAgIGNhdGVnb3J5OiAnU2lnbkluJywKICAgICAgICAgIGFjdGlvbjogJ3NpZ25faW4nLAogICAgICAgICAgdGl0bGU6ICdUb3RhbGx5U2lnbmVkSW4nCiAgICAgICAgfQogICAgICBzZW5kX2FuYWx5dGljc19ldmVudChvcHRpb25zKQogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nX3NpZ25pbl9ldmVudAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
