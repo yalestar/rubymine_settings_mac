@@ -177,10 +177,10 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516215894271">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="67" />
-        <mark key="." line="29" column="67" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1516308721813">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/interstitial_pages/index.html.erb" timestamp="1492732044267">
         <mark key="[" line="7" column="0" />
@@ -318,7 +318,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1516216105883">
+      <file name="/fragment.rb" timestamp="1516308581386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -585,7 +585,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1516215933871">
+      <file name="/Ruby Console" timestamp="1516307839915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -780,11 +780,11 @@
       <jump line="56" column="50" filename="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9wdHMgPQo=</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
