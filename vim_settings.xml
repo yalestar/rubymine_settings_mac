@@ -272,7 +272,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1516207306646">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1516989794578">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
@@ -308,7 +308,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1516841320065">
+      <file name="/fragment.rb" timestamp="1516989856154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -414,7 +414,7 @@
       <file name="/__dummy.as" timestamp="1506040361906">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/path_transform.rb" timestamp="1516988684878" />
+      <file name="$USER_HOME$/dev/paladin/app/models/path_transform.rb" timestamp="1516990321324" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -576,7 +576,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1516988618482">
+      <file name="/Ruby Console" timestamp="1516990232567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -621,7 +621,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516903790691">
+      <file name="/Dummy.txt" timestamp="1516989824862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -646,7 +646,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1516216101058">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1516989841406">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
