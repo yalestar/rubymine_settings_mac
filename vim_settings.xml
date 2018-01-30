@@ -578,7 +578,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1516993282053">
+      <file name="/Ruby Console" timestamp="1517271274038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -710,6 +710,11 @@
         <mark key="]" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/stripper.rb" timestamp="1517271443782">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/clinical_lists/_clinical_rules.html.haml" timestamp="1478552230673">
         <mark key="[" line="6" column="84" />
         <mark key="]" line="6" column="84" />
@@ -774,11 +779,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>published</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>published</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -787,31 +792,31 @@
         <text encoding="base64">ICAgICAgeyBjb25kaXRpb25faWQ6IG1hdGNoLmlkIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHJlYXRtZW50X2lkID0gbWF0Y2hpbmdfdHJlYXRtZW50KHRlcm0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY29uZGl0aW9uX2lkID0gbWF0Y2hpbmdfY29uZGl0aW9uKHRlcm0pCg==</text>
+        <text encoding="base64">ICAgICMgdHJlYXRtZW50X2lkID0gbWF0Y2hpbmdfdHJlYXRtZW50KHRlcm0pCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICMgY29uZGl0aW9uX2lkID0gbWF0Y2hpbmdfY29uZGl0aW9uKHRlcm0pCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CgogIGRlZiBtYXRjaGluZ19jb25kaXRpb24odGVybSkKCiAgZW5kCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgZGVmIG1hdGNoaW5nX3RyZWF0bWVudCh0ZXJtKQogICAgIyBUcmVhdG1lbnQud2hlcmUoCiAgICAjICAgcHJpbWFyeV9uYW1lOiB0ZXJtCiAgICAjICkKICBlbmQ=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG9wdHMgPQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFVSSShwYXJhbXNbOmhyZWZdKS5wYXRoLm1hdGNoKC9eXC9hZG1pblwvLiovKS5uaWw/Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVSSShwYXJhbXNbOmhyZWZdKS5wYXRoLm1hdGNoKC9eXC9hZG1pblwvLiovKS5uaWw/Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
