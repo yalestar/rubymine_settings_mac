@@ -308,7 +308,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1517359373987">
+      <file name="/fragment.rb" timestamp="1517873808005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -578,7 +578,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1517359585315">
+      <file name="/Ruby Console" timestamp="1517873744734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -686,6 +686,11 @@
         <mark key="." line="123" column="30" />
         <mark key="^" line="123" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/skrunk.rb" timestamp="1517873827889">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/cms_pages/about.html.erb" timestamp="1499896579515">
         <mark key="[" line="60" column="25" />
       </file>
@@ -779,11 +784,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>published</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>published</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -792,34 +797,34 @@
         <text encoding="base64">ICAgICAgeyBjb25kaXRpb25faWQ6IG1hdGNoLmlkIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdHJlYXRtZW50X2lkID0gbWF0Y2hpbmdfdHJlYXRtZW50KHRlcm0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgY29uZGl0aW9uX2lkID0gbWF0Y2hpbmdfY29uZGl0aW9uKHRlcm0pCg==</text>
+        <text encoding="base64">ICAgICMgdHJlYXRtZW50X2lkID0gbWF0Y2hpbmdfdHJlYXRtZW50KHRlcm0pCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICMgY29uZGl0aW9uX2lkID0gbWF0Y2hpbmdfY29uZGl0aW9uKHRlcm0pCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CgogIGRlZiBtYXRjaGluZ19jb25kaXRpb24odGVybSkKCiAgZW5kCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgZGVmIG1hdGNoaW5nX3RyZWF0bWVudCh0ZXJtKQogICAgIyBUcmVhdG1lbnQud2hlcmUoCiAgICAjICAgcHJpbWFyeV9uYW1lOiB0ZXJtCiAgICAjICkKICBlbmQ=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG9wdHMgPQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFVSSShwYXJhbXNbOmhyZWZdKS5wYXRoLm1hdGNoKC9eXC9hZG1pblwvLiovKS5uaWw/Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVSSShwYXJhbXNbOmhyZWZdKS5wYXRoLm1hdGNoKC9eXC9hZG1pblwvLiovKS5uaWw/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
