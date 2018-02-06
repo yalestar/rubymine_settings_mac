@@ -252,10 +252,10 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/database.yml" timestamp="1493142867230">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/dev/paladin/config/database.yml" timestamp="1517874849669">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
@@ -308,7 +308,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1517873808005">
+      <file name="/fragment.rb" timestamp="1517875049516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -578,7 +578,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1517873744734">
+      <file name="/Ruby Console" timestamp="1517875071710">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -686,10 +686,10 @@
         <mark key="." line="123" column="30" />
         <mark key="^" line="123" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/skrunk.rb" timestamp="1517873827889">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/dev/paladin/skrunk.rb" timestamp="1517875076240">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/cms_pages/about.html.erb" timestamp="1499896579515">
         <mark key="[" line="60" column="25" />
@@ -784,11 +784,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
+      <register name="&quot;" type="4">
+        <text>paladin_development</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>paladin_development</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
