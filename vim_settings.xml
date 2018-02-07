@@ -258,10 +258,10 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/save_search_log_job.rb" timestamp="1518036593307">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/save_search_log_job.rb" timestamp="1518039424774">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
@@ -586,7 +586,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1518036480611">
+      <file name="/Ruby Console" timestamp="1518038959230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
