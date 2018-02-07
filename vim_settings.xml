@@ -258,10 +258,10 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/save_search_log_job.rb" timestamp="1518039424774">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/save_search_log_job.rb" timestamp="1518042001280">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
@@ -313,7 +313,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1518036552933">
+      <file name="/fragment.rb" timestamp="1518042082236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -586,7 +586,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1518039590269">
+      <file name="/Ruby Console" timestamp="1518042022034">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -598,6 +598,11 @@
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/save_search_log_job_spec.rb" timestamp="1518042147843">
+        <mark key="[" line="62" column="65" />
+        <mark key="]" line="62" column="65" />
+        <mark key="." line="62" column="65" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
@@ -793,10 +798,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVzb3VyY2UgPSA=</text>
+        <text>(:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzb3VyY2UgPSA=</text>
+        <text>(:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
