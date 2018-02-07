@@ -258,8 +258,10 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/save_search_log_job.rb" timestamp="1518034771489">
-        <mark key="[" line="18" column="5" />
+      <file name="$USER_HOME$/dev/paladin/app/jobs/save_search_log_job.rb" timestamp="1518036593307">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
@@ -311,7 +313,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1517875049516">
+      <file name="/fragment.rb" timestamp="1518036552933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -584,7 +586,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1518034581645">
+      <file name="/Ruby Console" timestamp="1518036480611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -629,7 +631,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518034273039">
+      <file name="/Dummy.txt" timestamp="1518036619224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -791,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>paladin_development</text>
+        <text encoding="base64">cmVzb3VyY2UgPSA=</text>
       </register>
       <register name="-" type="4">
-        <text>paladin_development</text>
+        <text encoding="base64">cmVzb3VyY2UgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
