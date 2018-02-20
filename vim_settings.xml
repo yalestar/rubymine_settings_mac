@@ -311,7 +311,8 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1518042082236">
+      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/commands/authenticate_user.rb" timestamp="1519088192762" />
+      <file name="/fragment.rb" timestamp="1519088147895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -326,10 +327,14 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/commands/authorize_api_request.rb" timestamp="1519087822178" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9f04f689-0461-49c9-ad33-4eb257c2094a/console.sql" timestamp="1519087886624">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/_other_treatments.html.haml" timestamp="1493927927324">
         <mark key="[" line="26" column="16" />
@@ -378,12 +383,16 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/149617af-941b-45c5-93c6-8f5542bc959e/console.sql" timestamp="1519087854197">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/custom.js" timestamp="1493143228280">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="198" column="6" />
         <mark key="^" line="198" column="6" />
         <mark key="." line="198" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/controllers/application_controller.rb" timestamp="1519087916921" />
       <file name="$USER_HOME$/dev/paladin/lib/sso_error.rb" timestamp="1495120894037">
         <mark key="[" line="2" column="21" />
       </file>
@@ -449,6 +458,7 @@
       <file name="$USER_HOME$/dev/paladin/spec/requests/anchor_fragment_request_spec.rb" timestamp="1494455904056">
         <mark key="[" line="38" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/controllers/authentication_controller.rb" timestamp="1519088110401" />
       <file name="$USER_HOME$/dev/paladin/db/migrate/20170821171000_create_event_log.rb" timestamp="1504114312833">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -584,7 +594,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1518216176931">
+      <file name="/Ruby Console" timestamp="1519087781803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
