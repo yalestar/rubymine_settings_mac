@@ -281,6 +281,7 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/scripts/tpc_campaign_opportunities.rb" timestamp="1519257399035" />
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -311,7 +312,6 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/commands/authenticate_user.rb" timestamp="1519088192762" />
       <file name="/fragment.rb" timestamp="1519088147895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -327,7 +327,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/commands/authorize_api_request.rb" timestamp="1519087822178" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -392,7 +391,6 @@
         <mark key="^" line="198" column="6" />
         <mark key="." line="198" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/controllers/application_controller.rb" timestamp="1519087916921" />
       <file name="$USER_HOME$/dev/paladin/lib/sso_error.rb" timestamp="1495120894037">
         <mark key="[" line="2" column="21" />
       </file>
@@ -458,7 +456,6 @@
       <file name="$USER_HOME$/dev/paladin/spec/requests/anchor_fragment_request_spec.rb" timestamp="1494455904056">
         <mark key="[" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/api-app/app/controllers/authentication_controller.rb" timestamp="1519088110401" />
       <file name="$USER_HOME$/dev/paladin/db/migrate/20170821171000_create_event_log.rb" timestamp="1504114312833">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -594,7 +591,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1519087781803">
+      <file name="/Ruby Console" timestamp="1519257084422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
