@@ -131,6 +131,12 @@
       <file name="$USER_HOME$/dev/paladin/app/services/eligibility_match.rb" timestamp="1513271062615">
         <mark key="[" line="28" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/scripts/fi_opportunties.rb" timestamp="1519680044399">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="79" column="13" />
+        <mark key="^" line="79" column="13" />
+        <mark key="." line="79" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/models/user.rb" timestamp="1497203744873">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -311,7 +317,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1519322679782">
+      <file name="/fragment.rb" timestamp="1519679719285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -590,7 +596,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1519322588927">
+      <file name="/Ruby Console" timestamp="1519679850366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -624,7 +630,6 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/opportunity_job.rb" timestamp="1519322456397" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
@@ -743,7 +748,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/opportunity_match.rb" timestamp="1519322657247" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
@@ -798,8 +802,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(:</text>
@@ -811,34 +815,34 @@
         <text encoding="base64">ICAgICAgeyBjb25kaXRpb25faWQ6IG1hdGNoLmlkIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdHJlYXRtZW50X2lkID0gbWF0Y2hpbmdfdHJlYXRtZW50KHRlcm0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY29uZGl0aW9uX2lkID0gbWF0Y2hpbmdfY29uZGl0aW9uKHRlcm0pCg==</text>
+        <text encoding="base64">ICAgICMgdHJlYXRtZW50X2lkID0gbWF0Y2hpbmdfdHJlYXRtZW50KHRlcm0pCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICMgY29uZGl0aW9uX2lkID0gbWF0Y2hpbmdfY29uZGl0aW9uKHRlcm0pCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CgogIGRlZiBtYXRjaGluZ19jb25kaXRpb24odGVybSkKCiAgZW5kCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgZGVmIG1hdGNoaW5nX3RyZWF0bWVudCh0ZXJtKQogICAgIyBUcmVhdG1lbnQud2hlcmUoCiAgICAjICAgcHJpbWFyeV9uYW1lOiB0ZXJtCiAgICAjICkKICBlbmQ=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdHMgPQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFVSSShwYXJhbXNbOmhyZWZdKS5wYXRoLm1hdGNoKC9eXC9hZG1pblwvLiovKS5uaWw/Cg==</text>
+        <text encoding="base64">ICAgIG9wdHMgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
