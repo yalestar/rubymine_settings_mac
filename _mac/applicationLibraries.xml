@@ -950,6 +950,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, rbenv: 2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
@@ -978,6 +988,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta14/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta14/ext" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.11, rbenv: 2.3.5) [gem]">
@@ -3502,6 +3520,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/rubocop-rspec-1.16.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/rubocop-rspec-1.16.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/bin" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta10, rbenv: 2.3.5) [gem]">
