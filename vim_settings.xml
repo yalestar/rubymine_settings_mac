@@ -18,6 +18,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/services/claims_by_automated_campaign_spec.rb" timestamp="1519930785627" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -311,11 +312,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1519775890856">
+      <file name="/fragment.rb" timestamp="1519930905584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/services/claims_by_automated_campaign.rb" timestamp="1519931466092" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
@@ -381,7 +383,7 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/automated_campaign_job.rb" timestamp="1519775336550" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/automated_campaign_job.rb" timestamp="1519931389115" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/149617af-941b-45c5-93c6-8f5542bc959e/console.sql" timestamp="1519087854197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -562,7 +564,6 @@
         <mark key="." line="287" column="21" />
         <mark key="^" line="286" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/automated_campaign_task.rake" timestamp="1519775137650" />
       <file name="$USER_HOME$/dev/paladin/app/models/search_results.rb" timestamp="1496701579937">
         <mark key="[" line="63" column="92" />
         <mark key="]" line="63" column="42" />
@@ -592,7 +593,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1519775101789">
+      <file name="/Ruby Console" timestamp="1519931427468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -744,7 +745,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/opportunity_match.rb" timestamp="1519776399085" />
     </filemarks>
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/dev/paladin/app/controllers/admin/campaigns_controller.rb" />
