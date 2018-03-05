@@ -704,6 +704,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/carrierwave-i18n-0.2.0/rails" />
       </SOURCES>
     </library>
+    <library name="cassandra-driver (v3.2.2, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.5.6, rbenv: 2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/childprocess-0.5.6/lib" />
@@ -1996,6 +2006,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/2.3.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/2.3.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="ione (v1.2.4, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ione-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/ione-1.2.4/lib" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.7.0, rbenv: 2.3.5) [gem]">

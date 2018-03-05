@@ -18,7 +18,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/claims_by_automated_campaign_spec.rb" timestamp="1519930785627" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -154,7 +153,7 @@
       <file name="$USER_HOME$/dev/opper.rb" timestamp="1509578056517">
         <mark key="[" line="75" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1501800373651">
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/claims_loader_job.rb" timestamp="1520274871950">
         <mark key="[" line="40" column="37" />
         <mark key="]" line="40" column="37" />
         <mark key="." line="40" column="37" />
@@ -312,12 +311,11 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1519930905584">
+      <file name="/fragment.rb" timestamp="1520274958462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/claims_by_automated_campaign.rb" timestamp="1519931466092" />
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
@@ -383,7 +381,6 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/automated_campaign_job.rb" timestamp="1519931389115" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/149617af-941b-45c5-93c6-8f5542bc959e/console.sql" timestamp="1519087854197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -593,7 +590,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1519931427468">
+      <file name="/Ruby Console" timestamp="1520274879653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -638,7 +635,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519775078910">
+      <file name="/Dummy.txt" timestamp="1520274963704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
