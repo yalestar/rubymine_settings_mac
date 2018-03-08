@@ -312,10 +312,10 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1520466893051">
+      <file name="/fragment.rb" timestamp="1520469071682">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -351,10 +351,10 @@
         <mark key="." line="99" column="29" />
         <mark key="^" line="99" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/org_benefit_finder.rb" timestamp="1520465936226">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/paladin/lib/org_benefit_finder.rb" timestamp="1520469076735">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
@@ -601,7 +601,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1520465982506">
+      <file name="/Ruby Console" timestamp="1520468855597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -808,10 +808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>binding.pry</text>
+        <text>cla</text>
       </register>
       <register name="-" type="4">
-        <text>binding.pry</text>
+        <text>cla</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
