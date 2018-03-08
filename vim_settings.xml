@@ -67,7 +67,6 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib/active_record/relation.rb" timestamp="1520466838395" />
       <file name="$USER_HOME$/dev/paladin/lib/search_results.rb" timestamp="1475523124503">
         <mark key="[" line="79" column="26" />
         <mark key="]" line="79" column="26" />
@@ -306,6 +305,11 @@
         <mark key="^" line="58" column="15" />
         <mark key="." line="58" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/oopos.rb" timestamp="1520549487457">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/bonkers/spec/requests/widgets_spec.rb" timestamp="1494013092428">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="6" />
@@ -350,11 +354,6 @@
         <mark key="]" line="99" column="29" />
         <mark key="." line="99" column="29" />
         <mark key="^" line="99" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/lib/org_benefit_finder.rb" timestamp="1520469076735">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
@@ -601,7 +600,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1520468855597">
+      <file name="/Ruby Console" timestamp="1520549481867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -807,8 +806,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cla</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cla</text>
@@ -820,34 +819,34 @@
         <text encoding="base64">ICAgICAgeyBjb25kaXRpb25faWQ6IG1hdGNoLmlkIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
+        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmlsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
