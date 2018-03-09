@@ -536,7 +536,11 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1518034357701">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunity_savings.rb" timestamp="1520629617428" />
+      <file name="$USER_HOME$/dev/analytics/scripts/opportunity_savings.rb" timestamp="1520630297993">
+        <mark key="[" line="111" column="36" />
+        <mark key="]" line="111" column="36" />
+        <mark key="." line="111" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="24" />
@@ -807,11 +811,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>cla</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
