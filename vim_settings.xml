@@ -266,7 +266,6 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib/active_record/connection_adapters/mysql2_adapter.rb" timestamp="1521063881088" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
         <mark key="[" line="109" column="54" />
         <mark key="]" line="7" column="0" />
@@ -349,6 +348,12 @@
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/scripts/crossserve_opportunity_savings.rb" timestamp="1521130194240">
+        <mark key="[" line="129" column="36" />
+        <mark key="]" line="129" column="36" />
+        <mark key="^" line="130" column="1" />
+        <mark key="." line="129" column="36" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
@@ -541,11 +546,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1518034357701">
         <mark key="[" line="4" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunity_savings.rb" timestamp="1520630297993">
-        <mark key="[" line="111" column="36" />
-        <mark key="]" line="111" column="36" />
-        <mark key="." line="111" column="36" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
@@ -813,46 +813,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeyBjb25kaXRpb25faWQ6IG1hdGNoLmlkIH0K</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlOiBFTlZbJ3BkYiddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmlsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgbmlsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
