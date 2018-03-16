@@ -321,7 +321,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1521153429477">
+      <file name="/fragment.rb" timestamp="1521221939454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -349,11 +349,11 @@
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/crossserve_opportunity_savings.rb" timestamp="1521153433037">
-        <mark key="[" line="129" column="36" />
-        <mark key="]" line="129" column="36" />
-        <mark key="^" line="130" column="1" />
-        <mark key="." line="129" column="36" />
+      <file name="$USER_HOME$/dev/analytics/scripts/crossserve_opportunity_savings.rb" timestamp="1521221860001">
+        <mark key="[" line="92" column="2" />
+        <mark key="]" line="92" column="12" />
+        <mark key="^" line="92" column="12" />
+        <mark key="." line="92" column="12" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/roles/_quick_view_details.html.erb" timestamp="1486245974068">
         <mark key="[" line="39" column="224" />
@@ -606,7 +606,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1521153389610">
+      <file name="/Ruby Console" timestamp="1521221864529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -813,10 +813,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>latest_claim_supply</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>latest_claim_supply</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
