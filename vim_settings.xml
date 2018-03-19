@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/paladin/app/models/condition_treatment.rb" timestamp="1497396505615">
@@ -321,7 +321,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1521221939454">
+      <file name="/fragment.rb" timestamp="1521499056906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -606,7 +606,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1521496758191">
+      <file name="/Ruby Console" timestamp="1521498670704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -640,11 +640,11 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/rails_crossserve.rb" timestamp="1521496800331">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="178" column="0" />
+      <file name="$USER_HOME$/dev/paladin/rails_crossserve.rb" timestamp="1521499080168">
+        <mark key="[" line="157" column="57" />
+        <mark key="]" line="159" column="2" />
+        <mark key="^" line="159" column="2" />
+        <mark key="." line="159" column="2" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/_application_config.rb" timestamp="1492559445750">
         <mark key="[" line="1" column="0" />
@@ -819,10 +819,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>puts &quot;GHOSTS ON THE ROAD&quot;</text>
+        <text>.first</text>
       </register>
       <register name="-" type="4">
-        <text>puts &quot;GHOSTS ON THE ROAD&quot;</text>
+        <text>.first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -831,31 +831,31 @@
         <text encoding="base64">ICAgIGRhdGFiYXNlOiBFTlZbJ3BkYiddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICByZXN1bHRzJi5maXJzdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmlsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
