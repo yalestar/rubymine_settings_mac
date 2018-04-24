@@ -3124,6 +3124,68 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-model-0.1.9/gemfiles" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-model (v2.0.1@aa6591, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-model/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-model/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-model/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-model/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-model (v5.0.0, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-model-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-model-5.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-model-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-model-5.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-model (v5.0.2@3b6f27, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-model/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-model/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-model/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-model/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-persistence (v2.0.1, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-persistence-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-persistence-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-persistence (v2.0.1@aa6591, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-persistence/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-persistence/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-persistence (v5.0.0, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-persistence-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-persistence-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-persistence (v5.0.2@3b6f27, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-persistence/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-persistence/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-rails (v0.1.9, rbenv: 2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/elasticsearch-rails-0.1.9/lib" />
@@ -3146,6 +3208,30 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-rails-0.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v2.0.1@aa6591, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-rails/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-aa659145f886/elasticsearch-rails/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v5.0.2, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-rails-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/elasticsearch-rails-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v5.0.2@3b6f27, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-rails/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/bundler/gems/elasticsearch-rails-3b6f27d371c8/elasticsearch-rails/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v2.0.0, rbenv: 2.3.5) [gem]">
