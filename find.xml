@@ -2,40 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.erb</mask>
-      <mask>*.haml.erb</mask>
-      <mask>*.html.haml</mask>
-      <mask>*.haml</mask>
-      <mask>*.ham</mask>
-      <mask>*.ha</mask>
-      <mask>*.h</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.rb\</mask>
-      <mask>*.r</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.rb</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.rb" />
   </component>
 </application>
