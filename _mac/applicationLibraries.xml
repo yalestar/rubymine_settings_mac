@@ -1018,6 +1018,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.2, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="contentful (v2.1.0, rbenv: 2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/contentful-2.1.0/coverage" />
@@ -3176,6 +3184,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mechanize (v2.7.6, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/mechanize-2.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/mechanize-2.7.6/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, rbenv: 2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
@@ -3436,6 +3452,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/mysql2-0.3.18/support" />
       </SOURCES>
     </library>
+    <library name="net-http-digest_auth (v1.4.1, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4.1/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4.1/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-http-persistent (v3.0.0, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/net-http-persistent-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/net-http-persistent-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, rbenv: 2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
@@ -3534,6 +3568,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ntlm-http (v0.1.1, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/ntlm-http-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/ntlm-http-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="oauth2 (v1.3.0, rbenv: 2.3.6) [gem]">
@@ -5782,6 +5824,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/minitest" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/webmock-1.22.6/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="webrobots (v0.1.2, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/webrobots-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/webrobots-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.2, rbenv: 2.3.6) [gem]">
