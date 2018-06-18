@@ -2056,6 +2056,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/faker-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.8.7, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/faker-1.8.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/faker-1.8.7/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.9.1, rbenv: 2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/faraday-0.9.1/lib" />
