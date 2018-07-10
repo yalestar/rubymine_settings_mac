@@ -2544,6 +2544,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/grape-swagger-representable-0.1.3/bin" />
       </SOURCES>
     </library>
+    <library name="grape_on_rails_routes (v0.3.2, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/grape_on_rails_routes-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/grape_on_rails_routes-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="gyoku (v1.3.1, rbenv: 2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
