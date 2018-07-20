@@ -6004,6 +6004,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/wine_bouncer-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="wine_bouncer (v1.0.2, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/wine_bouncer-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/wine_bouncer-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="xpath (v2.0.0, rbenv: 2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/xpath-2.0.0/lib" />
