@@ -470,11 +470,10 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/rubomo/blaster.rb" timestamp="1533699291194">
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="67" column="22" />
-        <mark key="^" line="67" column="22" />
-        <mark key="." line="67" column="22" />
+      <file name="$USER_HOME$/dev/rubomo/blaster.rb" timestamp="1533700298385">
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="17" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1513273152327">
         <mark key="[" line="18" column="7" />
