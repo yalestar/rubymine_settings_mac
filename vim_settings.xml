@@ -391,7 +391,9 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/automated_campaign_job.rb" timestamp="1533858085802" />
+      <file name="$USER_HOME$/dev/paladin/app/job_pipelines/automated_campaign_job.rb" timestamp="1533917788511">
+        <mark key="[" line="67" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/custom.js" timestamp="1493143228280">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="198" column="6" />
