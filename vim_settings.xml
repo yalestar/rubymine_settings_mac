@@ -77,11 +77,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/jobs/flag_user_latest_eligibility_job_spec.rb" timestamp="1534805160357">
-        <mark key="[" line="15" column="96" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/flag_user_latest_eligibility_job_spec.rb" timestamp="1534805160357" />
       <file name="$USER_HOME$/dev/paladin/spec/fixtures/idps/test.identity_providers.yml" timestamp="1491592578414">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -241,10 +237,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/flag_user_latest_eligibility_job.rb" timestamp="1534805297471">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/flag_user_latest_eligibility_job.rb" timestamp="1534806202305">
         <mark key="[" line="13" column="63" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
@@ -325,7 +322,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1534805314757">
+      <file name="/fragment.rb" timestamp="1534806196298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="0" />
@@ -425,6 +422,7 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib/active_record/persistence.rb" timestamp="1534806231380" />
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1511221502190">
         <mark key="[" line="20" column="0" />
       </file>
@@ -618,7 +616,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1534805348280">
+      <file name="/Ruby Console" timestamp="1534806091844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
