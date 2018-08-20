@@ -77,6 +77,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/flag_user_latest_eligibility_job_spec.rb" timestamp="1534805160357">
+        <mark key="[" line="15" column="96" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/fixtures/idps/test.identity_providers.yml" timestamp="1491592578414">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -236,6 +241,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/flag_user_latest_eligibility_job.rb" timestamp="1534805297471">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -315,7 +325,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1534364821557">
+      <file name="/fragment.rb" timestamp="1534805314757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="0" />
@@ -608,7 +618,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1534364708878">
+      <file name="/Ruby Console" timestamp="1534805348280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -744,6 +754,7 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/Gemfile.lock" timestamp="1534805014697" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/149617af-941b-45c5-93c6-8f5542bc959e/console.sql" timestamp="1519087854197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -826,8 +837,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>esource_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text>esource_</text>
@@ -839,34 +850,34 @@
         <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAgPSBnZXRfdmlzaXRzKHVzZXJfaWQsIHZpc2l0b3JfaWQpCg==</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXN1bHRzJi5maXJzdAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIHAgPSBnZXRfdmlzaXRzKHVzZXJfaWQsIHZpc2l0b3JfaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICByZXN1bHRzJi5maXJzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBiaW5kaW5nLnByeQ==</text>
+        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
