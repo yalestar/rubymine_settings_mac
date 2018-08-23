@@ -239,7 +239,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1504306250941">
+      <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1535057665067">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -315,7 +315,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1534806196298">
+      <file name="/fragment.rb" timestamp="1535057535832">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="0" />
@@ -415,7 +415,6 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib/active_record/persistence.rb" timestamp="1534889778903" />
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1511221502190">
         <mark key="[" line="20" column="0" />
       </file>
@@ -448,7 +447,6 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/piwik_request.rb" timestamp="1534890847078" />
       <file name="$USER_HOME$/dev/paladin/app/views/users/sso_registrations/register.html.haml" timestamp="1492031208388">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -610,7 +608,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1534889677366">
+      <file name="/Ruby Console" timestamp="1535057609845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
