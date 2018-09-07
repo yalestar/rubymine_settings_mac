@@ -226,7 +226,7 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/base_matcher.rb" timestamp="1536343115232" />
+      <file name="$USER_HOME$/dev/paladin/app/services/base_matcher.rb" timestamp="1536362511188" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="62" />
@@ -316,7 +316,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1536358139316">
+      <file name="/fragment.rb" timestamp="1536362180092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="0" />
@@ -336,7 +336,11 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/eligibility_matcher_spec.rb" timestamp="1536343111719" />
+      <file name="$USER_HOME$/dev/paladin/spec/services/eligibility_matcher_spec.rb" timestamp="1536361748072">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/_other_treatments.html.haml" timestamp="1493927927324">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
@@ -611,7 +615,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1536358106336">
+      <file name="/Ruby Console" timestamp="1536361777864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -830,7 +834,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>esource_</text>
@@ -842,34 +846,34 @@
         <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgPSBnZXRfdmlzaXRzKHVzZXJfaWQsIHZpc2l0b3JfaWQpCg==</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXN1bHRzJi5maXJzdAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIHAgPSBnZXRfdmlzaXRzKHVzZXJfaWQsIHZpc2l0b3JfaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICByZXN1bHRzJi5maXJzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEFORCBncm91cF9pZGVudGlmaWVyICN7ZXNzZW50aWFsfSBJTiAoU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgIChyeGdyb3VwKQogICAgICAgIEZST00KICAgICAgICAgICAgaGVhbHRoX3BsYW5fYmVuZWZpdHMp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuZmlyc3QK</text>
       </register>
       <register name=":" type="4">
         <text>89</text>
