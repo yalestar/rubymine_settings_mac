@@ -61,7 +61,6 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/eligibility_matcher.rb" timestamp="1536621196339" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sso_registrations_controller_spec.rb" timestamp="1492471340657">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="28" />
@@ -77,6 +76,12 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/flag_user_latest_eligibility_job_spec.rb" timestamp="1536687713376">
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/fixtures/idps/test.identity_providers.yml" timestamp="1491592578414">
         <mark key="[" line="65" column="0" />
@@ -227,7 +232,6 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/base_matcher.rb" timestamp="1536621256720" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="62" />
@@ -237,6 +241,12 @@
         <mark key="[" line="44" column="34" />
         <mark key="]" line="44" column="34" />
         <mark key="." line="44" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/flag_user_latest_eligibility_job.rb" timestamp="1536687966776">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
@@ -317,7 +327,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1536621285292">
+      <file name="/fragment.rb" timestamp="1536688343437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -337,7 +347,6 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/services/eligibility_matcher_spec.rb" timestamp="1536621323319" />
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/_other_treatments.html.haml" timestamp="1493927927324">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
@@ -611,7 +620,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1536622425438">
+      <file name="/Ruby Console" timestamp="1536688286975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
