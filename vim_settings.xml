@@ -187,7 +187,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/lib/tasks/flag_latest_eligibility.rake" timestamp="1536961250744" />
       <file name="$USER_HOME$/dev/paladin/spec/elasticsearch/condition_index_spec.rb" timestamp="1478821969223">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -321,7 +320,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1536688343437">
+      <file name="/fragment.rb" timestamp="1537219733450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -410,6 +409,9 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/organization_users_controller.rb" timestamp="1537219654291">
+        <mark key="[" line="87" column="22" />
       </file>
       <file name="$USER_HOME$/dev/paladin/search_agg_railsy.rb" timestamp="1515115952777">
         <mark key="[" line="39" column="12" />
@@ -614,7 +616,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1536688286975">
+      <file name="/Ruby Console" timestamp="1537219662056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
