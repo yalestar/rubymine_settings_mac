@@ -617,7 +617,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1539122860364">
+      <file name="/Ruby Console" timestamp="1539124848415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -698,6 +698,7 @@
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/user_file.rb" timestamp="1539124679818" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504296337143">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
