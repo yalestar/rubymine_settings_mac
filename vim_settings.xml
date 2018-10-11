@@ -61,7 +61,6 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/eligibility_matcher.rb" timestamp="1539125400943" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sso_registrations_controller_spec.rb" timestamp="1492471340657">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="28" />
@@ -204,9 +203,6 @@
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/layouts/application.html.erb" timestamp="1494816554111">
         <mark key="[" line="13" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/admin/organizations_controller.rb" timestamp="1518216458513">
-        <mark key="[" line="18" column="48" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/lib/treatment_cost_importer.rb" timestamp="1485455533122">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -232,7 +228,6 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/eligibility_loose_match_job.rb" timestamp="1539123296861" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="62" />
@@ -618,7 +613,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1539124848415">
+      <file name="/Ruby Console" timestamp="1539292806730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -699,7 +694,6 @@
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/user_file.rb" timestamp="1539124679818" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504296337143">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
