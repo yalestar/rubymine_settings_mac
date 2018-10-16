@@ -228,6 +228,7 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/eligibility_loose_match_job.rb" timestamp="1539729835568" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/views/admin/users/_form.html.erb" timestamp="1481488801058">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="62" />
@@ -235,9 +236,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/app/jobs/campaign_opportunity_job.rb" timestamp="1539729092626">
         <mark key="[" line="7" column="59" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/rxnorm_load/rxn_sat_rewriter.rb" timestamp="1479422744094">
         <mark key="[" line="44" column="34" />
