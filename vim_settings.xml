@@ -259,7 +259,7 @@
         <mark key="]" line="1" column="68" />
         <mark key="." line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/config/database.yml" timestamp="1538178354662">
+      <file name="$USER_HOME$/dev/paladin/config/database.yml" timestamp="1540245842897">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
@@ -613,7 +613,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1539978553187">
+      <file name="/Ruby Console" timestamp="1540245845885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -842,11 +842,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>prd</text>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text>prd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
