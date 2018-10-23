@@ -61,7 +61,6 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/pbms/prime.rb" timestamp="1540247876506" />
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sso_registrations_controller_spec.rb" timestamp="1492471340657">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="28" />
@@ -560,6 +559,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1518034357701">
         <mark key="[" line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/helpers/telium_helper.rb" timestamp="1540315482152" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="24" />
@@ -619,7 +619,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1540247567686">
+      <file name="/Ruby Console" timestamp="1540315318228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -654,6 +654,7 @@
         <mark key="^" line="240" column="11" />
         <mark key="." line="317" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/application_controller.rb" timestamp="1540315550446" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/database.yml" timestamp="1481909097502">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
