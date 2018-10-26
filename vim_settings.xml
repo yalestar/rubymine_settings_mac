@@ -244,7 +244,6 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/pbms/medimpact.rb" timestamp="1540505901178" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1535057665067">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -275,7 +274,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1516992200380">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1540511475758">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
@@ -321,7 +320,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1540505940138">
+      <file name="/fragment.rb" timestamp="1540510438867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -335,6 +334,12 @@
         <mark key="[" line="32" column="5" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1540510550485">
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
@@ -441,9 +446,6 @@
       </file>
       <file name="/__dummy.as" timestamp="1506040361906">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/path_transform.rb" timestamp="1517359029851">
-        <mark key="[" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/db/migrate/20161207052412_create_role_views.rb" timestamp="1486244035002">
         <mark key="[" line="2" column="18" />
@@ -614,7 +616,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1540505721030">
+      <file name="/Ruby Console" timestamp="1540511377285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -626,11 +628,6 @@
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/controllers/pbm_api_controller_spec.rb" timestamp="1540504311190">
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/factories/clinical_list_rule_factory.rb" timestamp="1477695787330">
         <mark key="[" line="6" column="0" />
@@ -849,10 +846,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
-        <text>prd</text>
+        <text>/?#{params.to_query}&quot;,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -861,7 +858,7 @@
         <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -870,25 +867,25 @@
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
+        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1dHMgb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhbXBhaWduX2lkID0gb3B0aW9uc1s6Y2FtcGFpZ25faWRdCg==</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb3VudCA9IGV4cGVjdGVkWzFdCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgb3B0aW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBqb2JfaGFuZGxlciA9IGV4cGVjdGVkWzBdCg==</text>
+        <text encoding="base64">ICAgIGNhbXBhaWduX2lkID0gb3B0aW9uc1s6Y2FtcGFpZ25faWRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICBjb3VudCA9IGV4cGVjdGVkWzFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgam9icyA9IERlbGF5ZWQ6OkJhY2tlbmQ6OkFjdGl2ZVJlY29yZDo6Sm9iLmFsbC5tYXAgZG8gfGpvYnwK</text>
+        <text encoding="base64">ICBqb2JfaGFuZGxlciA9IGV4cGVjdGVkWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
