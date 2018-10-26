@@ -275,7 +275,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1540593368509">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1540595927332">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
@@ -697,7 +697,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1540593283503">
+      <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1540595891641">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
