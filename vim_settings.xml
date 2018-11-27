@@ -223,6 +223,7 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/posts_controller.rb" timestamp="1543345306013" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -363,7 +364,6 @@
         <mark key="." line="99" column="29" />
         <mark key="^" line="99" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/helpers/campaigns_helper.rb" timestamp="1542240452329" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/index.html.erb" timestamp="1488933103111">
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="78" />
@@ -578,9 +578,6 @@
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/campaign.rb" timestamp="1542150085516">
-        <mark key="[" line="276" column="31" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/stylesheets/lists.css" timestamp="1492552921499">
         <mark key="[" line="287" column="21" />
         <mark key="]" line="287" column="21" />
@@ -616,7 +613,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1542240395998">
+      <file name="/Ruby Console" timestamp="1543345113410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
