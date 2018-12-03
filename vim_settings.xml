@@ -223,7 +223,6 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/posts_controller.rb" timestamp="1543345306013" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/config/locales/devise_invitable.en.yml" timestamp="1479074921041">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -316,7 +315,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1542240486431">
+      <file name="$USER_HOME$/dev/paladin/spec/models/rxn_sat_spec.rb" timestamp="1543875802142">
+        <mark key="[" line="82" column="114" />
+        <mark key="]" line="82" column="114" />
+        <mark key="." line="82" column="114" />
+      </file>
+      <file name="/fragment.rb" timestamp="1543875598356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -369,6 +373,7 @@
         <mark key="]" line="2" column="78" />
         <mark key="." line="2" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/rxn_sat.rb" timestamp="1543875654778" />
       <file name="$USER_HOME$/dev/paladin/app/views/conditions/details/_treatments.html.haml" timestamp="1493928040610">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
@@ -613,7 +618,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1543345113410">
+      <file name="/Ruby Console" timestamp="1543875679361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -849,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@campaig</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>@campaig</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
