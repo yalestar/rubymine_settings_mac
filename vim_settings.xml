@@ -182,6 +182,7 @@
       <file name="$USER_HOME$/dev/paladin/features/admin_condition_treatment.feature" timestamp="1494263582188">
         <mark key="[" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/analytics_log.rb" timestamp="1544219258448" />
       <file name="$USER_HOME$/dev/paladin/app/views/interstitial_pages/index.html.erb" timestamp="1492732044267">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -274,11 +275,17 @@
       <file name="$USER_HOME$/dev/paladin/app/models/concerns/contentful.rb" timestamp="1499811523576">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1540595927332">
+      <file name="$USER_HOME$/dev/paladin/app/jobs/event_log_job.rb" timestamp="1544219236360">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544219196985">
+        <mark key="[" line="47" column="51" />
+        <mark key="]" line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="48" column="31" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
@@ -315,9 +322,9 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1543875598356">
+      <file name="/fragment.rb" timestamp="1544219285032">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
@@ -612,7 +619,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1543954500606">
+      <file name="/Ruby Console" timestamp="1544219130673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -848,10 +855,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
