@@ -283,7 +283,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544553026301" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544553819436">
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="120" column="4" />
+        <mark key="." line="120" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -319,7 +323,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1544487735180">
+      <file name="/fragment.rb" timestamp="1544553847747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -555,8 +559,8 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1518034357701">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/ncp_mas.rb" timestamp="1544552885446">
-        <mark key="[" line="4" column="39" />
+      <file name="$USER_HOME$/dev/paladin/app/models/ncp_mas.rb" timestamp="1544553843795">
+        <mark key="[" line="7" column="6" />
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
@@ -620,7 +624,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1544552627350">
+      <file name="/Ruby Console" timestamp="1544553915769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -856,10 +860,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>np_string</text>
+        <text encoding="base64">bmNwZHBfaWQgPSA=</text>
       </register>
       <register name="-" type="4">
-        <text>np_string</text>
+        <text encoding="base64">bmNwZHBfaWQgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
