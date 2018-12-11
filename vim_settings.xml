@@ -61,6 +61,9 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/services/pbms/prime.rb" timestamp="1544487459065">
+        <mark key="[" line="121" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/users/sso_registrations_controller_spec.rb" timestamp="1492471340657">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="28" />
@@ -244,6 +247,7 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/services/pbms/medimpact.rb" timestamp="1544487531180" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1535057665067">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -280,11 +284,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544482879156">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="53" column="13" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544488132229">
+        <mark key="[" line="101" column="24" />
+        <mark key="]" line="101" column="24" />
+        <mark key="^" line="101" column="6" />
+        <mark key="." line="101" column="24" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
@@ -321,7 +325,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1544484262884">
+      <file name="/fragment.rb" timestamp="1544487735180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -557,6 +561,9 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1518034357701">
         <mark key="[" line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/models/ncp_mas.rb" timestamp="1544488093948">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="24" />
@@ -616,7 +623,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1544483021213">
+      <file name="/Ruby Console" timestamp="1544488205410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -851,17 +858,17 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluZF9ieShuYXRpb25hbF9wcm92aWRlcl9pZDogbnBpKSYubmNwZHBfcHJvdmlkZXJfaWQ=</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text encoding="base64">ZmluZF9ieShuYXRpb25hbF9wcm92aWRlcl9pZDogbnBpKSYubmNwZHBfcHJvdmlkZXJfaWQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnRBY3Rpb246IHBhcmFtc1s6ZXZlbnRBY3Rpb25dLAo=</text>
+        <text encoding="base64">ICAgICAgIyBuY3BkcF9pZCA9IE5jcE1hcy5maW5kX2J5KG5hdGlvbmFsX3Byb3ZpZGVyX2lkOiBucGkpJi5uY3BkcF9wcm92aWRlcl9pZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
