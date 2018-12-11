@@ -247,7 +247,6 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/services/pbms/medimpact.rb" timestamp="1544487531180" />
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1535057665067">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -284,12 +283,7 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544488132229">
-        <mark key="[" line="101" column="24" />
-        <mark key="]" line="101" column="24" />
-        <mark key="^" line="101" column="6" />
-        <mark key="." line="101" column="24" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544553026301" />
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -561,8 +555,11 @@
       <file name="$USER_HOME$/dev/paladin/app/models/search_log.rb" timestamp="1518034357701">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/ncp_mas.rb" timestamp="1544488093948">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/dev/paladin/app/models/ncp_mas.rb" timestamp="1544552885446">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/mailers/new_user_mailer.rb" timestamp="1481484057586">
         <mark key="[" line="4" column="24" />
@@ -623,7 +620,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1544488205410">
+      <file name="/Ruby Console" timestamp="1544552627350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -859,10 +856,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmluZF9ieShuYXRpb25hbF9wcm92aWRlcl9pZDogbnBpKSYubmNwZHBfcHJvdmlkZXJfaWQ=</text>
+        <text>np_string</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluZF9ieShuYXRpb25hbF9wcm92aWRlcl9pZDogbnBpKSYubmNwZHBfcHJvdmlkZXJfaWQ=</text>
+        <text>np_string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
