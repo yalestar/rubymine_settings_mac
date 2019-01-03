@@ -283,6 +283,9 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1546556041848">
+        <mark key="[" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -333,10 +336,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1544219987859">
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1546556037601" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -430,12 +430,6 @@
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1511221502190">
         <mark key="[" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1546539993547">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="65" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa917fe9-4bfa-4352-b1b3-56b900eafe0a/console.sql" timestamp="1505418485325">
         <mark key="[" line="4" column="7" />
@@ -619,7 +613,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1546539998203">
+      <file name="/Ruby Console" timestamp="1546555861466">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
