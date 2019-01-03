@@ -283,11 +283,6 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1544553819436">
-        <mark key="[" line="120" column="4" />
-        <mark key="]" line="120" column="4" />
-        <mark key="." line="120" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -323,7 +318,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1544553847747">
+      <file name="/fragment.rb" timestamp="1546540031695">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -436,10 +431,10 @@
       <file name="$USER_HOME$/dev/paladin/lib/saml_helper.rb" timestamp="1511221502190">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1504306287311">
-        <mark key="[" line="65" column="9" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
+      <file name="$USER_HOME$/dev/paladin/spec/rails_helper.rb" timestamp="1546539993547">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
         <mark key="^" line="65" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa917fe9-4bfa-4352-b1b3-56b900eafe0a/console.sql" timestamp="1505418485325">
@@ -624,7 +619,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1544553915769">
+      <file name="/Ruby Console" timestamp="1546539998203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -859,8 +854,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmNwZHBfaWQgPSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmNwZHBfaWQgPSA=</text>
@@ -878,28 +873,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1dHMgb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbXBhaWduX2lkID0gb3B0aW9uc1s6Y2FtcGFpZ25faWRdCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgb3B0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
