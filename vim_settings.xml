@@ -283,12 +283,6 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/pbm_api_controller.rb" timestamp="1546557151616">
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="90" column="30" />
-        <mark key="." line="90" column="30" />
-        <mark key="^" line="90" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -339,7 +333,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/static_pages_controller.rb" timestamp="1546556037601" />
       <file name="$USER_HOME$/dev/pitcrew_v_next/app/controllers/admin/permissions_controller.rb" timestamp="1486246070180">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="47" />
@@ -535,10 +528,10 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1513721733101">
-        <mark key="[" line="211" column="45" />
-        <mark key="]" line="211" column="45" />
-        <mark key="." line="211" column="45" />
+      <file name="$USER_HOME$/dev/paladin/app/models/user.rb" timestamp="1546626987810">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="." line="325" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/features/ratings.feature" timestamp="1487712466175">
         <mark key="[" line="3" column="18" />
@@ -851,8 +844,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PbmPharmacyFinder.new(current_user.pbm_api_type, params[:npi]).ncpdp_provider_id if params[:npi]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>PbmPharmacyFinder.new(current_user.pbm_api_type, params[:npi]).ncpdp_provider_id if params[:npi]</text>
@@ -873,25 +866,25 @@
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1dHMgb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiBlamVjdCBpZiBjYW1wYWlnbiBpc24ndCBhdXRvbWF0ZWQgYW5kIHB1Ymxpc2hlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
