@@ -697,6 +697,7 @@
         <mark key="]" line="39" column="165" />
         <mark key="." line="39" column="165" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/faraday_middleware-aws-signers-v4-0.1.9/lib/faraday_middleware/request/aws_signers_v4.rb" timestamp="1551982724091" />
       <file name="$USER_HOME$/dev/paladin/app/controllers/event_logger_controller.rb" timestamp="1540595891641">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
