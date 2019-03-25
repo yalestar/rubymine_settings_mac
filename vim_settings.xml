@@ -477,6 +477,11 @@
         <mark key="^" line="68" column="16" />
         <mark key="." line="68" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/remo/app/controllers/users_controller.rb" timestamp="1553544986345">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/db/migrate/20170821171000_create_event_log.rb" timestamp="1504114312833">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -618,7 +623,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1552604482668">
+      <file name="/Ruby Console" timestamp="1553544717069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -858,8 +863,8 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAjIEdFVCAvdXNlcnMvMQogICMgR0VUIC91c2Vycy8xLmpzb24=</text>
       </register>
       <register name="-" type="4">
         <text>PbmPharmacyFinder.new(current_user.pbm_api_type, params[:npi]).ncpdp_provider_id if params[:npi]</text>
@@ -870,8 +875,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIyBuY3BkcF9pZCA9IE5jcE1hcy5maW5kX2J5KG5hdGlvbmFsX3Byb3ZpZGVyX2lkOiBucGkpJi5uY3BkcF9wcm92aWRlcl9pZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAjIEdFVCAvdXNlcnMvMQogICMgR0VUIC91c2Vycy8xLmpzb24=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -886,16 +891,16 @@
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdXNlcjoge25hbWU6ICJOb2VsIiwgZW1haWw6ICJub2VsQG5vZWxyYXBwaW4uY29tIn0sCg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
