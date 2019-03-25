@@ -108,7 +108,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/controllers/users/registrations_controller.rb" timestamp="1553545536750" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/lib/rails/commands/commands_tasks.rb" timestamp="1553549659678" />
       <file name="$USER_HOME$/dev/paladin/app/views/user_ratings/_save.js.erb" timestamp="1488925311524">
         <mark key="[" line="8" column="52" />
         <mark key="]" line="8" column="52" />
@@ -262,9 +262,9 @@
         <mark key="." line="1" column="68" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/database.yml" timestamp="1553545489838">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/controllers/user_ratings_controller_spec.rb" timestamp="1490052554314">
@@ -286,6 +286,11 @@
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/rubystubs23/object.rb" timestamp="1553549665795">
+        <mark key="[" line="920" column="5" />
+        <mark key="]" line="920" column="5" />
+        <mark key="." line="920" column="5" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/models/clinical_list_line.rb" timestamp="1476898728101">
         <mark key="[" line="4" column="0" />
@@ -322,7 +327,6 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/devise-3.5.10/app/controllers/devise/registrations_controller.rb" timestamp="1553545625130" />
       <file name="/fragment.rb" timestamp="1553545618927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -866,10 +870,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
