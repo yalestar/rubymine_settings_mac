@@ -250,10 +250,10 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/spec/jobs/user_file_job_spec.rb" timestamp="1556682731934">
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/user_file_job_spec.rb" timestamp="1556683902488">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="82" column="20" />
+        <mark key="." line="82" column="20" />
       </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1535057665067">
         <mark key="[" line="11" column="0" />
