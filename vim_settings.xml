@@ -250,6 +250,11 @@
       <file name="$USER_HOME$/dev/paladin/app/models/event_part.rb" timestamp="1504046866045">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/paladin/spec/jobs/user_file_job_spec.rb" timestamp="1556682731934">
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/config/initializers/elasticsearch.rb" timestamp="1535057665067">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -427,7 +432,6 @@
         <mark key="]" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/paladin/app/jobs/snomed_core_download_job.rb" timestamp="1555294176315" />
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -629,7 +633,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1555293265340">
+      <file name="/Ruby Console" timestamp="1556682738406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -726,6 +730,9 @@
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/paladin/app/jobs/user_file_job.rb" timestamp="1556682867707">
+        <mark key="[" line="13" column="99" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/controllers/concerns/piwik.rb" timestamp="1504296337143">
         <mark key="[" line="3" column="27" />
@@ -870,10 +877,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
