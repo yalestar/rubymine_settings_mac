@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Downloads/httparty-master/examples/google.rb" timestamp="1552604469079">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1559857070580">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="158" column="39" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1559860369438">
+        <mark key="[" line="215" column="14" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
@@ -634,7 +634,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1559856965436">
+      <file name="/Ruby Console" timestamp="1559860299228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -877,47 +877,47 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHJ5LWJ5ZWJ1ZycK</text>
+      <register name="&quot;" type="4">
+        <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIyBuY3BkcF9pZCA9IE5jcE1hcy5maW5kX2J5KG5hdGlvbmFsX3Byb3ZpZGVyX2lkOiBucGkpJi5uY3BkcF9wcm92aWRlcl9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZ1sncmVjaXBpZW50c3RhdGUnXSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHJ5LWJ5ZWJ1ZycK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgIyBwdXRzICJcdHRhcmdldDogI3t0YXJnWydpZCddfSI=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJ4X2NvdW50LAo=</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5LWJ5ZWJ1ZycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsdF9uYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJ4X2NvdW50LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcmdfbmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGFsdF9uYW1lLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlbmVmaXRfY29kZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHRhcmdfbmFtZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsaWdfdHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGJlbmVmaXRfY29kZSwK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVsaWdfdHlwZSwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHN1ZmZpeCwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAjIEdFVCAvdXNlcnMvMQogICMgR0VUIC91c2Vycy8xLmpzb24=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
