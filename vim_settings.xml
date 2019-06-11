@@ -21,9 +21,8 @@
       <file name="$USER_HOME$/Downloads/httparty-master/examples/google.rb" timestamp="1552604469079">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1560211288008">
-        <mark key="[" line="35" column="13" />
-        <mark key="^" line="145" column="0" />
+      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1560213057322">
+        <mark key="[" line="112" column="76" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
@@ -330,10 +329,10 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1560206003993">
+      <file name="/fragment.rb" timestamp="1560213470086">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dev/paladin/app/assets/javascripts/clinical_lists.js" timestamp="1477522581002">
         <mark key="[" line="5" column="10" />
@@ -632,7 +631,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1560211145102">
+      <file name="/Ruby Console" timestamp="1560213409082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -875,11 +874,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzdW1fY29wYXlfaW5zX2FtdCwgc3VtX2NvaW5zX2FtdAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29sbGVjdCgmOmk=</text>
       </register>
       <register name="-" type="4">
-        <text>idx</text>
+        <text encoding="base64">Y29sbGVjdCgmOmk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
