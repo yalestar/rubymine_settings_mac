@@ -21,10 +21,10 @@
       <file name="$USER_HOME$/Downloads/httparty-master/examples/google.rb" timestamp="1552604469079">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1560455215609">
-        <mark key="[" line="192" column="19" />
-        <mark key="]" line="275" column="30" />
-        <mark key="." line="275" column="30" />
+      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1560456797596">
+        <mark key="[" line="177" column="10" />
+        <mark key="]" line="177" column="10" />
+        <mark key="." line="177" column="10" />
         <mark key="^" line="275" column="30" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
@@ -332,7 +332,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1560455121720">
+      <file name="/fragment.rb" timestamp="1560456101701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -640,7 +640,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1560455150879">
+      <file name="/Ruby Console" timestamp="1560456435005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -884,10 +884,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>suffix_i</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>suffix_i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
