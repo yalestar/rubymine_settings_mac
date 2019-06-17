@@ -7432,6 +7432,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.4.1/data" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width (v1.5.0, rbenv: 2.3.8) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.5.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.5.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="unicode_utils (v1.4.0, rbenv: 2.3.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicode_utils-1.4.0/lib" />
