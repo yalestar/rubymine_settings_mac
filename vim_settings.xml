@@ -440,6 +440,9 @@
         <mark key="]" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/opportunerator/db_connection.rb" timestamp="1560812039552">
+        <mark key="[" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/users_controller.rb" timestamp="1485992345799">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -507,6 +510,9 @@
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/opportunerator/campaign_opportunities.rb" timestamp="1560811977380">
+        <mark key="[" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/dev/paladin/spec/services/idp_interpreters/regence_idp_interpreter_spec.rb" timestamp="1513273152327">
         <mark key="[" line="18" column="7" />
