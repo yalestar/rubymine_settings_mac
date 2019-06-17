@@ -21,11 +21,12 @@
       <file name="$USER_HOME$/Downloads/httparty-master/examples/google.rb" timestamp="1552604469079">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1560804326623">
-        <mark key="e" line="184" column="0" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
+      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/genopp_pg.rb" timestamp="1560806240453">
+        <mark key="e" line="192" column="0" />
+        <mark key="[" line="235" column="48" />
+        <mark key="]" line="193" column="275" />
+        <mark key="." line="193" column="275" />
+        <mark key="^" line="193" column="275" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/dio/app/controllers/application_controller.rb" timestamp="1485992354179">
         <mark key="[" line="1" column="0" />
@@ -124,7 +125,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/crossserve_opportunity_savings.rb" timestamp="1560803466099" />
+      <file name="$USER_HOME$/dev/analytics/scripts/opportunities/crossserve_opportunity_savings.rb" timestamp="1560806516970">
+        <mark key="[" line="121" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/paladin/app/views/admin/treatments/new.html.haml" timestamp="1495383963861">
         <mark key="[" line="3" column="22" />
       </file>
@@ -333,7 +336,7 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/fragment.rb" timestamp="1560803392231">
+      <file name="/fragment.rb" timestamp="1560804864855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -641,7 +644,7 @@
       <file name="$USER_HOME$/dev/paladin/app/controllers/home_controller.rb" timestamp="1498090088672">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="/Ruby Console" timestamp="1560804331503">
+      <file name="/Ruby Console" timestamp="1560804915974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/paladin/lib/tasks/rx_norm_downloader_full_task.rake" timestamp="1482343395377">
@@ -884,11 +887,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/paladin/app/models/search_log.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBtZW1iZXJfaWRzID0gWycxNjAxMDEwNTAnLCAnMTIwMjA4MjkxJywgJzk4NDg5ODgwMScsICcxNDAyMzE3MjgnLCAnMTgwMTEyNzI4JywgJzE0MDE4NDQwMicsCiMgICAgICAgICAgICAgICAnMTQwMjMyMjUzJywgJzE2MDA5NTAyNycsICc5ODI3MDQ4MzInLCAnMTUwMDc4NTI5JywgJzE2MDE5MDUwNScsICcxNDAyMzI1NTYnLAojICAgICAgICAgICAgICAgJzE1MDE5MTcwMCcsICcxNjAxODYwOTQnLCAnMTYwMTUwNjkwJywgJzE3MDE1NjAyOCcsICcxNDAxMTA0NzUnLCAnOTIwMzg4MzcwJywKIyAgICAgICAgICAgICAgICcxNzAwNDc4OTYnXQptZW1iZXJfaWRzID0gWycxODAxMTI3MjgnLCAnMTYwMTg2MDk0J10K</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
