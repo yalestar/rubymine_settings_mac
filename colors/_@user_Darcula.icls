@@ -1,0 +1,37 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-05-11T15:39:32</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2021.1.1.0.0</property>
+    <property name="modified">2021-05-11T16:01:00</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="41403c" />
+        <option name="BACKGROUND" value="3a2323" />
+        <option name="ERROR_STRIPE_COLOR" value="664233" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="413c3e" />
+        <option name="BACKGROUND" value="1498ef" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="90908" />
+        <option name="BACKGROUND" value="998b2d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
